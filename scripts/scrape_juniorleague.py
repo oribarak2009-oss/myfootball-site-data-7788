@@ -11,13 +11,8 @@ LEAGUES = [
   {"key": "kids_b_central_25_26", "matches_url": "https://junior-league-api-server-928016183646.us-central1.run.app/api/public/leagues/%D7%9C%D7%99%D7%92%D7%AA%20%D7%99%D7%9C%D7%93%D7%99%D7%9D%20%D7%91'%20%D7%9E%D7%A8%D7%9B%D7%96/matches"},
   {"key": "kids_a_central_25_26", "matches_url": "https://junior-league-api-server-928016183646.us-central1.run.app/api/public/leagues/%D7%9C%D7%99%D7%92%D7%AA%20%D7%99%D7%9C%D7%93%D7%99%D7%9D%20%D7%90'%20%D7%9E%D7%A8%D7%9B%D7%96/matches"},
   {"key": "kids_a_sharon_25_26",  "matches_url": "https://junior-league-api-server-928016183646.us-central1.run.app/api/public/leagues/%D7%9C%D7%99%D7%92%D7%AA%20%D7%99%D7%9C%D7%93%D7%99%D7%9D%20%D7%90'%20%D7%A9%D7%A8%D7%95%D7%9F/matches"},
-{"key": "kids_c_central_25_26", "matches_url": "https://junior-league-api-server-928016183646.us-central1.run.app/api/public/leagues/%D7%9C%D7%99%D7%92%D7%AA%20%D7%99%D7%9C%D7%93%D7%99%D7%9D%20%D7%92'%20%D7%9E%D7%A8%D7%9B%D7%96/matches"},
-{"key": "kids_c_sharon_25_26",  "matches_url": "https://junior-league-api-server-928016183646.us-central1.run.app/api/public/leagues/%D7%9C%D7%99%D7%92%D7%AA%20%D7%99%D7%9C%D7%93%D7%99%D7%9D%20%D7%92'%20%D7%A9%D7%A8%D7%95%D7%9F/matches"},
-    
-
-  # ילדים ג' חסר לך לינק (עוד לא שלחת). אם יש לך – תוסיף פה.
-  # {"key": "kids_c_central_25_26", "matches_url": "..."},
-  # {"key": "kids_c_sharon_25_26",  "matches_url": "..."},
+  {"key": "kids_c_central_25_26", "matches_url": "https://junior-league-api-server-928016183646.us-central1.run.app/api/public/leagues/%D7%9C%D7%99%D7%92%D7%AA%20%D7%99%D7%9C%D7%93%D7%99%D7%9D%20%D7%92'%20%D7%9E%D7%A8%D7%9B%D7%96/matches"},
+  {"key": "kids_c_sharon_25_26",  "matches_url": "https://junior-league-api-server-928016183646.us-central1.run.app/api/public/leagues/%D7%9C%D7%99%D7%92%D7%AA%20%D7%99%D7%9C%D7%93%D7%99%D7%9D%20%D7%92'%20%D7%A9%D7%A8%D7%95%D7%9F/matches"},
 
   {"key": "na_arim_c_premier_25_26", "matches_url": "https://junior-league-api-server-928016183646.us-central1.run.app/api/public/leagues/%D7%A0%D7%A2%D7%A8%D7%99%D7%9D%20%D7%92'%20%D7%A2%D7%9C/matches"},
   {"key": "na_arim_b_premier_25_26", "matches_url": "https://junior-league-api-server-928016183646.us-central1.run.app/api/public/leagues/%D7%9C%D7%99%D7%92%D7%AA%20%D7%A0%D7%A2%D7%A8%D7%99%D7%9D%20%D7%91'%20%D7%A2%D7%9C/matches"},
@@ -92,9 +87,16 @@ def team_name(m: dict, side: str):
 
 def build_standings(matches: list[dict]) -> dict:
     table = {}
+
     def ensure(team: str):
         if team not in table:
-            table[team] = {"Team": team, "Pld": 0, "W": 0, "D": 0, "L": 0, "GF": 0, "GA": 0, "GD": 0, "Pts": 0}
+            table[team] = {
+                "Pos": 0,
+                "Team": team,
+                "Pld": 0, "W": 0, "D": 0, "L": 0,
+                "GF": 0, "GA": 0, "GD": 0,
+                "Pts": 0
+            }
 
     for m in matches:
         home = team_name(m, "home")
@@ -110,27 +112,40 @@ def build_standings(matches: list[dict]) -> dict:
 
         table[home]["Pld"] += 1
         table[away]["Pld"] += 1
+
         table[home]["GF"] += hg
         table[home]["GA"] += ag
         table[away]["GF"] += ag
         table[away]["GA"] += hg
 
         if hg > ag:
-            table[home]["W"] += 1; table[away]["L"] += 1
+            table[home]["W"] += 1
+            table[away]["L"] += 1
             table[home]["Pts"] += 3
         elif hg < ag:
-            table[away]["W"] += 1; table[home]["L"] += 1
+            table[away]["W"] += 1
+            table[home]["L"] += 1
             table[away]["Pts"] += 3
         else:
-            table[home]["D"] += 1; table[away]["D"] += 1
-            table[home]["Pts"] += 1; table[away]["Pts"] += 1
+            table[home]["D"] += 1
+            table[away]["D"] += 1
+            table[home]["Pts"] += 1
+            table[away]["Pts"] += 1
 
     rows = list(table.values())
     for r in rows:
         r["GD"] = r["GF"] - r["GA"]
+
     rows.sort(key=lambda r: (r["Pts"], r["GD"], r["GF"]), reverse=True)
 
-    return {"columns": ["Team", "Pld", "W", "D", "L", "GF", "GA", "GD", "Pts"], "rows": rows}
+    # ✅ מיקום
+    for i, r in enumerate(rows, start=1):
+        r["Pos"] = i
+
+    return {
+        "columns": ["Pos", "Team", "Pld", "W", "D", "L", "GF", "GA", "GD", "Pts"],
+        "rows": rows
+    }
 
 def main():
     ensure_dirs()
@@ -144,7 +159,6 @@ def main():
             data = fetch_json(url)
             matches = data.get("matches") or []
 
-            # results
             results_payload = {"key": key, "type": "results", "source": url, "data": data}
             rh = stable_hash(results_payload)
             if rh != load_prev_hash(key, "results"):
@@ -152,7 +166,6 @@ def main():
                 save_hash(key, "results", rh)
                 manifest["updated"].append({"key": key, "type": "results"})
 
-            # standings
             standings_obj = build_standings(matches)
             standings_payload = {"key": key, "type": "standings", "source": url, **standings_obj}
             sh = stable_hash(standings_payload)

@@ -5,10 +5,12 @@ import pandas as pd
 import requests
 
 HEADERS = {
-  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0 Safari/537.36",
-  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
-  "Accept-Language": "he-IL,he;q=0.9,en-US;q=0.8,en;q=0.7",
-  "Connection": "keep-alive",
+  "User-Agent": "...",
+  ...
+}
+
+TIMEOUT = 25
+SLEEP_BETWEEN_PAGES_SEC = 2
 }
 
 LEAGUES = [

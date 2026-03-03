@@ -53,23 +53,15 @@ def df_to_records(df: pd.DataFrame) -> dict:
     return {"columns": list(df.columns), "rows": df.to_dict(orient="records")}
 
 
+# ✅ התיקון: תמיד ראשון=Standings, שני=Results
 def split_standings_and_results(tables: list[pd.DataFrame]):
     standings = None
     results = None
 
-    for df in tables:
-        cols = " ".join([str(c) for c in df.columns])
-        if standings is None and any(k in cols for k in ["נק", "הפרש", "נצ", "תיק", "הפס", "שער"]):
-            standings = df_to_records(df)
-            continue
-        if results is None and any(k in cols for k in ["מח", "תאריך", "משחק", "תוצאה"]):
-            results = df_to_records(df)
-            continue
-
-    # fallback: ראשון=טבלה, שני=תוצאות
-    if standings is None and len(tables) >= 1:
+    if len(tables) >= 1:
         standings = df_to_records(tables[0])
-    if results is None and len(tables) >= 2:
+
+    if len(tables) >= 2:
         results = df_to_records(tables[1])
 
     return standings, results
@@ -95,7 +87,6 @@ def save_json(path: str, obj):
 
 
 def try_read_html_tables(html: str) -> list[pd.DataFrame]:
-    # חשוב: StringIO כדי ש-pandas לא יחשוב שזה "נתיב קובץ"
     return pd.read_html(StringIO(html))
 
 
@@ -116,16 +107,10 @@ def main():
             try:
                 tables = try_read_html_tables(html)
             except ValueError:
-                # אין בכלל <table> בעמוד
                 tables = []
 
-            standings = None
-            results = None
-
-            if tables:
-                standings, results = split_standings_and_results(tables)
-            else:
-                # גיבוי: שומר “raw text” כדי שתראה שיש תוכן אבל אין טבלאות
+            if not tables:
+                # אין טבלאות: שומר RAW כדי שתדע שהעמוד נטען אבל בלי <table>
                 soup = BeautifulSoup(html, "html.parser")
                 text = " ".join(soup.get_text(" ").split())
                 payload = {"key": key, "source": url, "type": "raw_text", "text": text[:4000]}
@@ -134,12 +119,15 @@ def main():
                 time.sleep(SLEEP_BETWEEN_PAGES_SEC)
                 continue
 
+            standings, results = split_standings_and_results(tables)
+
             if standings:
                 payload = {"key": key, "source": url, "type": "standings", **standings}
                 h = stable_hash(payload)
                 prev = load_prev_hash(key, "standings")
-                if h != prev:
-                    save_json(os.path.join(OUT_DIR, "standings", f"{key}.json"), payload)
+                out_path = os.path.join(OUT_DIR, "standings", f"{key}.json")
+                if h != prev or not os.path.exists(out_path):
+                    save_json(out_path, payload)
                     save_hash(key, "standings", h)
                     manifest["updated"].append({"key": key, "type": "standings"})
 
@@ -147,13 +135,19 @@ def main():
                 payload = {"key": key, "source": url, "type": "results", **results}
                 h = stable_hash(payload)
                 prev = load_prev_hash(key, "results")
-                if h != prev:
-                    save_json(os.path.join(OUT_DIR, "results", f"{key}.json"), payload)
+                out_path = os.path.join(OUT_DIR, "results", f"{key}.json")
+                if h != prev or not os.path.exists(out_path):
+                    save_json(out_path, payload)
                     save_hash(key, "results", h)
                     manifest["updated"].append({"key": key, "type": "results"})
 
             if not standings and not results:
-                manifest["updated"].append({"key": key, "type": "error", "error": "Parsed 0 tables (no standings/results)."})
+                manifest["updated"].append({
+                    "key": key,
+                    "type": "error",
+                    "error": "Tables exist but could not save standings/results."
+                })
+
         except Exception as e:
             manifest["updated"].append({"key": key, "type": "error", "error": str(e)})
 

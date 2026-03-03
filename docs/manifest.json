@@ -1,20 +1,33 @@
 {
-  "fetched_at_utc": "2026-03-03T12:08:44.677762+00:00",
+  "fetched_at_utc": "2026-03-03T12:22:09.089935+00:00",
   "updated": [
     {
-      "key": "kids_c_sharon_25_26",
-      "type": "error",
-      "error": "No tables found"
+      "key": "kids_a_central_25_26",
+      "type": "raw_text_saved"
     },
     {
-      "key": "kids_b_sharon_25_26",
-      "type": "error",
-      "error": "No tables found"
+      "key": "kids_b_central_25_26",
+      "type": "raw_text_saved"
     },
     {
-      "key": "kids_a_sharon_25_26",
-      "type": "error",
-      "error": "No tables found"
+      "key": "kids_c_central_25_26",
+      "type": "raw_text_saved"
+    },
+    {
+      "key": "youth_premier_25_26",
+      "type": "raw_text_saved"
+    },
+    {
+      "key": "na_arim_a_premier_25_26",
+      "type": "raw_text_saved"
+    },
+    {
+      "key": "na_arim_b_premier_25_26",
+      "type": "raw_text_saved"
+    },
+    {
+      "key": "na_arim_c_premier_25_26",
+      "type": "raw_text_saved"
     }
   ]
 }

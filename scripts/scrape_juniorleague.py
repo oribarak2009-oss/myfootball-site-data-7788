@@ -5,13 +5,14 @@ import pandas as pd
 import requests
 
 HEADERS = {
-  "User-Agent": "...",
-  ...
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0 Safari/537.36",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+    "Accept-Language": "he-IL,he;q=0.9,en-US;q=0.8,en;q=0.7",
+    "Connection": "keep-alive",
 }
 
 TIMEOUT = 25
 SLEEP_BETWEEN_PAGES_SEC = 2
-}
 
 LEAGUES = [
   {"key": "kids_a_central_25_26", "url": "https://www.juniorleague.co.il/%D7%9C%D7%99%D7%92%D7%AA-%D7%99%D7%9C%D7%93%D7%99%D7%9D-%D7%90-%D7%9E%D7%A8%D7%9B%D7%96-25-26/"},
@@ -21,16 +22,6 @@ LEAGUES = [
   {"key": "na_arim_a_premier_25_26", "url": "https://www.juniorleague.co.il/%D7%9C%D7%99%D7%92%D7%AA-%D7%A0%D7%A2%D7%A8%D7%99%D7%9D-%D7%90-%D7%A2%D7%9C-25-26/"},
   {"key": "na_arim_b_premier_25_26", "url": "https://www.juniorleague.co.il/%D7%9C%D7%99%D7%92%D7%AA-%D7%A0%D7%A2%D7%A8%D7%99%D7%9D-%D7%91-%D7%A2%D7%9C-25-26/"},
   {"key": "na_arim_c_premier_25_26", "url": "https://www.juniorleague.co.il/%D7%9C%D7%99%D7%92%D7%AA-%D7%A0%D7%A2%D7%A8%D7%99%D7%9D-%D7%92-%D7%A2%D7%9C-25-26/"},
-  {"key": "kids_c_sharon_25_26", "url": "https://www.juniorleague.co.il/%D7%99%D7%9C%D7%93%D7%99%D7%9D-%D7%92-%D7%A9%D7%A8%D7%95%D7%9F-25-26/"},
-  {"key": "kids_b_sharon_25_26", "url": "https://www.juniorleague.co.il/%D7%9C%D7%99%D7%92%D7%AA-%D7%99%D7%9C%D7%93%D7%99%D7%9D-%D7%91-%D7%A9%D7%A8%D7%95%D7%9F-25-26/"},
-  {"key": "kids_a_sharon_25_26", "url": "https://www.juniorleague.co.il/%D7%9C%D7%99%D7%92%D7%AA-%D7%99%D7%9C%D7%93%D7%99%D7%9D-%D7%90-%D7%A9%D7%A8%D7%95%D7%9F-25-26/"},
-  {"key": "na_arim_g_artzit_darom_25_26", "url": "https://www.juniorleague.co.il/%D7%A0%D7%A2%D7%A8%D7%99%D7%9D-%D7%92-%D7%90%D7%A8%D7%A6%D7%99%D7%AA-%D7%93%D7%A8%D7%95%D7%9D-25-26/"},
-  {"key": "na_arim_b_artzit_darom_25_26", "url": "https://www.juniorleague.co.il/%D7%A0%D7%A2%D7%A8%D7%99%D7%9D-%D7%91-%D7%90%D7%A8%D7%A6%D7%99%D7%AA-%D7%93%D7%A8%D7%95%D7%9D-25-26/"},
-  {"key": "na_arim_b_artzit_tzafon_25_26", "url": "https://www.juniorleague.co.il/%D7%A0%D7%A2%D7%A8%D7%99%D7%9D-%D7%91-%D7%90%D7%A8%D7%A6%D7%99%D7%AA-%D7%A6%D7%A4%D7%95%D7%9F-25-26/"},
-  {"key": "na_arim_a_artzit_darom_25_26", "url": "https://www.juniorleague.co.il/%D7%A0%D7%A2%D7%A8%D7%99%D7%9D-%D7%90-%D7%90%D7%A8%D7%A6%D7%99%D7%AA-%D7%93%D7%A8%D7%95%D7%9D-25-26/"},
-  {"key": "na_arim_a_artzit_tzafon_25_26", "url": "https://www.juniorleague.co.il/%D7%A0%D7%A2%D7%A8%D7%99%D7%9D-%D7%90-%D7%90%D7%A8%D7%A6%D7%99%D7%AA-%D7%A6%D7%A4%D7%95%D7%9F-25-26/"},
-  {"key": "noar_laumit_darom_25_26", "url": "https://www.juniorleague.co.il/%D7%A0%D7%95%D7%A2%D7%A8-%D7%9C%D7%90%D7%95%D7%9E%D7%99%D7%AA-%D7%93%D7%A8%D7%95%D7%9D-25-26/"},
-  {"key": "noar_laumit_tzafon_25_26", "url": "https://www.juniorleague.co.il/%D7%A0%D7%95%D7%A2%D7%A8-%D7%9C%D7%90%D7%95%D7%9E%D7%99%D7%AA-%D7%A6%D7%A4%D7%95%D7%9F-25-26/"},
 ]
 
 OUT_DIR = "docs/data"
@@ -78,17 +69,6 @@ def split_standings_and_results(tables: list[pd.DataFrame]):
 
     return standings, results
 
-def load_prev_hash(key: str, kind: str):
-    p = os.path.join(STATE_DIR, f"{key}.{kind}.sha")
-    if not os.path.exists(p):
-        return None
-    return open(p, "r", encoding="utf-8").read().strip()
-
-def save_hash(key: str, kind: str, h: str):
-    p = os.path.join(STATE_DIR, f"{key}.{kind}.sha")
-    with open(p, "w", encoding="utf-8") as f:
-        f.write(h)
-
 def save_json(path: str, obj):
     os.makedirs(os.path.dirname(path), exist_ok=True)
     with open(path, "w", encoding="utf-8") as f:
@@ -111,21 +91,13 @@ def main():
 
             if standings:
                 payload = {"key": key, "source": url, "type": "standings", **standings}
-                h = stable_hash(payload)
-                prev = load_prev_hash(key, "standings")
-                if h != prev:
-                    save_json(os.path.join(OUT_DIR, "standings", f"{key}.json"), payload)
-                    save_hash(key, "standings", h)
-                    manifest["updated"].append({"key": key, "type": "standings"})
+                save_json(os.path.join(OUT_DIR, "standings", f"{key}.json"), payload)
+                manifest["updated"].append({"key": key, "type": "standings"})
 
             if results:
                 payload = {"key": key, "source": url, "type": "results", **results}
-                h = stable_hash(payload)
-                prev = load_prev_hash(key, "results")
-                if h != prev:
-                    save_json(os.path.join(OUT_DIR, "results", f"{key}.json"), payload)
-                    save_hash(key, "results", h)
-                    manifest["updated"].append({"key": key, "type": "results"})
+                save_json(os.path.join(OUT_DIR, "results", f"{key}.json"), payload)
+                manifest["updated"].append({"key": key, "type": "results"})
 
         except Exception as e:
             manifest["updated"].append({"key": key, "type": "error", "error": str(e)})

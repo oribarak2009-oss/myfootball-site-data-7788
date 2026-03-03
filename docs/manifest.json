@@ -1,33 +1,85 @@
 {
-  "fetched_at_utc": "2026-03-03T12:38:19.034020+00:00",
+  "fetched_at_utc": "2026-03-03T14:18:14.610136+00:00",
   "updated": [
     {
-      "key": "kids_a_central_25_26",
-      "type": "raw_text_saved"
+      "key": "kids_b_sharon_25_26",
+      "type": "results"
+    },
+    {
+      "key": "kids_b_sharon_25_26",
+      "type": "standings"
     },
     {
       "key": "kids_b_central_25_26",
-      "type": "raw_text_saved"
+      "type": "results"
+    },
+    {
+      "key": "kids_b_central_25_26",
+      "type": "standings"
+    },
+    {
+      "key": "kids_a_central_25_26",
+      "type": "results"
+    },
+    {
+      "key": "kids_a_central_25_26",
+      "type": "standings"
+    },
+    {
+      "key": "kids_a_sharon_25_26",
+      "type": "results"
+    },
+    {
+      "key": "kids_a_sharon_25_26",
+      "type": "standings"
     },
     {
       "key": "kids_c_central_25_26",
-      "type": "raw_text_saved"
+      "type": "results"
     },
     {
-      "key": "youth_premier_25_26",
-      "type": "raw_text_saved"
+      "key": "kids_c_central_25_26",
+      "type": "standings"
     },
     {
-      "key": "na_arim_a_premier_25_26",
-      "type": "raw_text_saved"
+      "key": "kids_c_sharon_25_26",
+      "type": "results"
     },
     {
-      "key": "na_arim_b_premier_25_26",
-      "type": "raw_text_saved"
+      "key": "kids_c_sharon_25_26",
+      "type": "standings"
     },
     {
       "key": "na_arim_c_premier_25_26",
-      "type": "raw_text_saved"
+      "type": "results"
+    },
+    {
+      "key": "na_arim_c_premier_25_26",
+      "type": "standings"
+    },
+    {
+      "key": "na_arim_b_premier_25_26",
+      "type": "results"
+    },
+    {
+      "key": "na_arim_b_premier_25_26",
+      "type": "standings"
+    },
+    {
+      "key": "na_arim_a_premier_25_26",
+      "type": "results"
+    },
+    {
+      "key": "na_arim_a_premier_25_26",
+      "type": "standings"
+    },
+    {
+      "key": "youth_premier_25_26",
+      "type": "results"
+    },
+    {
+      "key": "youth_premier_25_26",
+      "type": "standings"
     }
   ]
 }

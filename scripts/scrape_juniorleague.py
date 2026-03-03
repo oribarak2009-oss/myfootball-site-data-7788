@@ -4,28 +4,21 @@ from datetime import datetime, timezone
 import pandas as pd
 import requests
 
-HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0 Safari/537.36",
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
-    "Accept-Language": "he-IL,he;q=0.9,en-US;q=0.8,en;q=0.7",
-    "Connection": "keep-alive",
-}
-
+HEADERS = {"User-Agent": "TopLevelBot/1.0 (+https://github.com/)"}
 TIMEOUT = 25
 SLEEP_BETWEEN_PAGES_SEC = 2
 
 LEAGUES = [
-  {"key": "kids_a_central_25_26", "url": "https://www.juniorleague.co.il/%D7%9C%D7%99%D7%92%D7%AA-%D7%99%D7%9C%D7%93%D7%99%D7%9D-%D7%90-%D7%9E%D7%A8%D7%9B%D7%96-25-26/"},
-  {"key": "kids_b_central_25_26", "url": "https://www.juniorleague.co.il/%D7%9C%D7%99%D7%92%D7%AA-%D7%99%D7%9C%D7%93%D7%99%D7%9D-%D7%91-%D7%9E%D7%A8%D7%9B%D7%96-25-26/"},
-  {"key": "kids_c_central_25_26", "url": "https://www.juniorleague.co.il/%D7%99%D7%9C%D7%93%D7%99%D7%9D-%D7%92-%D7%9E%D7%A8%D7%9B%D7%96-25-26/"},
-  {"key": "youth_premier_25_26",  "url": "https://www.juniorleague.co.il/%D7%9C%D7%99%D7%92%D7%AA-%D7%94%D7%A2%D7%9C-%D7%9C%D7%A0%D7%95%D7%A2%D7%A8-25-26/"},
-  {"key": "na_arim_a_premier_25_26", "url": "https://www.juniorleague.co.il/%D7%9C%D7%99%D7%92%D7%AA-%D7%A0%D7%A2%D7%A8%D7%99%D7%9D-%D7%90-%D7%A2%D7%9C-25-26/"},
-  {"key": "na_arim_b_premier_25_26", "url": "https://www.juniorleague.co.il/%D7%9C%D7%99%D7%92%D7%AA-%D7%A0%D7%A2%D7%A8%D7%99%D7%9D-%D7%91-%D7%A2%D7%9C-25-26/"},
-  {"key": "na_arim_c_premier_25_26", "url": "https://www.juniorleague.co.il/%D7%9C%D7%99%D7%92%D7%AA-%D7%A0%D7%A2%D7%A8%D7%99%D7%9D-%D7%92-%D7%A2%D7%9C-25-26/"},
+  # שים פה רק את הליגות שאתה רוצה (25/26 אצלך)
+  {"key": "kids_c_sharon_25_26", "url": "https://www.juniorleague.co.il/%D7%99%D7%9C%D7%93%D7%99%D7%9D-%D7%92-%D7%A9%D7%A8%D7%95%D7%9F-25-26/"},
+  {"key": "kids_b_sharon_25_26", "url": "https://www.juniorleague.co.il/%D7%9C%D7%99%D7%92%D7%AA-%D7%99%D7%9C%D7%93%D7%99%D7%9D-%D7%91-%D7%A9%D7%A8%D7%95%D7%9F-25-26/"},
+  {"key": "kids_a_sharon_25_26", "url": "https://www.juniorleague.co.il/%D7%9C%D7%99%D7%92%D7%AA-%D7%99%D7%9C%D7%93%D7%99%D7%9D-%D7%90-%D7%A9%D7%A8%D7%95%D7%9F-25-26/"},
+  # אם תרצה להוסיף עוד – תוסיף עוד אובייקט באותו פורמט
 ]
 
 OUT_DIR = "docs/data"
 STATE_DIR = "docs/_state"
+
 
 def stable_hash(obj) -> str:
     s = json.dumps(obj, ensure_ascii=False, sort_keys=True, separators=(",", ":"))
@@ -54,7 +47,7 @@ def split_standings_and_results(tables: list[pd.DataFrame]):
     for df in tables:
         cols = " ".join([str(c) for c in df.columns])
 
-        if standings is None and any(k in cols for k in ["נק", "הפרש", "נצ", "תיק", "הפס", "שער"]):
+        if standings is None and any(k in cols for k in ["נק", "הפרש", "נצ", "תיק", "הפס", "שער", "משחקים"]):
             standings = df_to_records(df)
             continue
 
@@ -69,6 +62,17 @@ def split_standings_and_results(tables: list[pd.DataFrame]):
 
     return standings, results
 
+def load_prev_hash(key: str, kind: str):
+    p = os.path.join(STATE_DIR, f"{key}.{kind}.sha")
+    if not os.path.exists(p):
+        return None
+    return open(p, "r", encoding="utf-8").read().strip()
+
+def save_hash(key: str, kind: str, h: str):
+    p = os.path.join(STATE_DIR, f"{key}.{kind}.sha")
+    with open(p, "w", encoding="utf-8") as f:
+        f.write(h)
+
 def save_json(path: str, obj):
     os.makedirs(os.path.dirname(path), exist_ok=True)
     with open(path, "w", encoding="utf-8") as f:
@@ -79,33 +83,64 @@ def main():
 
     manifest = {
         "fetched_at_utc": datetime.now(timezone.utc).isoformat(),
-        "updated": []
+        "updated": [],
+        "leagues": [l["key"] for l in LEAGUES],
     }
 
     for league in LEAGUES:
         key, url = league["key"], league["url"]
         try:
             html = fetch_html(url)
-            tables = pd.read_html(html)
+
+            try:
+                tables = pd.read_html(html)
+            except ValueError:
+                # אין טבלאות בכלל בדף
+                manifest["updated"].append({
+                    "key": key,
+                    "type": "error",
+                    "error": "No tables found on page (pd.read_html)",
+                    "source": url
+                })
+                time.sleep(SLEEP_BETWEEN_PAGES_SEC)
+                continue
+
             standings, results = split_standings_and_results(tables)
 
             if standings:
                 payload = {"key": key, "source": url, "type": "standings", **standings}
-                save_json(os.path.join(OUT_DIR, "standings", f"{key}.json"), payload)
-                manifest["updated"].append({"key": key, "type": "standings"})
+                h = stable_hash(payload)
+                prev = load_prev_hash(key, "standings")
+                if h != prev:
+                    save_json(os.path.join(OUT_DIR, "standings", f"{key}.json"), payload)
+                    save_hash(key, "standings", h)
+                    manifest["updated"].append({"key": key, "type": "standings"})
 
             if results:
                 payload = {"key": key, "source": url, "type": "results", **results}
-                save_json(os.path.join(OUT_DIR, "results", f"{key}.json"), payload)
-                manifest["updated"].append({"key": key, "type": "results"})
+                h = stable_hash(payload)
+                prev = load_prev_hash(key, "results")
+                if h != prev:
+                    save_json(os.path.join(OUT_DIR, "results", f"{key}.json"), payload)
+                    save_hash(key, "results", h)
+                    manifest["updated"].append({"key": key, "type": "results"})
+
+            if not standings and not results:
+                manifest["updated"].append({
+                    "key": key,
+                    "type": "error",
+                    "error": "Tables exist but could not classify standings/results",
+                    "source": url
+                })
 
         except Exception as e:
-            manifest["updated"].append({"key": key, "type": "error", "error": str(e)})
+            manifest["updated"].append({"key": key, "type": "error", "error": str(e), "source": url})
 
         time.sleep(SLEEP_BETWEEN_PAGES_SEC)
 
     save_json("docs/manifest.json", manifest)
     print("Done:", manifest["updated"])
+
 
 if __name__ == "__main__":
     main()

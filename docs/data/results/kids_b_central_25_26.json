@@ -155,19 +155,6 @@
         "round": 2
       },
       {
-        "id": "s27-l165-r2-2866-vs-5233",
-        "homeTeamId": "5233",
-        "awayTeamId": "2866",
-        "homeTeam": "ס. נס ציונה",
-        "awayTeam": "הפועל רעננה",
-        "homeScore": 3,
-        "awayScore": 2,
-        "dateTime": "2025-10-04T06:00:00.000Z",
-        "hasTime": true,
-        "venue": "נס ציונה אימונים סינטטי חדש",
-        "round": 2
-      },
-      {
         "id": "s27-l165-r2-1034-vs-1850",
         "homeTeamId": "1850",
         "awayTeamId": "1034",
@@ -178,6 +165,19 @@
         "dateTime": "2025-10-04T06:00:00.000Z",
         "hasTime": true,
         "venue": "חיפה קצף סינטטי",
+        "round": 2
+      },
+      {
+        "id": "s27-l165-r2-2866-vs-5233",
+        "homeTeamId": "5233",
+        "awayTeamId": "2866",
+        "homeTeam": "ס. נס ציונה",
+        "awayTeam": "הפועל רעננה",
+        "homeScore": 3,
+        "awayScore": 2,
+        "dateTime": "2025-10-04T06:00:00.000Z",
+        "hasTime": true,
+        "venue": "נס ציונה אימונים סינטטי חדש",
         "round": 2
       },
       {
@@ -337,19 +337,6 @@
         "round": 3
       },
       {
-        "id": "s27-l165-r3-2866-vs-6248",
-        "homeTeamId": "2866",
-        "awayTeamId": "6248",
-        "homeTeam": "הפועל רעננה",
-        "awayTeam": "הפועל ב\"ש",
-        "homeScore": 2,
-        "awayScore": 2,
-        "dateTime": "2025-10-11T09:30:00.000Z",
-        "hasTime": true,
-        "venue": "רעננה פארק דרומי",
-        "round": 3
-      },
-      {
         "id": "s27-l165-r3-1034-vs-2254",
         "homeTeamId": "1034",
         "awayTeamId": "2254",
@@ -360,6 +347,19 @@
         "dateTime": "2025-10-11T09:30:00.000Z",
         "hasTime": true,
         "venue": "תל אביב קרית שלום סינטטי",
+        "round": 3
+      },
+      {
+        "id": "s27-l165-r3-2866-vs-6248",
+        "homeTeamId": "2866",
+        "awayTeamId": "6248",
+        "homeTeam": "הפועל רעננה",
+        "awayTeam": "הפועל ב\"ש",
+        "homeScore": 2,
+        "awayScore": 2,
+        "dateTime": "2025-10-11T09:30:00.000Z",
+        "hasTime": true,
+        "venue": "רעננה פארק דרומי",
         "round": 3
       },
       {

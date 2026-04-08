@@ -1683,19 +1683,6 @@
         "round": 14
       },
       {
-        "id": "s27-l773-r15-1052-vs-2717",
-        "homeTeamId": "2717",
-        "awayTeamId": "1052",
-        "homeTeam": "הפועל רעננה",
-        "awayTeam": "מכבי פ\"ת",
-        "homeScore": 1,
-        "awayScore": 0,
-        "dateTime": "2025-12-20T07:00:00.000Z",
-        "hasTime": true,
-        "venue": "רעננה פארק צפוני סינטטי",
-        "round": 15
-      },
-      {
         "id": "s27-l773-r15-1607-vs-4425",
         "homeTeamId": "1607",
         "awayTeamId": "4425",
@@ -1706,6 +1693,19 @@
         "dateTime": "2025-12-20T07:00:00.000Z",
         "hasTime": true,
         "venue": "תל אביב קרית שלום סינטטי",
+        "round": 15
+      },
+      {
+        "id": "s27-l773-r15-1052-vs-2717",
+        "homeTeamId": "2717",
+        "awayTeamId": "1052",
+        "homeTeam": "הפועל רעננה",
+        "awayTeam": "מכבי פ\"ת",
+        "homeScore": 1,
+        "awayScore": 0,
+        "dateTime": "2025-12-20T07:00:00.000Z",
+        "hasTime": true,
+        "venue": "רעננה פארק צפוני סינטטי",
         "round": 15
       },
       {
@@ -2593,19 +2593,6 @@
         "round": 23
       },
       {
-        "id": "s27-l773-r22-1607-vs-2227",
-        "homeTeamId": "2227",
-        "awayTeamId": "1607",
-        "homeTeam": "הפועל ת\"א",
-        "awayTeam": "מכבי ת\"א",
-        "homeScore": 6,
-        "awayScore": 1,
-        "dateTime": "2026-02-14T08:00:00.000Z",
-        "hasTime": true,
-        "venue": "תל אביב וולפסון 2",
-        "round": 22
-      },
-      {
         "id": "s27-l773-r22-2365-vs-2717",
         "homeTeamId": "2365",
         "awayTeamId": "2717",
@@ -2616,6 +2603,19 @@
         "dateTime": "2026-02-14T08:00:00.000Z",
         "hasTime": true,
         "venue": "פתח תקוה סירקין אימונים 2 (סינטטי)",
+        "round": 22
+      },
+      {
+        "id": "s27-l773-r22-1607-vs-2227",
+        "homeTeamId": "2227",
+        "awayTeamId": "1607",
+        "homeTeam": "הפועל ת\"א",
+        "awayTeam": "מכבי ת\"א",
+        "homeScore": 6,
+        "awayScore": 1,
+        "dateTime": "2026-02-14T08:00:00.000Z",
+        "hasTime": true,
+        "venue": "תל אביב וולפסון 2",
         "round": 22
       },
       {

@@ -6,7 +6,7 @@
     "league": {
       "name": "ליגת ילדים ב' מרכז",
       "ageGroupName": "ילדים ב",
-      "showSuccessPercentage": false,
+      "showSuccessPercentage": true,
       "pointsAdjustments": [],
       "playoffs": []
     },

@@ -3009,11 +3009,11 @@
         "round": 26
       },
       {
-        "id": "s27-l726-r26-1200-vs-4020",
-        "homeTeamId": "4020",
-        "awayTeamId": "1200",
-        "homeTeam": "בני סכנין",
-        "awayTeam": "מ.ס אשדוד",
+        "id": "s27-l726-r26-2068-vs-2316",
+        "homeTeamId": "2068",
+        "awayTeamId": "2316",
+        "homeTeam": "הפועל ק\"ש",
+        "awayTeam": "הפועל חדרה",
         "homeScore": null,
         "awayScore": null,
         "dateTime": "2026-03-17T10:00:00.000Z",
@@ -3022,11 +3022,11 @@
         "round": 26
       },
       {
-        "id": "s27-l726-r26-2068-vs-2316",
-        "homeTeamId": "2068",
-        "awayTeamId": "2316",
-        "homeTeam": "הפועל ק\"ש",
-        "awayTeam": "הפועל חדרה",
+        "id": "s27-l726-r26-1200-vs-4020",
+        "homeTeamId": "4020",
+        "awayTeamId": "1200",
+        "homeTeam": "בני סכנין",
+        "awayTeam": "מ.ס אשדוד",
         "homeScore": null,
         "awayScore": null,
         "dateTime": "2026-03-17T10:00:00.000Z",

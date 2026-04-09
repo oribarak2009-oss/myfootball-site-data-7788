@@ -45,19 +45,6 @@
     },
     "matches": [
       {
-        "id": "s27-l824-r1-2307-vs-2497",
-        "homeTeamId": "2307",
-        "awayTeamId": "2497",
-        "homeTeam": "הפועל רעננה",
-        "awayTeam": "הפועל כפ\"ס",
-        "homeScore": 1,
-        "awayScore": 1,
-        "dateTime": "2025-08-23T05:30:00.000Z",
-        "hasTime": true,
-        "venue": "רעננה פארק צפוני סינטטי",
-        "round": 1
-      },
-      {
         "id": "s27-l824-r1-2204-vs-2305",
         "homeTeamId": "2204",
         "awayTeamId": "2305",
@@ -68,6 +55,19 @@
         "dateTime": "2025-08-23T05:30:00.000Z",
         "hasTime": true,
         "venue": "תל אביב וולפסון 2",
+        "round": 1
+      },
+      {
+        "id": "s27-l824-r1-2307-vs-2497",
+        "homeTeamId": "2307",
+        "awayTeamId": "2497",
+        "homeTeam": "הפועל רעננה",
+        "awayTeam": "הפועל כפ\"ס",
+        "homeScore": 1,
+        "awayScore": 1,
+        "dateTime": "2025-08-23T05:30:00.000Z",
+        "hasTime": true,
+        "venue": "רעננה פארק צפוני סינטטי",
         "round": 1
       },
       {
@@ -1007,19 +1007,6 @@
         "round": 9
       },
       {
-        "id": "s27-l824-r9-2204-vs-2307",
-        "homeTeamId": "2204",
-        "awayTeamId": "2307",
-        "homeTeam": "הפועל ת\"א",
-        "awayTeam": "הפועל רעננה",
-        "homeScore": 1,
-        "awayScore": 1,
-        "dateTime": "2025-10-18T07:30:00.000Z",
-        "hasTime": true,
-        "venue": "תל אביב וולפסון 2",
-        "round": 9
-      },
-      {
         "id": "s27-l824-r9-2497-vs-5389",
         "homeTeamId": "5389",
         "awayTeamId": "2497",
@@ -1030,6 +1017,19 @@
         "dateTime": "2025-10-18T07:30:00.000Z",
         "hasTime": true,
         "venue": "סכנין אימונים סינטטי",
+        "round": 9
+      },
+      {
+        "id": "s27-l824-r9-2204-vs-2307",
+        "homeTeamId": "2204",
+        "awayTeamId": "2307",
+        "homeTeam": "הפועל ת\"א",
+        "awayTeam": "הפועל רעננה",
+        "homeScore": 1,
+        "awayScore": 1,
+        "dateTime": "2025-10-18T07:30:00.000Z",
+        "hasTime": true,
+        "venue": "תל אביב וולפסון 2",
         "round": 9
       },
       {

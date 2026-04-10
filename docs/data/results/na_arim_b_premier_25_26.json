@@ -188,19 +188,6 @@
         "round": 2
       },
       {
-        "id": "s27-l773-r2-1202-vs-2845",
-        "homeTeamId": "1202",
-        "awayTeamId": "2845",
-        "homeTeam": "מ.ס אשדוד",
-        "awayTeam": "הפ' ראשל\"צ",
-        "homeScore": 1,
-        "awayScore": 2,
-        "dateTime": "2025-08-30T14:00:00.000Z",
-        "hasTime": true,
-        "venue": "אשדוד סינטטי",
-        "round": 2
-      },
-      {
         "id": "s27-l773-r2-1607-vs-2227",
         "homeTeamId": "1607",
         "awayTeamId": "2227",
@@ -211,6 +198,19 @@
         "dateTime": "2025-08-30T14:00:00.000Z",
         "hasTime": true,
         "venue": "תל אביב קרית שלום 1",
+        "round": 2
+      },
+      {
+        "id": "s27-l773-r2-1202-vs-2845",
+        "homeTeamId": "1202",
+        "awayTeamId": "2845",
+        "homeTeam": "מ.ס אשדוד",
+        "awayTeam": "הפ' ראשל\"צ",
+        "homeScore": 1,
+        "awayScore": 2,
+        "dateTime": "2025-08-30T14:00:00.000Z",
+        "hasTime": true,
+        "venue": "אשדוד סינטטי",
         "round": 2
       },
       {
@@ -448,19 +448,6 @@
         "round": 4
       },
       {
-        "id": "s27-l773-r4-1202-vs-1432",
-        "homeTeamId": "1432",
-        "awayTeamId": "1202",
-        "homeTeam": "מכבי חיפה",
-        "awayTeam": "מ.ס אשדוד",
-        "homeScore": 3,
-        "awayScore": 1,
-        "dateTime": "2025-09-13T08:00:00.000Z",
-        "hasTime": true,
-        "venue": "חיפה קצף תחתון",
-        "round": 4
-      },
-      {
         "id": "s27-l773-r4-2085-vs-2717",
         "homeTeamId": "2717",
         "awayTeamId": "2085",
@@ -471,6 +458,19 @@
         "dateTime": "2025-09-13T08:00:00.000Z",
         "hasTime": true,
         "venue": "רעננה פארק צפוני סינטטי",
+        "round": 4
+      },
+      {
+        "id": "s27-l773-r4-1202-vs-1432",
+        "homeTeamId": "1432",
+        "awayTeamId": "1202",
+        "homeTeam": "מכבי חיפה",
+        "awayTeam": "מ.ס אשדוד",
+        "homeScore": 3,
+        "awayScore": 1,
+        "dateTime": "2025-09-13T08:00:00.000Z",
+        "hasTime": true,
+        "venue": "חיפה קצף תחתון",
         "round": 4
       },
       {
@@ -1150,19 +1150,6 @@
         "round": 10
       },
       {
-        "id": "s27-l773-r10-2717-vs-6655",
-        "homeTeamId": "2717",
-        "awayTeamId": "6655",
-        "homeTeam": "הפועל רעננה",
-        "awayTeam": "הפ' ירושלים",
-        "homeScore": 4,
-        "awayScore": 1,
-        "dateTime": "2025-10-28T16:30:00.000Z",
-        "hasTime": true,
-        "venue": "רעננה פארק צפוני סינטטי",
-        "round": 10
-      },
-      {
         "id": "s27-l773-r10-1052-vs-2365",
         "homeTeamId": "1052",
         "awayTeamId": "2365",
@@ -1173,6 +1160,19 @@
         "dateTime": "2025-10-28T16:30:00.000Z",
         "hasTime": true,
         "venue": "פתח תקוה מכבי סינטטי",
+        "round": 10
+      },
+      {
+        "id": "s27-l773-r10-2717-vs-6655",
+        "homeTeamId": "2717",
+        "awayTeamId": "6655",
+        "homeTeam": "הפועל רעננה",
+        "awayTeam": "הפ' ירושלים",
+        "homeScore": 4,
+        "awayScore": 1,
+        "dateTime": "2025-10-28T16:30:00.000Z",
+        "hasTime": true,
+        "venue": "רעננה פארק צפוני סינטטי",
         "round": 10
       },
       {

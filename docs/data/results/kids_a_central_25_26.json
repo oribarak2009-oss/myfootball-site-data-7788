@@ -1572,19 +1572,6 @@
         "round": 13
       },
       {
-        "id": "s27-l156-r13-1168-vs-1896",
-        "homeTeamId": "1896",
-        "awayTeamId": "1168",
-        "homeTeam": "ירמיהו חולון",
-        "awayTeam": "מ.חיפה מיכאל",
-        "homeScore": 0,
-        "awayScore": 10,
-        "dateTime": "2026-01-17T08:30:00.000Z",
-        "hasTime": true,
-        "venue": "חולון אימונים סינטטי ליד בית העלמין",
-        "round": 13
-      },
-      {
         "id": "s27-l156-r13-2392-vs-2796",
         "homeTeamId": "2796",
         "awayTeamId": "2392",
@@ -1595,6 +1582,19 @@
         "dateTime": "2026-01-17T08:30:00.000Z",
         "hasTime": true,
         "venue": "פתח תקוה מושבה דרומי",
+        "round": 13
+      },
+      {
+        "id": "s27-l156-r13-1168-vs-1896",
+        "homeTeamId": "1896",
+        "awayTeamId": "1168",
+        "homeTeam": "ירמיהו חולון",
+        "awayTeam": "מ.חיפה מיכאל",
+        "homeScore": 0,
+        "awayScore": 10,
+        "dateTime": "2026-01-17T08:30:00.000Z",
+        "hasTime": true,
+        "venue": "חולון אימונים סינטטי ליד בית העלמין",
         "round": 13
       },
       {

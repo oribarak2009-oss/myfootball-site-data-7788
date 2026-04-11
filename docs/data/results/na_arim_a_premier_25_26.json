@@ -409,19 +409,6 @@
         "round": 4
       },
       {
-        "id": "s27-l726-r4-1593-vs-2234",
-        "homeTeamId": "2234",
-        "awayTeamId": "1593",
-        "homeTeam": "הפועל רעננה",
-        "awayTeam": "מכבי ת\"א",
-        "homeScore": 1,
-        "awayScore": 5,
-        "dateTime": "2025-09-20T06:00:00.000Z",
-        "hasTime": true,
-        "venue": "רעננה פארק צפוני סינטטי",
-        "round": 4
-      },
-      {
         "id": "s27-l726-r4-1598-vs-2303",
         "homeTeamId": "2303",
         "awayTeamId": "1598",
@@ -435,16 +422,16 @@
         "round": 4
       },
       {
-        "id": "s27-l726-r4-4020-vs-4698",
-        "homeTeamId": "4698",
-        "awayTeamId": "4020",
-        "homeTeam": "בני יהודה",
-        "awayTeam": "בני סכנין",
-        "homeScore": 2,
-        "awayScore": 1,
-        "dateTime": "2025-09-20T08:00:00.000Z",
+        "id": "s27-l726-r4-1593-vs-2234",
+        "homeTeamId": "2234",
+        "awayTeamId": "1593",
+        "homeTeam": "הפועל רעננה",
+        "awayTeam": "מכבי ת\"א",
+        "homeScore": 1,
+        "awayScore": 5,
+        "dateTime": "2025-09-20T06:00:00.000Z",
         "hasTime": true,
-        "venue": "תל אביב שכונת התקוה סינטטי 2",
+        "venue": "רעננה פארק צפוני סינטטי",
         "round": 4
       },
       {
@@ -458,6 +445,19 @@
         "dateTime": "2025-09-20T08:00:00.000Z",
         "hasTime": true,
         "venue": "כפר סבא אימונים תחתון (סינטטי)",
+        "round": 4
+      },
+      {
+        "id": "s27-l726-r4-4020-vs-4698",
+        "homeTeamId": "4698",
+        "awayTeamId": "4020",
+        "homeTeam": "בני יהודה",
+        "awayTeam": "בני סכנין",
+        "homeScore": 2,
+        "awayScore": 1,
+        "dateTime": "2025-09-20T08:00:00.000Z",
+        "hasTime": true,
+        "venue": "תל אביב שכונת התקוה סינטטי 2",
         "round": 4
       },
       {
@@ -708,19 +708,6 @@
         "round": 6
       },
       {
-        "id": "s27-l726-r6-3601-vs-4020",
-        "homeTeamId": "3601",
-        "awayTeamId": "4020",
-        "homeTeam": "בית\"ר י-ם",
-        "awayTeam": "בני סכנין",
-        "homeScore": 0,
-        "awayScore": 0,
-        "dateTime": "2025-09-30T17:00:00.000Z",
-        "hasTime": true,
-        "venue": "ירושלים בית וגן 1 תחתון",
-        "round": 6
-      },
-      {
         "id": "s27-l726-r6-1593-vs-2358",
         "homeTeamId": "2358",
         "awayTeamId": "1593",
@@ -731,6 +718,19 @@
         "dateTime": "2025-09-30T17:00:00.000Z",
         "hasTime": true,
         "venue": "פתח תקוה סירקין אימונים 2 (סינטטי)",
+        "round": 6
+      },
+      {
+        "id": "s27-l726-r6-3601-vs-4020",
+        "homeTeamId": "3601",
+        "awayTeamId": "4020",
+        "homeTeam": "בית\"ר י-ם",
+        "awayTeam": "בני סכנין",
+        "homeScore": 0,
+        "awayScore": 0,
+        "dateTime": "2025-09-30T17:00:00.000Z",
+        "hasTime": true,
+        "venue": "ירושלים בית וגן 1 תחתון",
         "round": 6
       },
       {
@@ -981,19 +981,6 @@
         "round": 9
       },
       {
-        "id": "s27-l726-r9-1598-vs-6027",
-        "homeTeamId": "1598",
-        "awayTeamId": "6027",
-        "homeTeam": "מכבי פ\"ת",
-        "awayTeam": "הפועל י-ם",
-        "homeScore": 2,
-        "awayScore": 3,
-        "dateTime": "2025-11-01T08:45:00.000Z",
-        "hasTime": true,
-        "venue": "פתח תקוה מכבי סינטטי",
-        "round": 9
-      },
-      {
         "id": "s27-l726-r9-2303-vs-4698",
         "homeTeamId": "4698",
         "awayTeamId": "2303",
@@ -1004,6 +991,19 @@
         "dateTime": "2025-11-01T08:45:00.000Z",
         "hasTime": true,
         "venue": "תל אביב שכונת התקוה סינטטי 2",
+        "round": 9
+      },
+      {
+        "id": "s27-l726-r9-1598-vs-6027",
+        "homeTeamId": "1598",
+        "awayTeamId": "6027",
+        "homeTeam": "מכבי פ\"ת",
+        "awayTeam": "הפועל י-ם",
+        "homeScore": 2,
+        "awayScore": 3,
+        "dateTime": "2025-11-01T08:45:00.000Z",
+        "hasTime": true,
+        "venue": "פתח תקוה מכבי סינטטי",
         "round": 9
       },
       {
@@ -1540,19 +1540,6 @@
         "round": 13
       },
       {
-        "id": "s27-l726-r14-2234-vs-2303",
-        "homeTeamId": "2234",
-        "awayTeamId": "2303",
-        "homeTeam": "הפועל רעננה",
-        "awayTeam": "הפועל ת\"א",
-        "homeScore": 0,
-        "awayScore": 3,
-        "dateTime": "2025-12-20T09:30:00.000Z",
-        "hasTime": true,
-        "venue": "רעננה פארק צפוני סינטטי",
-        "round": 14
-      },
-      {
         "id": "s27-l726-r14-1593-vs-2294",
         "homeTeamId": "1593",
         "awayTeamId": "2294",
@@ -1563,6 +1550,19 @@
         "dateTime": "2025-12-20T09:30:00.000Z",
         "hasTime": true,
         "venue": "תל אביב קרית שלום סינטטי",
+        "round": 14
+      },
+      {
+        "id": "s27-l726-r14-2234-vs-2303",
+        "homeTeamId": "2234",
+        "awayTeamId": "2303",
+        "homeTeam": "הפועל רעננה",
+        "awayTeam": "הפועל ת\"א",
+        "homeScore": 0,
+        "awayScore": 3,
+        "dateTime": "2025-12-20T09:30:00.000Z",
+        "hasTime": true,
+        "venue": "רעננה פארק צפוני סינטטי",
         "round": 14
       },
       {
@@ -1579,19 +1579,6 @@
         "round": 14
       },
       {
-        "id": "s27-l726-r14-4698-vs-6027",
-        "homeTeamId": "6027",
-        "awayTeamId": "4698",
-        "homeTeam": "הפועל י-ם",
-        "awayTeam": "בני יהודה",
-        "homeScore": 0,
-        "awayScore": 1,
-        "dateTime": "2025-12-20T11:30:00.000Z",
-        "hasTime": true,
-        "venue": "אבו גוש",
-        "round": 14
-      },
-      {
         "id": "s27-l726-r14-1023-vs-2358",
         "homeTeamId": "2358",
         "awayTeamId": "1023",
@@ -1602,6 +1589,19 @@
         "dateTime": "2025-12-20T11:30:00.000Z",
         "hasTime": true,
         "venue": "פתח תקוה סירקין אימונים 2 (סינטטי)",
+        "round": 14
+      },
+      {
+        "id": "s27-l726-r14-4698-vs-6027",
+        "homeTeamId": "6027",
+        "awayTeamId": "4698",
+        "homeTeam": "הפועל י-ם",
+        "awayTeam": "בני יהודה",
+        "homeScore": 0,
+        "awayScore": 1,
+        "dateTime": "2025-12-20T11:30:00.000Z",
+        "hasTime": true,
+        "venue": "אבו גוש",
         "round": 14
       },
       {

@@ -58,29 +58,16 @@
         "round": 1
       },
       {
-        "id": "s27-l101-r1-1144-vs-2367",
-        "homeTeamId": "1144",
-        "awayTeamId": "2367",
-        "homeTeam": "מכבי הרצליה",
-        "awayTeam": "הפועל ת\"א",
-        "homeScore": 0,
-        "awayScore": 5,
+        "id": "s27-l101-r1-1143-vs-2385",
+        "homeTeamId": "1143",
+        "awayTeamId": "2385",
+        "homeTeam": "מכבי נתניה",
+        "awayTeam": "הפועל ק\"ש",
+        "homeScore": 7,
+        "awayScore": 0,
         "dateTime": "2025-08-16T14:30:00.000Z",
         "hasTime": true,
-        "venue": "הרצליה אצטדיון טוטו",
-        "round": 1
-      },
-      {
-        "id": "s27-l101-r1-2441-vs-2475",
-        "homeTeamId": "2475",
-        "awayTeamId": "2441",
-        "homeTeam": "הפועל עכו",
-        "awayTeam": "הפ' רעננה",
-        "homeScore": 1,
-        "awayScore": 3,
-        "dateTime": "2025-08-16T14:30:00.000Z",
-        "hasTime": true,
-        "venue": "עכו אצטדיון טוטו",
+        "venue": "נתניה בית מכבי נתניה",
         "round": 1
       },
       {
@@ -97,16 +84,29 @@
         "round": 1
       },
       {
-        "id": "s27-l101-r1-1143-vs-2385",
-        "homeTeamId": "1143",
-        "awayTeamId": "2385",
-        "homeTeam": "מכבי נתניה",
-        "awayTeam": "הפועל ק\"ש",
-        "homeScore": 7,
-        "awayScore": 0,
+        "id": "s27-l101-r1-2441-vs-2475",
+        "homeTeamId": "2475",
+        "awayTeamId": "2441",
+        "homeTeam": "הפועל עכו",
+        "awayTeam": "הפ' רעננה",
+        "homeScore": 1,
+        "awayScore": 3,
         "dateTime": "2025-08-16T14:30:00.000Z",
         "hasTime": true,
-        "venue": "נתניה בית מכבי נתניה",
+        "venue": "עכו אצטדיון טוטו",
+        "round": 1
+      },
+      {
+        "id": "s27-l101-r1-1144-vs-2367",
+        "homeTeamId": "1144",
+        "awayTeamId": "2367",
+        "homeTeam": "מכבי הרצליה",
+        "awayTeam": "הפועל ת\"א",
+        "homeScore": 0,
+        "awayScore": 5,
+        "dateTime": "2025-08-16T14:30:00.000Z",
+        "hasTime": true,
+        "venue": "הרצליה אצטדיון טוטו",
         "round": 1
       },
       {
@@ -227,19 +227,6 @@
         "round": 2
       },
       {
-        "id": "s27-l101-r2-1143-vs-2367",
-        "homeTeamId": "2367",
-        "awayTeamId": "1143",
-        "homeTeam": "הפועל ת\"א",
-        "awayTeam": "מכבי נתניה",
-        "homeScore": 1,
-        "awayScore": 4,
-        "dateTime": "2025-08-23T15:15:00.000Z",
-        "hasTime": true,
-        "venue": "בת ים אצטדיון טוטו",
-        "round": 2
-      },
-      {
         "id": "s27-l101-r2-2381-vs-2489",
         "homeTeamId": "2381",
         "awayTeamId": "2489",
@@ -250,6 +237,19 @@
         "dateTime": "2025-08-23T15:15:00.000Z",
         "hasTime": true,
         "venue": "ראשון לציון סופרלנד 4 מזרחי",
+        "round": 2
+      },
+      {
+        "id": "s27-l101-r2-1143-vs-2367",
+        "homeTeamId": "2367",
+        "awayTeamId": "1143",
+        "homeTeam": "הפועל ת\"א",
+        "awayTeam": "מכבי נתניה",
+        "homeScore": 1,
+        "awayScore": 4,
+        "dateTime": "2025-08-23T15:15:00.000Z",
+        "hasTime": true,
+        "venue": "בת ים אצטדיון טוטו",
         "round": 2
       },
       {
@@ -370,19 +370,6 @@
         "round": 3
       },
       {
-        "id": "s27-l101-r3-2385-vs-2475",
-        "homeTeamId": "2475",
-        "awayTeamId": "2385",
-        "homeTeam": "הפועל עכו",
-        "awayTeam": "הפועל ק\"ש",
-        "homeScore": 1,
-        "awayScore": 1,
-        "dateTime": "2025-09-13T14:30:00.000Z",
-        "hasTime": true,
-        "venue": "עכו אצטדיון טוטו",
-        "round": 3
-      },
-      {
         "id": "s27-l101-r3-1146-vs-2843",
         "homeTeamId": "2843",
         "awayTeamId": "1146",
@@ -393,6 +380,19 @@
         "dateTime": "2025-09-13T14:30:00.000Z",
         "hasTime": true,
         "venue": "רמת השרון אצטדיון טוטו ע\"ש גרונדמן",
+        "round": 3
+      },
+      {
+        "id": "s27-l101-r3-2385-vs-2475",
+        "homeTeamId": "2475",
+        "awayTeamId": "2385",
+        "homeTeam": "הפועל עכו",
+        "awayTeam": "הפועל ק\"ש",
+        "homeScore": 1,
+        "awayScore": 1,
+        "dateTime": "2025-09-13T14:30:00.000Z",
+        "hasTime": true,
+        "venue": "עכו אצטדיון טוטו",
         "round": 3
       },
       {
@@ -747,19 +747,6 @@
         "round": 6
       },
       {
-        "id": "s27-l101-r7-1199-vs-2373",
-        "homeTeamId": "2373",
-        "awayTeamId": "1199",
-        "homeTeam": "הפועל ב\"ש",
-        "awayTeam": "מ.ס. אשדוד",
-        "homeScore": 2,
-        "awayScore": 2,
-        "dateTime": "2025-10-18T14:00:00.000Z",
-        "hasTime": true,
-        "venue": "באר שבע וסרמיל 4",
-        "round": 7
-      },
-      {
         "id": "s27-l101-r7-2475-vs-2489",
         "homeTeamId": "2475",
         "awayTeamId": "2489",
@@ -770,6 +757,19 @@
         "dateTime": "2025-10-18T14:00:00.000Z",
         "hasTime": true,
         "venue": "עכו אצטדיון טוטו",
+        "round": 7
+      },
+      {
+        "id": "s27-l101-r7-1199-vs-2373",
+        "homeTeamId": "2373",
+        "awayTeamId": "1199",
+        "homeTeam": "הפועל ב\"ש",
+        "awayTeam": "מ.ס. אשדוד",
+        "homeScore": 2,
+        "awayScore": 2,
+        "dateTime": "2025-10-18T14:00:00.000Z",
+        "hasTime": true,
+        "venue": "באר שבע וסרמיל 4",
         "round": 7
       },
       {
@@ -968,19 +968,6 @@
         "round": 8
       },
       {
-        "id": "s27-l101-r9-1131-vs-2385",
-        "homeTeamId": "1131",
-        "awayTeamId": "2385",
-        "homeTeam": "מכבי חיפה",
-        "awayTeam": "הפועל ק\"ש",
-        "homeScore": 6,
-        "awayScore": 0,
-        "dateTime": "2025-11-01T09:00:00.000Z",
-        "hasTime": true,
-        "venue": "חיפה קצף תחתון",
-        "round": 9
-      },
-      {
         "id": "s27-l101-r9-1146-vs-2367",
         "homeTeamId": "1146",
         "awayTeamId": "2367",
@@ -1007,6 +994,19 @@
         "round": 9
       },
       {
+        "id": "s27-l101-r9-1131-vs-2385",
+        "homeTeamId": "1131",
+        "awayTeamId": "2385",
+        "homeTeam": "מכבי חיפה",
+        "awayTeam": "הפועל ק\"ש",
+        "homeScore": 6,
+        "awayScore": 0,
+        "dateTime": "2025-11-01T09:00:00.000Z",
+        "hasTime": true,
+        "venue": "חיפה קצף תחתון",
+        "round": 9
+      },
+      {
         "id": "s27-l101-r9-2373-vs-2489",
         "homeTeamId": "2373",
         "awayTeamId": "2489",
@@ -1020,19 +1020,6 @@
         "round": 9
       },
       {
-        "id": "s27-l101-r9-3612-vs-4692",
-        "homeTeamId": "4692",
-        "awayTeamId": "3612",
-        "homeTeam": "בני יהודה",
-        "awayTeam": "בית\"ר י-ם",
-        "homeScore": 2,
-        "awayScore": 4,
-        "dateTime": "2025-11-01T14:00:00.000Z",
-        "hasTime": true,
-        "venue": "תל אביב ספורטק דרום 1",
-        "round": 9
-      },
-      {
         "id": "s27-l101-r9-1199-vs-2843",
         "homeTeamId": "2843",
         "awayTeamId": "1199",
@@ -1043,6 +1030,19 @@
         "dateTime": "2025-11-01T14:00:00.000Z",
         "hasTime": true,
         "venue": "רמת השרון אצטדיון טוטו ע\"ש גרונדמן",
+        "round": 9
+      },
+      {
+        "id": "s27-l101-r9-3612-vs-4692",
+        "homeTeamId": "4692",
+        "awayTeamId": "3612",
+        "homeTeam": "בני יהודה",
+        "awayTeam": "בית\"ר י-ם",
+        "homeScore": 2,
+        "awayScore": 4,
+        "dateTime": "2025-11-01T14:00:00.000Z",
+        "hasTime": true,
+        "venue": "תל אביב ספורטק דרום 1",
         "round": 9
       },
       {
@@ -1228,19 +1228,6 @@
         "round": 11
       },
       {
-        "id": "s27-l101-r11-1146-vs-2381",
-        "homeTeamId": "1146",
-        "awayTeamId": "2381",
-        "homeTeam": "מכבי פ\"ת",
-        "awayTeam": "הפ' ראשל\"צ",
-        "homeScore": 1,
-        "awayScore": 0,
-        "dateTime": "2025-12-06T10:00:00.000Z",
-        "hasTime": true,
-        "venue": "פתח תקוה אצטדיון שלמה ביטוח",
-        "round": 11
-      },
-      {
         "id": "s27-l101-r11-1144-vs-2479",
         "homeTeamId": "2479",
         "awayTeamId": "1144",
@@ -1251,6 +1238,19 @@
         "dateTime": "2025-12-06T10:00:00.000Z",
         "hasTime": true,
         "venue": "כפר סבא אימונים עליון",
+        "round": 11
+      },
+      {
+        "id": "s27-l101-r11-1146-vs-2381",
+        "homeTeamId": "1146",
+        "awayTeamId": "2381",
+        "homeTeam": "מכבי פ\"ת",
+        "awayTeam": "הפ' ראשל\"צ",
+        "homeScore": 1,
+        "awayScore": 0,
+        "dateTime": "2025-12-06T10:00:00.000Z",
+        "hasTime": true,
+        "venue": "פתח תקוה אצטדיון שלמה ביטוח",
         "round": 11
       },
       {
@@ -1696,19 +1696,6 @@
         "round": 15
       },
       {
-        "id": "s27-l101-r15-2475-vs-2843",
-        "homeTeamId": "2843",
-        "awayTeamId": "2475",
-        "homeTeam": "הפ' רמה\"ש",
-        "awayTeam": "הפועל עכו",
-        "homeScore": 5,
-        "awayScore": 7,
-        "dateTime": "2025-12-27T10:00:00.000Z",
-        "hasTime": true,
-        "venue": "רמת השרון אצטדיון טוטו ע\"ש גרונדמן",
-        "round": 15
-      },
-      {
         "id": "s27-l101-r15-1146-vs-4692",
         "homeTeamId": "1146",
         "awayTeamId": "4692",
@@ -1719,6 +1706,19 @@
         "dateTime": "2025-12-27T10:00:00.000Z",
         "hasTime": true,
         "venue": "פתח תקוה אצטדיון שלמה ביטוח",
+        "round": 15
+      },
+      {
+        "id": "s27-l101-r15-2475-vs-2843",
+        "homeTeamId": "2843",
+        "awayTeamId": "2475",
+        "homeTeam": "הפ' רמה\"ש",
+        "awayTeam": "הפועל עכו",
+        "homeScore": 5,
+        "awayScore": 7,
+        "dateTime": "2025-12-27T10:00:00.000Z",
+        "hasTime": true,
+        "venue": "רמת השרון אצטדיון טוטו ע\"ש גרונדמן",
         "round": 15
       },
       {
@@ -1748,19 +1748,6 @@
         "round": 15
       },
       {
-        "id": "s27-l101-r15-1199-vs-2367",
-        "homeTeamId": "2367",
-        "awayTeamId": "1199",
-        "homeTeam": "הפועל ת\"א",
-        "awayTeam": "מ.ס. אשדוד",
-        "homeScore": 2,
-        "awayScore": 0,
-        "dateTime": "2025-12-27T14:30:00.000Z",
-        "hasTime": true,
-        "venue": "בת ים אצטדיון טוטו",
-        "round": 15
-      },
-      {
         "id": "s27-l101-r15-2381-vs-2385",
         "homeTeamId": "2381",
         "awayTeamId": "2385",
@@ -1771,6 +1758,19 @@
         "dateTime": "2025-12-27T14:30:00.000Z",
         "hasTime": true,
         "venue": "ראשון לציון אצטדיון הברפלד",
+        "round": 15
+      },
+      {
+        "id": "s27-l101-r15-1199-vs-2367",
+        "homeTeamId": "2367",
+        "awayTeamId": "1199",
+        "homeTeam": "הפועל ת\"א",
+        "awayTeam": "מ.ס. אשדוד",
+        "homeScore": 2,
+        "awayScore": 0,
+        "dateTime": "2025-12-27T14:30:00.000Z",
+        "hasTime": true,
+        "venue": "בת ים אצטדיון טוטו",
         "round": 15
       },
       {

@@ -2957,6 +2957,19 @@
         "round": 39
       },
       {
+        "id": "s27-l101-r24-1199-vs-2381",
+        "homeTeamId": "2381",
+        "awayTeamId": "1199",
+        "homeTeam": "הפ' ראשל\"צ",
+        "awayTeam": "מ.ס. אשדוד",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-04-18T08:00:00.000Z",
+        "hasTime": true,
+        "venue": "ראשון לציון אצטדיון הברפלד",
+        "round": 24
+      },
+      {
         "id": "s27-l101-r24-2473-vs-2843",
         "homeTeamId": "2473",
         "awayTeamId": "2843",
@@ -2967,19 +2980,6 @@
         "dateTime": "2026-04-18T08:00:00.000Z",
         "hasTime": true,
         "venue": "קרית חיים בית נגלר מזרחי (אתוס לשעבר)",
-        "round": 24
-      },
-      {
-        "id": "s27-l101-r24-2441-vs-2475",
-        "homeTeamId": "2441",
-        "awayTeamId": "2475",
-        "homeTeam": "הפ' רעננה",
-        "awayTeam": "הפועל עכו",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-04-18T09:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
         "round": 24
       },
       {
@@ -3020,6 +3020,19 @@
         "hasTime": false,
         "venue": null,
         "round": 40
+      },
+      {
+        "id": "s27-l101-r24-2441-vs-2475",
+        "homeTeamId": "2441",
+        "awayTeamId": "2475",
+        "homeTeam": "הפ' רעננה",
+        "awayTeam": "הפועל עכו",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-04-18T09:00:00.000Z",
+        "hasTime": false,
+        "venue": null,
+        "round": 24
       },
       {
         "id": "s27-l101-r29-1143-vs-2367",
@@ -3066,19 +3079,6 @@
         "awayTeamId": "2479",
         "homeTeam": "הפועל ק\"ש",
         "awayTeam": "הפ' כפ\"ס",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-04-18T09:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
-        "round": 24
-      },
-      {
-        "id": "s27-l101-r24-1199-vs-2381",
-        "homeTeamId": "2381",
-        "awayTeamId": "1199",
-        "homeTeam": "הפ' ראשל\"צ",
-        "awayTeam": "מ.ס. אשדוד",
         "homeScore": null,
         "awayScore": null,
         "dateTime": "2026-04-18T09:00:00.000Z",

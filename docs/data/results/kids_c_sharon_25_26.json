@@ -3093,11 +3093,11 @@
         "round": 22
       },
       {
-        "id": "s27-l661-r23-5167-vs-5172",
-        "homeTeamId": "5167",
-        "awayTeamId": "5172",
-        "homeTeam": "הפועל ת\"א צפון",
-        "awayTeam": "נוף הגליל",
+        "id": "s27-l661-r23-2964-vs-4187",
+        "homeTeamId": "2964",
+        "awayTeamId": "4187",
+        "homeTeam": "הוד השרון",
+        "awayTeam": "נהלל יזרעאל",
         "homeScore": null,
         "awayScore": null,
         "dateTime": "2026-04-18T09:00:00.000Z",
@@ -3197,11 +3197,11 @@
         "round": 23
       },
       {
-        "id": "s27-l661-r23-2336-vs-6174",
-        "homeTeamId": "6174",
-        "awayTeamId": "2336",
-        "homeTeam": "הפועל פ\"ת צפון",
-        "awayTeam": "הפועל חיפה",
+        "id": "s27-l661-r23-5167-vs-5172",
+        "homeTeamId": "5167",
+        "awayTeamId": "5172",
+        "homeTeam": "הפועל ת\"א צפון",
+        "awayTeam": "נוף הגליל",
         "homeScore": null,
         "awayScore": null,
         "dateTime": "2026-04-18T09:00:00.000Z",
@@ -3223,16 +3223,16 @@
         "round": 23
       },
       {
-        "id": "s27-l661-r23-2964-vs-4187",
-        "homeTeamId": "2964",
-        "awayTeamId": "4187",
-        "homeTeam": "הוד השרון",
-        "awayTeam": "נהלל יזרעאל",
+        "id": "s27-l661-r23-2336-vs-6174",
+        "homeTeamId": "6174",
+        "awayTeamId": "2336",
+        "homeTeam": "הפועל פ\"ת צפון",
+        "awayTeam": "הפועל חיפה",
         "homeScore": null,
         "awayScore": null,
-        "dateTime": "2026-04-18T09:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
+        "dateTime": "2026-04-18T09:30:00.000Z",
+        "hasTime": true,
+        "venue": "פתח תקוה מושבה דרומי",
         "round": 23
       },
       {

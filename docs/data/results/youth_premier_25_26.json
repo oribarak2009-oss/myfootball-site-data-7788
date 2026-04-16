@@ -2964,9 +2964,9 @@
         "awayTeam": "הפ' רמה\"ש",
         "homeScore": null,
         "awayScore": null,
-        "dateTime": "2026-04-18T08:00:00.000Z",
+        "dateTime": "2026-04-17T07:30:00.000Z",
         "hasTime": true,
-        "venue": "קרית חיים בית נגלר מזרחי (אתוס לשעבר)",
+        "venue": "חדרה מתחם אימונים",
         "round": 24
       },
       {
@@ -3049,15 +3049,15 @@
       },
       {
         "id": "s27-l101-r24-2385-vs-2479",
-        "homeTeamId": "2385",
-        "awayTeamId": "2479",
-        "homeTeam": "הפועל ק\"ש",
-        "awayTeam": "הפ' כפ\"ס",
+        "homeTeamId": "2479",
+        "awayTeamId": "2385",
+        "homeTeam": "הפ' כפ\"ס",
+        "awayTeam": "הפועל ק\"ש",
         "homeScore": null,
         "awayScore": null,
         "dateTime": "2026-04-18T09:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
+        "hasTime": true,
+        "venue": "כפר סבא אצטדיון לויטה",
         "round": 24
       },
       {

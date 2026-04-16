@@ -3503,6 +3503,19 @@
         "round": 31
       },
       {
+        "id": "s27-l773-r25-2061-vs-2153",
+        "homeTeamId": "2061",
+        "awayTeamId": "2153",
+        "homeTeam": "הפועל ר\"ג",
+        "awayTeam": "הפועל ק\"ש",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-04-17T08:00:00.000Z",
+        "hasTime": true,
+        "venue": "רמת גן ספארי",
+        "round": 25
+      },
+      {
         "id": "s27-l773-r25-1202-vs-4425",
         "homeTeamId": "4425",
         "awayTeamId": "1202",
@@ -3527,19 +3540,6 @@
         "hasTime": true,
         "venue": "נתניה שפירא",
         "round": 24
-      },
-      {
-        "id": "s27-l773-r25-2061-vs-2153",
-        "homeTeamId": "2061",
-        "awayTeamId": "2153",
-        "homeTeam": "הפועל ר\"ג",
-        "awayTeam": "הפועל ק\"ש",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-04-18T10:15:00.000Z",
-        "hasTime": true,
-        "venue": "רמת גן ספארי",
-        "round": 25
       },
       {
         "id": "s27-l773-r24-1607-vs-2365",

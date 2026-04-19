@@ -1,21 +1,4 @@
 {
-  "fetched_at_utc": "2026-04-19T03:51:15.798053+00:00",
-  "updated": [
-    {
-      "key": "kids_a_central_25_26",
-      "type": "results"
-    },
-    {
-      "key": "kids_c_central_25_26",
-      "type": "results"
-    },
-    {
-      "key": "na_arim_c_premier_25_26",
-      "type": "results"
-    },
-    {
-      "key": "na_arim_a_premier_25_26",
-      "type": "results"
-    }
-  ]
+  "fetched_at_utc": "2026-04-19T06:09:50.386323+00:00",
+  "updated": []
 }

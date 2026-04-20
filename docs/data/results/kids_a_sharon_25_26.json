@@ -2729,11 +2729,11 @@
         "round": 24
       },
       {
-        "id": "s27-l154-r24-4022-vs-5101",
-        "homeTeamId": "5101",
-        "awayTeamId": "4022",
-        "homeTeam": "בית\"ר חיפה",
-        "awayTeam": "מ.כ. נוה יוסף",
+        "id": "s27-l154-r24-2732-vs-4185",
+        "homeTeamId": "2732",
+        "awayTeamId": "4185",
+        "homeTeam": "הוד השרון",
+        "awayTeam": "מ.כ. נהלל יזרעאל",
         "homeScore": null,
         "awayScore": null,
         "dateTime": "2026-04-18T09:00:00.000Z",
@@ -2742,11 +2742,11 @@
         "round": 24
       },
       {
-        "id": "s27-l154-r24-2732-vs-4185",
-        "homeTeamId": "2732",
-        "awayTeamId": "4185",
-        "homeTeam": "הוד השרון",
-        "awayTeam": "מ.כ. נהלל יזרעאל",
+        "id": "s27-l154-r24-4022-vs-5101",
+        "homeTeamId": "5101",
+        "awayTeamId": "4022",
+        "homeTeam": "בית\"ר חיפה",
+        "awayTeam": "מ.כ. נוה יוסף",
         "homeScore": null,
         "awayScore": null,
         "dateTime": "2026-04-18T09:00:00.000Z",
@@ -2766,6 +2766,19 @@
         "hasTime": true,
         "venue": "מעגן מיכאל",
         "round": 24
+      },
+      {
+        "id": "s27-l154-r25-1280-vs-4848",
+        "homeTeamId": "4848",
+        "awayTeamId": "1280",
+        "homeTeam": "מ. חיפה גולד'",
+        "awayTeam": "מכבי ת\"א צפון",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-04-25T07:05:00.000Z",
+        "hasTime": true,
+        "venue": "מעגן מיכאל",
+        "round": 25
       },
       {
         "id": "s27-l154-r25-2043-vs-5656",
@@ -2825,19 +2838,6 @@
         "awayTeamId": "1101",
         "homeTeam": "מ.ס קרית ים",
         "awayTeam": "מכבי עמק חפר",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-04-25T09:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
-        "round": 25
-      },
-      {
-        "id": "s27-l154-r25-1280-vs-4848",
-        "homeTeamId": "4848",
-        "awayTeamId": "1280",
-        "homeTeam": "מ. חיפה גולד'",
-        "awayTeam": "מכבי ת\"א צפון",
         "homeScore": null,
         "awayScore": null,
         "dateTime": "2026-04-25T09:00:00.000Z",

@@ -3093,6 +3093,19 @@
         "round": 24
       },
       {
+        "id": "s27-l165-r25-1049-vs-2866",
+        "homeTeamId": "2866",
+        "awayTeamId": "1049",
+        "homeTeam": "הפועל רעננה",
+        "awayTeam": "מכבי פ\"ת",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-04-25T05:30:00.000Z",
+        "hasTime": true,
+        "venue": "רעננה פארק צפוני סינטטי",
+        "round": 25
+      },
+      {
         "id": "s27-l165-r25-2134-vs-2818",
         "homeTeamId": "2134",
         "awayTeamId": "2818",
@@ -3145,32 +3158,6 @@
         "round": 25
       },
       {
-        "id": "s27-l165-r25-1243-vs-5541",
-        "homeTeamId": "5541",
-        "awayTeamId": "1243",
-        "homeTeam": "עמישב פ\"ת",
-        "awayTeam": "מ.ס. אשדוד",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-04-25T09:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
-        "round": 25
-      },
-      {
-        "id": "s27-l165-r25-1049-vs-2866",
-        "homeTeamId": "2866",
-        "awayTeamId": "1049",
-        "homeTeam": "הפועל רעננה",
-        "awayTeam": "מכבי פ\"ת",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-04-25T09:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
-        "round": 25
-      },
-      {
         "id": "s27-l165-r25-1850-vs-2930",
         "homeTeamId": "2930",
         "awayTeamId": "1850",
@@ -3181,6 +3168,19 @@
         "dateTime": "2026-04-25T09:30:00.000Z",
         "hasTime": true,
         "venue": "אבו גוש",
+        "round": 25
+      },
+      {
+        "id": "s27-l165-r25-1243-vs-5541",
+        "homeTeamId": "5541",
+        "awayTeamId": "1243",
+        "homeTeam": "עמישב פ\"ת",
+        "awayTeam": "מ.ס. אשדוד",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-04-26T13:50:00.000Z",
+        "hasTime": true,
+        "venue": "פתח תקוה סירקין ספורטק אצטדיון",
         "round": 25
       },
       {

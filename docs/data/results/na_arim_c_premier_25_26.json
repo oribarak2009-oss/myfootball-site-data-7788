@@ -3243,19 +3243,6 @@
         "round": 31
       },
       {
-        "id": "s27-l824-r32-2905-vs-5389",
-        "homeTeamId": "2905",
-        "awayTeamId": "5389",
-        "homeTeam": "הפועל חדרה",
-        "awayTeam": "בני סכנין",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-04-25T09:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
-        "round": 32
-      },
-      {
         "id": "s27-l824-r32-4006-vs-4099",
         "homeTeamId": "4006",
         "awayTeamId": "4099",
@@ -3293,6 +3280,19 @@
         "hasTime": false,
         "venue": null,
         "round": 31
+      },
+      {
+        "id": "s27-l824-r32-2905-vs-5389",
+        "homeTeamId": "2905",
+        "awayTeamId": "5389",
+        "homeTeam": "הפועל חדרה",
+        "awayTeam": "בני סכנין",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-04-25T09:00:00.000Z",
+        "hasTime": false,
+        "venue": null,
+        "round": 32
       },
       {
         "id": "s27-l824-r32-2231-vs-2305",
@@ -3371,6 +3371,19 @@
         "hasTime": true,
         "venue": "כפר סבא אימונים תחתון (סינטטי)",
         "round": 25
+      },
+      {
+        "id": "s27-l824-r27-2231-vs-6449",
+        "homeTeamId": "2231",
+        "awayTeamId": "6449",
+        "homeTeam": "הפועל ק\"ש",
+        "awayTeam": "הפ' ירושלים",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-05-01T07:45:00.000Z",
+        "hasTime": true,
+        "venue": "קרית שמונה סינטטי חדש",
+        "round": 27
       },
       {
         "id": "s27-l824-r33-2181-vs-6449",
@@ -3501,19 +3514,6 @@
         "hasTime": false,
         "venue": null,
         "round": 26
-      },
-      {
-        "id": "s27-l824-r27-2231-vs-6449",
-        "homeTeamId": "2231",
-        "awayTeamId": "6449",
-        "homeTeam": "הפועל ק\"ש",
-        "awayTeam": "הפ' ירושלים",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-05-02T09:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
-        "round": 27
       },
       {
         "id": "s27-l824-r27-1201-vs-5389",

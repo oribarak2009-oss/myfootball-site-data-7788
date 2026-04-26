@@ -3165,7 +3165,7 @@
         "awayTeam": "הפועל ר\"ג צפון",
         "homeScore": 1,
         "awayScore": 2,
-        "dateTime": "2026-04-25T13:15:00.000Z",
+        "dateTime": "2026-04-25T13:37:00.000Z",
         "hasTime": true,
         "venue": "נהלל",
         "round": 25
@@ -3808,19 +3808,6 @@
         "round": 30
       },
       {
-        "id": "s27-l163-r30-2849-vs-3678",
-        "homeTeamId": "2849",
-        "awayTeamId": "3678",
-        "homeTeam": "הפועל כפ\"ס",
-        "awayTeam": "מכבי עתלית",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-05-30T09:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
-        "round": 30
-      },
-      {
         "id": "s27-l163-r30-3684-vs-6932",
         "homeTeamId": "6932",
         "awayTeamId": "3684",
@@ -3839,6 +3826,19 @@
         "awayTeamId": "5485",
         "homeTeam": "מכבי עמק חפר",
         "awayTeam": "מכבי פ\"ת צפון",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-05-30T09:00:00.000Z",
+        "hasTime": false,
+        "venue": null,
+        "round": 30
+      },
+      {
+        "id": "s27-l163-r30-2849-vs-3678",
+        "homeTeamId": "2849",
+        "awayTeamId": "3678",
+        "homeTeam": "הפועל כפ\"ס",
+        "awayTeam": "מכבי עתלית",
         "homeScore": null,
         "awayScore": null,
         "dateTime": "2026-05-30T09:00:00.000Z",

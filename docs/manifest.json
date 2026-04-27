@@ -1,20 +1,20 @@
 {
-  "fetched_at_utc": "2026-04-27T16:56:49.790437+00:00",
+  "fetched_at_utc": "2026-04-27T18:42:23.383675+00:00",
   "updated": [
     {
-      "key": "kids_c_central_25_26",
+      "key": "kids_a_sharon_25_26",
       "type": "results"
     },
     {
-      "key": "kids_c_central_25_26",
+      "key": "kids_a_sharon_25_26",
       "type": "standings"
     },
     {
-      "key": "kids_c_sharon_25_26",
+      "key": "na_arim_a_premier_25_26",
       "type": "results"
     },
     {
-      "key": "kids_c_sharon_25_26",
+      "key": "na_arim_a_premier_25_26",
       "type": "standings"
     }
   ]

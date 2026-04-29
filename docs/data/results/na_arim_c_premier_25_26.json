@@ -3068,10 +3068,23 @@
         "awayTeam": "מכבי ת\"א",
         "homeScore": null,
         "awayScore": null,
-        "dateTime": "2026-05-02T09:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
+        "dateTime": "2026-05-02T07:30:00.000Z",
+        "hasTime": true,
+        "venue": "פתח תקוה מכבי סינטטי",
         "round": 26
+      },
+      {
+        "id": "s27-l824-r27-1201-vs-5389",
+        "homeTeamId": "5389",
+        "awayTeamId": "1201",
+        "homeTeam": "בני סכנין",
+        "awayTeam": "מ.ס אשדוד",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-05-02T08:00:00.000Z",
+        "hasTime": true,
+        "venue": "סכנין אימונים סינטטי",
+        "round": 27
       },
       {
         "id": "s27-l824-r27-2305-vs-4006",
@@ -3081,9 +3094,9 @@
         "awayTeam": "נוה יוסף",
         "homeScore": null,
         "awayScore": null,
-        "dateTime": "2026-05-02T09:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
+        "dateTime": "2026-05-02T08:00:00.000Z",
+        "hasTime": true,
+        "venue": "ראשון לציון סופרלנד מערבי סינטטי",
         "round": 27
       },
       {
@@ -3094,36 +3107,10 @@
         "awayTeam": "הפועל רעננה",
         "homeScore": null,
         "awayScore": null,
-        "dateTime": "2026-05-02T09:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
+        "dateTime": "2026-05-02T08:00:00.000Z",
+        "hasTime": true,
+        "venue": "באר שבע וסרמיל 1",
         "round": 27
-      },
-      {
-        "id": "s27-l824-r27-1201-vs-5389",
-        "homeTeamId": "5389",
-        "awayTeamId": "1201",
-        "homeTeam": "בני סכנין",
-        "awayTeam": "מ.ס אשדוד",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-05-02T09:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
-        "round": 27
-      },
-      {
-        "id": "s27-l824-r26-1112-vs-2497",
-        "homeTeamId": "1112",
-        "awayTeamId": "2497",
-        "homeTeam": "מכבי נתניה",
-        "awayTeam": "הפועל כפ\"ס",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-05-02T09:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
-        "round": 26
       },
       {
         "id": "s27-l824-r26-1029-vs-3031",
@@ -3149,6 +3136,19 @@
         "dateTime": "2026-05-02T09:45:00.000Z",
         "hasTime": true,
         "venue": "תל אביב וולפסון 2",
+        "round": 26
+      },
+      {
+        "id": "s27-l824-r26-1112-vs-2497",
+        "homeTeamId": "1112",
+        "awayTeamId": "2497",
+        "homeTeam": "מכבי נתניה",
+        "awayTeam": "הפועל כפ\"ס",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-05-02T10:00:00.000Z",
+        "hasTime": true,
+        "venue": "נתניה שפירא",
         "round": 26
       },
       {
@@ -3191,32 +3191,6 @@
         "round": 28
       },
       {
-        "id": "s27-l824-r28-1201-vs-6449",
-        "homeTeamId": "6449",
-        "awayTeamId": "1201",
-        "homeTeam": "הפ' ירושלים",
-        "awayTeam": "מ.ס אשדוד",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-05-09T09:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
-        "round": 28
-      },
-      {
-        "id": "s27-l824-r28-2231-vs-4099",
-        "homeTeamId": "4099",
-        "awayTeamId": "2231",
-        "homeTeam": "בני יהודה",
-        "awayTeam": "הפועל ק\"ש",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-05-09T09:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
-        "round": 28
-      },
-      {
         "id": "s27-l824-r27-2204-vs-3031",
         "homeTeamId": "3031",
         "awayTeamId": "2204",
@@ -3243,6 +3217,19 @@
         "round": 27
       },
       {
+        "id": "s27-l824-r27-1231-vs-2165",
+        "homeTeamId": "2165",
+        "awayTeamId": "1231",
+        "homeTeam": "הפועל פ\"ת",
+        "awayTeam": "מכבי פ\"ת",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-05-09T09:00:00.000Z",
+        "hasTime": false,
+        "venue": null,
+        "round": 27
+      },
+      {
         "id": "s27-l824-r27-1112-vs-1338",
         "homeTeamId": "1338",
         "awayTeamId": "1112",
@@ -3256,17 +3243,30 @@
         "round": 27
       },
       {
-        "id": "s27-l824-r27-1231-vs-2165",
-        "homeTeamId": "2165",
-        "awayTeamId": "1231",
-        "homeTeam": "הפועל פ\"ת",
-        "awayTeam": "מכבי פ\"ת",
+        "id": "s27-l824-r28-2231-vs-4099",
+        "homeTeamId": "4099",
+        "awayTeamId": "2231",
+        "homeTeam": "בני יהודה",
+        "awayTeam": "הפועל ק\"ש",
         "homeScore": null,
         "awayScore": null,
         "dateTime": "2026-05-09T09:00:00.000Z",
         "hasTime": false,
         "venue": null,
-        "round": 27
+        "round": 28
+      },
+      {
+        "id": "s27-l824-r28-1201-vs-6449",
+        "homeTeamId": "6449",
+        "awayTeamId": "1201",
+        "homeTeam": "הפ' ירושלים",
+        "awayTeam": "מ.ס אשדוד",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-05-09T09:00:00.000Z",
+        "hasTime": false,
+        "venue": null,
+        "round": 28
       },
       {
         "id": "s27-l824-r29-5389-vs-6449",
@@ -3282,11 +3282,24 @@
         "round": 29
       },
       {
-        "id": "s27-l824-r28-2204-vs-2497",
-        "homeTeamId": "2204",
-        "awayTeamId": "2497",
-        "homeTeam": "הפועל ת\"א",
-        "awayTeam": "הפועל כפ\"ס",
+        "id": "s27-l824-r28-1029-vs-1338",
+        "homeTeamId": "1029",
+        "awayTeamId": "1338",
+        "homeTeam": "מכבי חיפה",
+        "awayTeam": "מכבי ת\"א",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-05-16T09:00:00.000Z",
+        "hasTime": false,
+        "venue": null,
+        "round": 28
+      },
+      {
+        "id": "s27-l824-r28-1112-vs-1231",
+        "homeTeamId": "1112",
+        "awayTeamId": "1231",
+        "homeTeam": "מכבי נתניה",
+        "awayTeam": "מכבי פ\"ת",
         "homeScore": null,
         "awayScore": null,
         "dateTime": "2026-05-16T09:00:00.000Z",
@@ -3313,32 +3326,6 @@
         "awayTeamId": "2165",
         "homeTeam": "בית\"ר י-ם",
         "awayTeam": "הפועל פ\"ת",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-05-16T09:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
-        "round": 28
-      },
-      {
-        "id": "s27-l824-r28-1112-vs-1231",
-        "homeTeamId": "1112",
-        "awayTeamId": "1231",
-        "homeTeam": "מכבי נתניה",
-        "awayTeam": "מכבי פ\"ת",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-05-16T09:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
-        "round": 28
-      },
-      {
-        "id": "s27-l824-r28-1029-vs-1338",
-        "homeTeamId": "1029",
-        "awayTeamId": "1338",
-        "homeTeam": "מכבי חיפה",
-        "awayTeam": "מכבי ת\"א",
         "homeScore": null,
         "awayScore": null,
         "dateTime": "2026-05-16T09:00:00.000Z",
@@ -3386,6 +3373,32 @@
         "round": 29
       },
       {
+        "id": "s27-l824-r28-2204-vs-2497",
+        "homeTeamId": "2204",
+        "awayTeamId": "2497",
+        "homeTeam": "הפועל ת\"א",
+        "awayTeam": "הפועל כפ\"ס",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-05-16T09:00:00.000Z",
+        "hasTime": false,
+        "venue": null,
+        "round": 28
+      },
+      {
+        "id": "s27-l824-r30-2305-vs-5389",
+        "homeTeamId": "2305",
+        "awayTeamId": "5389",
+        "homeTeam": "הפועל ראשל\"צ",
+        "awayTeam": "בני סכנין",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-05-23T09:00:00.000Z",
+        "hasTime": false,
+        "venue": null,
+        "round": 30
+      },
+      {
         "id": "s27-l824-r30-2231-vs-2307",
         "homeTeamId": "2307",
         "awayTeamId": "2231",
@@ -3399,30 +3412,17 @@
         "round": 30
       },
       {
-        "id": "s27-l824-r30-4099-vs-6449",
-        "homeTeamId": "4099",
-        "awayTeamId": "6449",
-        "homeTeam": "בני יהודה",
-        "awayTeam": "הפ' ירושלים",
+        "id": "s27-l824-r30-1201-vs-4006",
+        "homeTeamId": "4006",
+        "awayTeamId": "1201",
+        "homeTeam": "נוה יוסף",
+        "awayTeam": "מ.ס אשדוד",
         "homeScore": null,
         "awayScore": null,
         "dateTime": "2026-05-23T09:00:00.000Z",
         "hasTime": false,
         "venue": null,
         "round": 30
-      },
-      {
-        "id": "s27-l824-r29-1112-vs-2165",
-        "homeTeamId": "2165",
-        "awayTeamId": "1112",
-        "homeTeam": "הפועל פ\"ת",
-        "awayTeam": "מכבי נתניה",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-05-23T09:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
-        "round": 29
       },
       {
         "id": "s27-l824-r29-1338-vs-2204",
@@ -3451,6 +3451,19 @@
         "round": 29
       },
       {
+        "id": "s27-l824-r29-1112-vs-2165",
+        "homeTeamId": "2165",
+        "awayTeamId": "1112",
+        "homeTeam": "הפועל פ\"ת",
+        "awayTeam": "מכבי נתניה",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-05-23T09:00:00.000Z",
+        "hasTime": false,
+        "venue": null,
+        "round": 29
+      },
+      {
         "id": "s27-l824-r29-2497-vs-3031",
         "homeTeamId": "2497",
         "awayTeamId": "3031",
@@ -3464,11 +3477,11 @@
         "round": 29
       },
       {
-        "id": "s27-l824-r30-2305-vs-5389",
-        "homeTeamId": "2305",
-        "awayTeamId": "5389",
-        "homeTeam": "הפועל ראשל\"צ",
-        "awayTeam": "בני סכנין",
+        "id": "s27-l824-r30-4099-vs-6449",
+        "homeTeamId": "4099",
+        "awayTeamId": "6449",
+        "homeTeam": "בני יהודה",
+        "awayTeam": "הפ' ירושלים",
         "homeScore": null,
         "awayScore": null,
         "dateTime": "2026-05-23T09:00:00.000Z",
@@ -3482,19 +3495,6 @@
         "awayTeamId": "2905",
         "homeTeam": "הפועל ב\"ש",
         "awayTeam": "הפועל חדרה",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-05-23T09:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
-        "round": 30
-      },
-      {
-        "id": "s27-l824-r30-1201-vs-4006",
-        "homeTeamId": "4006",
-        "awayTeamId": "1201",
-        "homeTeam": "נוה יוסף",
-        "awayTeam": "מ.ס אשדוד",
         "homeScore": null,
         "awayScore": null,
         "dateTime": "2026-05-23T09:00:00.000Z",

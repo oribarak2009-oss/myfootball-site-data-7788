@@ -3120,9 +3120,9 @@
         "awayTeam": "בית\"ר י-ם",
         "homeScore": null,
         "awayScore": null,
-        "dateTime": "2026-05-02T09:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
+        "dateTime": "2026-05-02T08:30:00.000Z",
+        "hasTime": true,
+        "venue": "חיפה קצף תחתון",
         "round": 26
       },
       {

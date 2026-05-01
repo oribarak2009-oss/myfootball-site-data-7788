@@ -3197,19 +3197,6 @@
         "round": 24
       },
       {
-        "id": "s27-l661-r26-2336-vs-5167",
-        "homeTeamId": "2336",
-        "awayTeamId": "5167",
-        "homeTeam": "הפועל חיפה",
-        "awayTeam": "הפועל ת\"א צפון",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-05-09T09:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
-        "round": 26
-      },
-      {
         "id": "s27-l661-r26-2964-vs-5500",
         "homeTeamId": "5500",
         "awayTeamId": "2964",
@@ -3337,6 +3324,19 @@
         "dateTime": "2026-05-09T09:00:00.000Z",
         "hasTime": false,
         "venue": null,
+        "round": 26
+      },
+      {
+        "id": "s27-l661-r26-2336-vs-5167",
+        "homeTeamId": "2336",
+        "awayTeamId": "5167",
+        "homeTeam": "הפועל חיפה",
+        "awayTeam": "הפועל ת\"א צפון",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-05-09T12:00:00.000Z",
+        "hasTime": true,
+        "venue": "קרית ים רודמן",
         "round": 26
       },
       {

@@ -3080,6 +3080,19 @@
         "round": 26
       },
       {
+        "id": "s27-l163-r27-3684-vs-4912",
+        "homeTeamId": "4912",
+        "awayTeamId": "3684",
+        "homeTeam": "קדימה צורן",
+        "awayTeam": "מ.ס. עמק חפר",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-05-05T09:00:00.000Z",
+        "hasTime": true,
+        "venue": "קדימה",
+        "round": 27
+      },
+      {
         "id": "s27-l163-r24-2883-vs-3678",
         "homeTeamId": "2883",
         "awayTeamId": "3678",
@@ -3091,6 +3104,19 @@
         "hasTime": true,
         "venue": "הוד השרון גני צבי",
         "round": 24
+      },
+      {
+        "id": "s27-l163-r27-2797-vs-2849",
+        "homeTeamId": "2797",
+        "awayTeamId": "2849",
+        "homeTeam": "הפועל חיפה",
+        "awayTeam": "הפועל כפ\"ס",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-05-09T08:00:00.000Z",
+        "hasTime": true,
+        "venue": "קרית ים סינטטי",
+        "round": 27
       },
       {
         "id": "s27-l163-r27-1106-vs-7460",
@@ -3124,19 +3150,6 @@
         "awayTeamId": "2096",
         "homeTeam": "מכבי עתלית",
         "awayTeam": "הפועל ת\"א צפון",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-05-09T09:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
-        "round": 27
-      },
-      {
-        "id": "s27-l163-r27-3684-vs-4912",
-        "homeTeamId": "3684",
-        "awayTeamId": "4912",
-        "homeTeam": "מ.ס. עמק חפר",
-        "awayTeam": "קדימה צורן",
         "homeScore": null,
         "awayScore": null,
         "dateTime": "2026-05-09T09:00:00.000Z",
@@ -3202,19 +3215,6 @@
         "awayTeamId": "1033",
         "homeTeam": "רמה\"ש דרום",
         "awayTeam": "מכבי ת\"א צפון",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-05-09T09:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
-        "round": 27
-      },
-      {
-        "id": "s27-l163-r27-2797-vs-2849",
-        "homeTeamId": "2797",
-        "awayTeamId": "2849",
-        "homeTeam": "הפועל חיפה",
-        "awayTeam": "הפועל כפ\"ס",
         "homeScore": null,
         "awayScore": null,
         "dateTime": "2026-05-09T09:00:00.000Z",

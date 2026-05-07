@@ -3119,16 +3119,16 @@
         "round": 27
       },
       {
-        "id": "s27-l163-r27-2883-vs-5664",
-        "homeTeamId": "2883",
-        "awayTeamId": "5664",
-        "homeTeam": "הוד השרון",
-        "awayTeam": "הפועל חדרה",
+        "id": "s27-l163-r27-1117-vs-3007",
+        "homeTeamId": "3007",
+        "awayTeamId": "1117",
+        "homeTeam": "בית\"ר טוברוק",
+        "awayTeam": "מ.חיפה אפרים",
         "homeScore": null,
         "awayScore": null,
-        "dateTime": "2026-05-09T06:00:00.000Z",
+        "dateTime": "2026-05-08T11:00:00.000Z",
         "hasTime": true,
-        "venue": "הוד השרון גני צבי",
+        "venue": "נתניה טוברוק",
         "round": 27
       },
       {
@@ -3145,29 +3145,16 @@
         "round": 27
       },
       {
-        "id": "s27-l163-r27-1117-vs-3007",
-        "homeTeamId": "3007",
-        "awayTeamId": "1117",
-        "homeTeam": "בית\"ר טוברוק",
-        "awayTeam": "מ.חיפה אפרים",
+        "id": "s27-l163-r27-2883-vs-5664",
+        "homeTeamId": "2883",
+        "awayTeamId": "5664",
+        "homeTeam": "הוד השרון",
+        "awayTeam": "הפועל חדרה",
         "homeScore": null,
         "awayScore": null,
-        "dateTime": "2026-05-09T09:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
-        "round": 27
-      },
-      {
-        "id": "s27-l163-r27-4186-vs-6103",
-        "homeTeamId": "4186",
-        "awayTeamId": "6103",
-        "homeTeam": "נהלל יזרעאל",
-        "awayTeam": "נוה יוסף",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-05-09T09:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
+        "dateTime": "2026-05-09T06:00:00.000Z",
+        "hasTime": true,
+        "venue": "הוד השרון גני צבי",
         "round": 27
       },
       {
@@ -3178,7 +3165,7 @@
         "awayTeam": "הפועל ת\"א צפון",
         "homeScore": null,
         "awayScore": null,
-        "dateTime": "2026-05-10T17:15:00.000Z",
+        "dateTime": "2026-05-10T16:15:00.000Z",
         "hasTime": true,
         "venue": "עתלית",
         "round": 27
@@ -3194,6 +3181,19 @@
         "dateTime": "2026-05-11T12:45:00.000Z",
         "hasTime": true,
         "venue": "קרית אתא",
+        "round": 27
+      },
+      {
+        "id": "s27-l163-r27-4186-vs-6103",
+        "homeTeamId": "4186",
+        "awayTeamId": "6103",
+        "homeTeam": "נהלל יזרעאל",
+        "awayTeam": "נוה יוסף",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-05-14T14:00:00.000Z",
+        "hasTime": true,
+        "venue": "נהלל",
         "round": 27
       },
       {

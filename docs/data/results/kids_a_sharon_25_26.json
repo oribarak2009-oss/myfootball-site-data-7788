@@ -2898,19 +2898,6 @@
         "round": 27
       },
       {
-        "id": "s27-l154-r27-2471-vs-3042",
-        "homeTeamId": "3042",
-        "awayTeamId": "2471",
-        "homeTeam": "בית\"ר טוברוק",
-        "awayTeam": "הפועל חיפה",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-05-09T09:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
-        "round": 27
-      },
-      {
         "id": "s27-l154-r27-1101-vs-1280",
         "homeTeamId": "1280",
         "awayTeamId": "1101",
@@ -2960,6 +2947,19 @@
         "dateTime": "2026-05-12T16:00:00.000Z",
         "hasTime": true,
         "venue": "עפולה סינטטי",
+        "round": 27
+      },
+      {
+        "id": "s27-l154-r27-2471-vs-3042",
+        "homeTeamId": "3042",
+        "awayTeamId": "2471",
+        "homeTeam": "בית\"ר טוברוק",
+        "awayTeam": "הפועל חיפה",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-05-13T16:30:00.000Z",
+        "hasTime": true,
+        "venue": "נתניה טוברוק",
         "round": 27
       },
       {

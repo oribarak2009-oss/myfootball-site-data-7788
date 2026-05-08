@@ -3152,32 +3152,6 @@
         "round": 26
       },
       {
-        "id": "s27-l773-r27-2227-vs-2717",
-        "homeTeamId": "2717",
-        "awayTeamId": "2227",
-        "homeTeam": "הפועל רעננה",
-        "awayTeam": "הפועל ת\"א",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-05-12T09:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
-        "round": 27
-      },
-      {
-        "id": "s27-l773-r27-1607-vs-2724",
-        "homeTeamId": "2724",
-        "awayTeamId": "1607",
-        "homeTeam": "הפועל חדרה",
-        "awayTeam": "מכבי ת\"א",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-05-12T09:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
-        "round": 27
-      },
-      {
         "id": "s27-l773-r28-1202-vs-8370",
         "homeTeamId": "8370",
         "awayTeamId": "1202",
@@ -3191,6 +3165,19 @@
         "round": 28
       },
       {
+        "id": "s27-l773-r27-2227-vs-2717",
+        "homeTeamId": "2717",
+        "awayTeamId": "2227",
+        "homeTeam": "הפועל רעננה",
+        "awayTeam": "הפועל ת\"א",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-05-12T13:30:00.000Z",
+        "hasTime": true,
+        "venue": "רעננה פארק צפוני סינטטי",
+        "round": 27
+      },
+      {
         "id": "s27-l773-r27-1052-vs-1432",
         "homeTeamId": "1432",
         "awayTeamId": "1052",
@@ -3198,9 +3185,9 @@
         "awayTeam": "מכבי פ\"ת",
         "homeScore": null,
         "awayScore": null,
-        "dateTime": "2026-05-12T09:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
+        "dateTime": "2026-05-12T15:00:00.000Z",
+        "hasTime": true,
+        "venue": "חיפה קצף תחתון",
         "round": 27
       },
       {
@@ -3241,6 +3228,19 @@
         "hasTime": true,
         "venue": "תל אביב ספורטק דרום 2 סינטטי",
         "round": 28
+      },
+      {
+        "id": "s27-l773-r27-1607-vs-2724",
+        "homeTeamId": "2724",
+        "awayTeamId": "1607",
+        "homeTeam": "הפועל חדרה",
+        "awayTeam": "מכבי ת\"א",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-05-13T14:00:00.000Z",
+        "hasTime": true,
+        "venue": "חדרה מתחם אימונים סינטטי",
+        "round": 27
       },
       {
         "id": "s27-l773-r28-2153-vs-3602",

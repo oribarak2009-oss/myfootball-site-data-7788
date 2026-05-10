@@ -3185,7 +3185,7 @@
         "awayTeam": "מכבי פ\"ת",
         "homeScore": 3,
         "awayScore": 4,
-        "dateTime": "2026-05-09T06:30:00.000Z",
+        "dateTime": "2026-05-09T06:35:00.000Z",
         "hasTime": true,
         "venue": "פתח תקוה סירקין אימונים 2 (סינטטי)",
         "round": 27
@@ -3250,7 +3250,7 @@
         "awayTeam": "מ.ס אשדוד",
         "homeScore": 2,
         "awayScore": 2,
-        "dateTime": "2026-05-09T12:15:00.000Z",
+        "dateTime": "2026-05-09T12:20:00.000Z",
         "hasTime": true,
         "venue": "אבו גוש",
         "round": 28
@@ -3386,16 +3386,16 @@
         "round": 29
       },
       {
-        "id": "s27-l824-r29-1338-vs-2204",
-        "homeTeamId": "1338",
-        "awayTeamId": "2204",
-        "homeTeam": "מכבי ת\"א",
-        "awayTeam": "הפועל ת\"א",
+        "id": "s27-l824-r29-1112-vs-2165",
+        "homeTeamId": "2165",
+        "awayTeamId": "1112",
+        "homeTeam": "הפועל פ\"ת",
+        "awayTeam": "מכבי נתניה",
         "homeScore": null,
         "awayScore": null,
-        "dateTime": "2026-05-23T06:00:00.000Z",
-        "hasTime": true,
-        "venue": "תל אביב קרית שלום 1",
+        "dateTime": "2026-05-23T09:00:00.000Z",
+        "hasTime": false,
+        "venue": null,
         "round": 29
       },
       {
@@ -3464,19 +3464,6 @@
         "round": 29
       },
       {
-        "id": "s27-l824-r29-1112-vs-2165",
-        "homeTeamId": "2165",
-        "awayTeamId": "1112",
-        "homeTeam": "הפועל פ\"ת",
-        "awayTeam": "מכבי נתניה",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-05-23T09:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
-        "round": 29
-      },
-      {
         "id": "s27-l824-r30-4099-vs-6449",
         "homeTeamId": "4099",
         "awayTeamId": "6449",
@@ -3500,6 +3487,19 @@
         "dateTime": "2026-05-23T09:00:00.000Z",
         "hasTime": false,
         "venue": null,
+        "round": 29
+      },
+      {
+        "id": "s27-l824-r29-1338-vs-2204",
+        "homeTeamId": "1338",
+        "awayTeamId": "2204",
+        "homeTeam": "מכבי ת\"א",
+        "awayTeam": "הפועל ת\"א",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-05-27T14:00:00.000Z",
+        "hasTime": true,
+        "venue": "תל אביב קרית שלום 1",
         "round": 29
       }
     ]

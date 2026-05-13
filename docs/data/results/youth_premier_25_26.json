@@ -3191,6 +3191,19 @@
         "round": 28
       },
       {
+        "id": "s27-l101-r28-2479-vs-4692",
+        "homeTeamId": "2479",
+        "awayTeamId": "4692",
+        "homeTeam": "הפ' כפ\"ס",
+        "awayTeam": "בני יהודה",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-05-16T08:00:00.000Z",
+        "hasTime": true,
+        "venue": "כפר סבא אצטדיון לויטה",
+        "round": 28
+      },
+      {
         "id": "s27-l101-r28-1199-vs-2843",
         "homeTeamId": "1199",
         "awayTeamId": "2843",
@@ -3201,19 +3214,6 @@
         "dateTime": "2026-05-16T09:00:00.000Z",
         "hasTime": true,
         "venue": "אשדוד אצטדיון הי\"א",
-        "round": 28
-      },
-      {
-        "id": "s27-l101-r28-2479-vs-4692",
-        "homeTeamId": "2479",
-        "awayTeamId": "4692",
-        "homeTeam": "הפ' כפ\"ס",
-        "awayTeam": "בני יהודה",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-05-16T09:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
         "round": 28
       },
       {

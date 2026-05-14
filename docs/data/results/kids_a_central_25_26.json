@@ -701,19 +701,6 @@
         "round": 6
       },
       {
-        "id": "s27-l156-r6-1538-vs-2796",
-        "homeTeamId": "2796",
-        "awayTeamId": "1538",
-        "homeTeam": "הפועל פ\"ת",
-        "awayTeam": "מכבי ת\"א",
-        "homeScore": 2,
-        "awayScore": 5,
-        "dateTime": "2025-11-08T06:30:00.000Z",
-        "hasTime": true,
-        "venue": "פתח תקוה מושבה דרומי",
-        "round": 6
-      },
-      {
         "id": "s27-l156-r6-1485-vs-4682",
         "homeTeamId": "4682",
         "awayTeamId": "1485",
@@ -724,6 +711,19 @@
         "dateTime": "2025-11-08T06:30:00.000Z",
         "hasTime": true,
         "venue": "תל אביב שכונת התקוה סינטטי 2",
+        "round": 6
+      },
+      {
+        "id": "s27-l156-r6-1538-vs-2796",
+        "homeTeamId": "2796",
+        "awayTeamId": "1538",
+        "homeTeam": "הפועל פ\"ת",
+        "awayTeam": "מכבי ת\"א",
+        "homeScore": 2,
+        "awayScore": 5,
+        "dateTime": "2025-11-08T06:30:00.000Z",
+        "hasTime": true,
+        "venue": "פתח תקוה מושבה דרומי",
         "round": 6
       },
       {
@@ -1208,19 +1208,6 @@
         "round": 10
       },
       {
-        "id": "s27-l156-r10-2075-vs-2878",
-        "homeTeamId": "2075",
-        "awayTeamId": "2878",
-        "homeTeam": "הפועל רעננה",
-        "awayTeam": "הפועל ראשל\"צ",
-        "homeScore": 1,
-        "awayScore": 2,
-        "dateTime": "2025-12-27T08:30:00.000Z",
-        "hasTime": true,
-        "venue": "רעננה פארק צפוני סינטטי",
-        "round": 10
-      },
-      {
         "id": "s27-l156-r10-2756-vs-2796",
         "homeTeamId": "2796",
         "awayTeamId": "2756",
@@ -1231,6 +1218,19 @@
         "dateTime": "2025-12-27T08:30:00.000Z",
         "hasTime": true,
         "venue": "פתח תקוה מושבה דרומי",
+        "round": 10
+      },
+      {
+        "id": "s27-l156-r10-2075-vs-2878",
+        "homeTeamId": "2075",
+        "awayTeamId": "2878",
+        "homeTeam": "הפועל רעננה",
+        "awayTeam": "הפועל ראשל\"צ",
+        "homeScore": 1,
+        "awayScore": 2,
+        "dateTime": "2025-12-27T08:30:00.000Z",
+        "hasTime": true,
+        "venue": "רעננה פארק צפוני סינטטי",
         "round": 10
       },
       {
@@ -1429,19 +1429,6 @@
         "round": 9
       },
       {
-        "id": "s27-l156-r12-1538-vs-2228",
-        "homeTeamId": "2228",
-        "awayTeamId": "1538",
-        "homeTeam": "הפועל ר\"ג",
-        "awayTeam": "מכבי ת\"א",
-        "homeScore": 1,
-        "awayScore": 8,
-        "dateTime": "2026-01-10T06:30:00.000Z",
-        "hasTime": true,
-        "venue": "רמת גן ספארי",
-        "round": 12
-      },
-      {
         "id": "s27-l156-r12-1485-vs-6223",
         "homeTeamId": "6223",
         "awayTeamId": "1485",
@@ -1452,6 +1439,19 @@
         "dateTime": "2026-01-10T06:30:00.000Z",
         "hasTime": true,
         "venue": "אבו גוש",
+        "round": 12
+      },
+      {
+        "id": "s27-l156-r12-1538-vs-2228",
+        "homeTeamId": "2228",
+        "awayTeamId": "1538",
+        "homeTeam": "הפועל ר\"ג",
+        "awayTeam": "מכבי ת\"א",
+        "homeScore": 1,
+        "awayScore": 8,
+        "dateTime": "2026-01-10T06:30:00.000Z",
+        "hasTime": true,
+        "venue": "רמת גן ספארי",
         "round": 12
       },
       {
@@ -1572,19 +1572,6 @@
         "round": 13
       },
       {
-        "id": "s27-l156-r13-2392-vs-2796",
-        "homeTeamId": "2796",
-        "awayTeamId": "2392",
-        "homeTeam": "הפועל פ\"ת",
-        "awayTeam": "הפועל ת\"א",
-        "homeScore": 0,
-        "awayScore": 2,
-        "dateTime": "2026-01-17T08:30:00.000Z",
-        "hasTime": true,
-        "venue": "פתח תקוה מושבה דרומי",
-        "round": 13
-      },
-      {
         "id": "s27-l156-r13-1168-vs-1896",
         "homeTeamId": "1896",
         "awayTeamId": "1168",
@@ -1595,6 +1582,19 @@
         "dateTime": "2026-01-17T08:30:00.000Z",
         "hasTime": true,
         "venue": "חולון אימונים סינטטי ליד בית העלמין",
+        "round": 13
+      },
+      {
+        "id": "s27-l156-r13-2392-vs-2796",
+        "homeTeamId": "2796",
+        "awayTeamId": "2392",
+        "homeTeam": "הפועל פ\"ת",
+        "awayTeam": "הפועל ת\"א",
+        "homeScore": 0,
+        "awayScore": 2,
+        "dateTime": "2026-01-17T08:30:00.000Z",
+        "hasTime": true,
+        "venue": "פתח תקוה מושבה דרומי",
         "round": 13
       },
       {

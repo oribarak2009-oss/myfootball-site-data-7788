@@ -1,21 +1,15 @@
 {
-  "fetched_at_utc": "2026-05-15T04:30:53.678641+00:00",
+  "fetched_at_utc": "2026-05-15T08:17:32.578749+00:00",
   "updated": [
     {
-      "key": "kids_b_central_25_26",
-      "type": "results"
-    },
-    {
-      "key": "na_arim_c_premier_25_26",
-      "type": "results"
-    },
-    {
-      "key": "na_arim_b_premier_25_26",
-      "type": "results"
+      "key": "kids_a_central_25_26",
+      "type": "error",
+      "error": "502 Server Error: Bad Gateway for url: https://junior-league-api-server-928016183646.us-central1.run.app/api/public/leagues/%D7%9C%D7%99%D7%92%D7%AA%20%D7%99%D7%9C%D7%93%D7%99%D7%9D%20%D7%90'%20%D7%9E%D7%A8%D7%9B%D7%96/matches"
     },
     {
       "key": "na_arim_a_premier_25_26",
-      "type": "results"
+      "type": "error",
+      "error": "502 Server Error: Bad Gateway for url: https://junior-league-api-server-928016183646.us-central1.run.app/api/public/leagues/%D7%9C%D7%99%D7%92%D7%AA%20%D7%A0%D7%A2%D7%A8%D7%99%D7%9D%20%D7%90'%20%D7%A2%D7%9C/matches"
     }
   ]
 }

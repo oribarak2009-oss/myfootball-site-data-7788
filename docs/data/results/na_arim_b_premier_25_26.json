@@ -3321,19 +3321,6 @@
         "round": 28
       },
       {
-        "id": "s27-l773-r28-1432-vs-2227",
-        "homeTeamId": "2227",
-        "awayTeamId": "1432",
-        "homeTeam": "הפועל ת\"א",
-        "awayTeam": "מכבי חיפה",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-05-16T11:00:00.000Z",
-        "hasTime": true,
-        "venue": "תל אביב וולפסון 2",
-        "round": 28
-      },
-      {
         "id": "s27-l773-r29-2153-vs-2845",
         "homeTeamId": "2153",
         "awayTeamId": "2845",
@@ -3357,6 +3344,19 @@
         "dateTime": "2026-05-17T14:00:00.000Z",
         "hasTime": true,
         "venue": "פתח תקוה מכבי סינטטי",
+        "round": 28
+      },
+      {
+        "id": "s27-l773-r28-1432-vs-2227",
+        "homeTeamId": "2227",
+        "awayTeamId": "1432",
+        "homeTeam": "הפועל ת\"א",
+        "awayTeam": "מכבי חיפה",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-05-17T15:30:00.000Z",
+        "hasTime": true,
+        "venue": "תל אביב וולפסון 2",
         "round": 28
       },
       {

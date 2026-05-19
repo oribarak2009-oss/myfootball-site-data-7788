@@ -3198,7 +3198,7 @@
         "awayTeam": "הפועל ב\"ש",
         "homeScore": 6,
         "awayScore": 0,
-        "dateTime": "2026-05-17T17:00:00.000Z",
+        "dateTime": "2026-05-17T17:10:00.000Z",
         "hasTime": true,
         "venue": "ירושלים בית וגן 1 תחתון",
         "round": 27
@@ -3256,19 +3256,6 @@
         "round": 28
       },
       {
-        "id": "s27-l726-r28-1752-vs-6027",
-        "homeTeamId": "1752",
-        "awayTeamId": "6027",
-        "homeTeam": "מכבי נתניה",
-        "awayTeam": "הפועל י-ם",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-05-23T09:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
-        "round": 28
-      },
-      {
         "id": "s27-l726-r28-3601-vs-4698",
         "homeTeamId": "4698",
         "awayTeamId": "3601",
@@ -3295,6 +3282,19 @@
         "round": 28
       },
       {
+        "id": "s27-l726-r28-1752-vs-6027",
+        "homeTeamId": "1752",
+        "awayTeamId": "6027",
+        "homeTeam": "מכבי נתניה",
+        "awayTeam": "הפועל י-ם",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-05-23T09:30:00.000Z",
+        "hasTime": true,
+        "venue": "נתניה שפירא",
+        "round": 28
+      },
+      {
         "id": "s27-l726-r28-2294-vs-4020",
         "homeTeamId": "4020",
         "awayTeamId": "2294",
@@ -3302,9 +3302,9 @@
         "awayTeam": "הפועל ב\"ש",
         "homeScore": null,
         "awayScore": null,
-        "dateTime": "2026-05-23T09:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
+        "dateTime": "2026-05-23T14:00:00.000Z",
+        "hasTime": true,
+        "venue": "סכנין אימונים",
         "round": 28
       },
       {
@@ -3315,9 +3315,9 @@
         "awayTeam": "הפועל חדרה",
         "homeScore": null,
         "awayScore": null,
-        "dateTime": "2026-05-23T09:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
+        "dateTime": "2026-05-26T14:00:00.000Z",
+        "hasTime": true,
+        "venue": "אשדוד סינטטי",
         "round": 28
       }
     ]

@@ -3496,16 +3496,16 @@
         "round": 29
       },
       {
-        "id": "s27-l661-r29-4187-vs-5665",
-        "homeTeamId": "5665",
-        "awayTeamId": "4187",
-        "homeTeam": "הפועל חדרה",
-        "awayTeam": "נהלל יזרעאל",
+        "id": "s27-l661-r29-1908-vs-5172",
+        "homeTeamId": "1908",
+        "awayTeamId": "5172",
+        "homeTeam": "מכבי ת\"א לייבו",
+        "awayTeam": "נוף הגליל",
         "homeScore": null,
         "awayScore": null,
-        "dateTime": "2026-05-23T09:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
+        "dateTime": "2026-05-23T08:00:00.000Z",
+        "hasTime": true,
+        "venue": "תל אביב אוניברסיטת ת\"א",
         "round": 29
       },
       {
@@ -3548,11 +3548,11 @@
         "round": 29
       },
       {
-        "id": "s27-l661-r29-2336-vs-5331",
-        "homeTeamId": "5331",
-        "awayTeamId": "2336",
-        "homeTeam": "קדימה צורן",
-        "awayTeam": "הפועל חיפה",
+        "id": "s27-l661-r29-4187-vs-5665",
+        "homeTeamId": "5665",
+        "awayTeamId": "4187",
+        "homeTeam": "הפועל חדרה",
+        "awayTeam": "נהלל יזרעאל",
         "homeScore": null,
         "awayScore": null,
         "dateTime": "2026-05-23T09:00:00.000Z",
@@ -3600,11 +3600,11 @@
         "round": 29
       },
       {
-        "id": "s27-l661-r29-1908-vs-5172",
-        "homeTeamId": "1908",
-        "awayTeamId": "5172",
-        "homeTeam": "מכבי ת\"א לייבו",
-        "awayTeam": "נוף הגליל",
+        "id": "s27-l661-r29-2336-vs-5331",
+        "homeTeamId": "5331",
+        "awayTeamId": "2336",
+        "homeTeam": "קדימה צורן",
+        "awayTeam": "הפועל חיפה",
         "homeScore": null,
         "awayScore": null,
         "dateTime": "2026-05-23T09:00:00.000Z",

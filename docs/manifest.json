@@ -1,12 +1,20 @@
 {
-  "fetched_at_utc": "2026-05-19T16:31:53.700614+00:00",
+  "fetched_at_utc": "2026-05-19T19:18:55.603662+00:00",
   "updated": [
     {
-      "key": "kids_a_central_25_26",
+      "key": "kids_b_sharon_25_26",
       "type": "results"
     },
     {
-      "key": "kids_a_central_25_26",
+      "key": "kids_b_sharon_25_26",
+      "type": "standings"
+    },
+    {
+      "key": "kids_b_central_25_26",
+      "type": "results"
+    },
+    {
+      "key": "kids_b_central_25_26",
       "type": "standings"
     },
     {
@@ -18,6 +26,14 @@
       "type": "standings"
     },
     {
+      "key": "kids_c_central_25_26",
+      "type": "results"
+    },
+    {
+      "key": "kids_c_central_25_26",
+      "type": "standings"
+    },
+    {
       "key": "na_arim_c_premier_25_26",
       "type": "results"
     },
@@ -26,11 +42,11 @@
       "type": "standings"
     },
     {
-      "key": "youth_premier_25_26",
+      "key": "na_arim_b_premier_25_26",
       "type": "results"
     },
     {
-      "key": "youth_premier_25_26",
+      "key": "na_arim_b_premier_25_26",
       "type": "standings"
     }
   ]

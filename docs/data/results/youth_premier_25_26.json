@@ -3380,9 +3380,9 @@
         "awayTeam": "מ.ס. אשדוד",
         "homeScore": null,
         "awayScore": null,
-        "dateTime": "2026-05-23T09:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
+        "dateTime": "2026-05-23T13:00:00.000Z",
+        "hasTime": true,
+        "venue": "שכונת התקוה",
         "round": 29
       }
     ]

@@ -3496,19 +3496,6 @@
         "round": 29
       },
       {
-        "id": "s27-l156-r29-1896-vs-2228",
-        "homeTeamId": "1896",
-        "awayTeamId": "2228",
-        "homeTeam": "ירמיהו חולון",
-        "awayTeam": "הפועל ר\"ג",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-05-23T09:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
-        "round": 29
-      },
-      {
         "id": "s27-l156-r29-1168-vs-5232",
         "homeTeamId": "1168",
         "awayTeamId": "5232",
@@ -3516,7 +3503,7 @@
         "awayTeam": "ס. נס ציונה",
         "homeScore": null,
         "awayScore": null,
-        "dateTime": "2026-05-23T10:00:00.000Z",
+        "dateTime": "2026-05-23T09:00:00.000Z",
         "hasTime": true,
         "venue": "חיפה קצף סינטטי",
         "round": 29
@@ -3532,6 +3519,19 @@
         "dateTime": "2026-05-23T11:55:00.000Z",
         "hasTime": true,
         "venue": "נתניה שפירא",
+        "round": 29
+      },
+      {
+        "id": "s27-l156-r29-1896-vs-2228",
+        "homeTeamId": "1896",
+        "awayTeamId": "2228",
+        "homeTeam": "ירמיהו חולון",
+        "awayTeam": "הפועל ר\"ג",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-05-25T12:30:00.000Z",
+        "hasTime": true,
+        "venue": "חולון טוטו",
         "round": 29
       },
       {

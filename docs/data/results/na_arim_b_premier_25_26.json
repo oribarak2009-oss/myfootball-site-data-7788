@@ -3425,19 +3425,6 @@
         "round": 29
       },
       {
-        "id": "s27-l773-r30-3602-vs-4425",
-        "homeTeamId": "3602",
-        "awayTeamId": "4425",
-        "homeTeam": "בית\"ר י-ם",
-        "awayTeam": "בני יהודה",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-05-23T09:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
-        "round": 30
-      },
-      {
         "id": "s27-l773-r30-2085-vs-6655",
         "homeTeamId": "2085",
         "awayTeamId": "6655",
@@ -3445,22 +3432,22 @@
         "awayTeam": "הפ' ירושלים",
         "homeScore": null,
         "awayScore": null,
-        "dateTime": "2026-05-23T09:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
+        "dateTime": "2026-05-21T08:15:00.000Z",
+        "hasTime": true,
+        "venue": "באר שבע וסרמיל 4",
         "round": 30
       },
       {
-        "id": "s27-l773-r30-2727-vs-2845",
-        "homeTeamId": "2845",
-        "awayTeamId": "2727",
-        "homeTeam": "הפ' ראשל\"צ",
-        "awayTeam": "הפ' רמה\"ש",
+        "id": "s27-l773-r30-3602-vs-4425",
+        "homeTeamId": "3602",
+        "awayTeamId": "4425",
+        "homeTeam": "בית\"ר י-ם",
+        "awayTeam": "בני יהודה",
         "homeScore": null,
         "awayScore": null,
-        "dateTime": "2026-05-24T14:00:00.000Z",
+        "dateTime": "2026-05-24T16:00:00.000Z",
         "hasTime": true,
-        "venue": "ראשון לציון סופרלנד מערבי סינטטי",
+        "venue": "ירושלים בית וגן 1 תחתון",
         "round": 30
       },
       {
@@ -3471,9 +3458,22 @@
         "awayTeam": "הפועל ק\"ש",
         "homeScore": null,
         "awayScore": null,
-        "dateTime": "2026-05-24T14:00:00.000Z",
+        "dateTime": "2026-05-25T15:30:00.000Z",
         "hasTime": true,
         "venue": "נהלל",
+        "round": 30
+      },
+      {
+        "id": "s27-l773-r30-2727-vs-2845",
+        "homeTeamId": "2845",
+        "awayTeamId": "2727",
+        "homeTeam": "הפ' ראשל\"צ",
+        "awayTeam": "הפ' רמה\"ש",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-05-26T16:30:00.000Z",
+        "hasTime": true,
+        "venue": "ראשון לציון סופרלנד מערבי סינטטי",
         "round": 30
       },
       {
@@ -3484,7 +3484,7 @@
         "awayTeam": "מכבי נתניה",
         "homeScore": null,
         "awayScore": null,
-        "dateTime": "2026-05-28T14:00:00.000Z",
+        "dateTime": "2026-05-28T14:30:00.000Z",
         "hasTime": true,
         "venue": "חיפה קצף תחתון",
         "round": 29
@@ -3497,7 +3497,7 @@
         "awayTeam": "הפועל ת\"א",
         "homeScore": null,
         "awayScore": null,
-        "dateTime": "2026-05-28T14:00:00.000Z",
+        "dateTime": "2026-05-28T14:30:00.000Z",
         "hasTime": true,
         "venue": "תל אביב קרית שלום 1",
         "round": 29

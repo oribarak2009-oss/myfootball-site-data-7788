@@ -3438,17 +3438,17 @@
         "round": 29
       },
       {
-        "id": "s27-l824-r30-4099-vs-6449",
-        "homeTeamId": "4099",
-        "awayTeamId": "6449",
-        "homeTeam": "בני יהודה",
-        "awayTeam": "הפ' ירושלים",
+        "id": "s27-l824-r29-2497-vs-3031",
+        "homeTeamId": "2497",
+        "awayTeamId": "3031",
+        "homeTeam": "הפועל כפ\"ס",
+        "awayTeam": "בית\"ר י-ם",
         "homeScore": null,
         "awayScore": null,
-        "dateTime": "2026-05-23T09:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
-        "round": 30
+        "dateTime": "2026-05-23T15:00:00.000Z",
+        "hasTime": true,
+        "venue": "כפר סבא אימונים תחתון (סינטטי)",
+        "round": 29
       },
       {
         "id": "s27-l824-r30-2181-vs-2905",
@@ -3477,17 +3477,17 @@
         "round": 30
       },
       {
-        "id": "s27-l824-r29-2497-vs-3031",
-        "homeTeamId": "2497",
-        "awayTeamId": "3031",
-        "homeTeam": "הפועל כפ\"ס",
-        "awayTeam": "בית\"ר י-ם",
+        "id": "s27-l824-r30-4099-vs-6449",
+        "homeTeamId": "4099",
+        "awayTeamId": "6449",
+        "homeTeam": "בני יהודה",
+        "awayTeam": "הפ' ירושלים",
         "homeScore": null,
         "awayScore": null,
-        "dateTime": "2026-05-23T16:00:00.000Z",
+        "dateTime": "2026-05-24T17:00:00.000Z",
         "hasTime": true,
-        "venue": "כפר סבא אימונים תחתון (סינטטי)",
-        "round": 29
+        "venue": "בת ים אימונים 1",
+        "round": 30
       },
       {
         "id": "s27-l824-r29-1338-vs-2204",

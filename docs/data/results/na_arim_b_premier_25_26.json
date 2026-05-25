@@ -3451,6 +3451,19 @@
         "round": 30
       },
       {
+        "id": "s27-l773-r30-2727-vs-2845",
+        "homeTeamId": "2845",
+        "awayTeamId": "2727",
+        "homeTeam": "הפ' ראשל\"צ",
+        "awayTeam": "הפ' רמה\"ש",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-05-25T14:15:00.000Z",
+        "hasTime": true,
+        "venue": "ראשון לציון סופרלנד מערבי סינטטי",
+        "round": 30
+      },
+      {
         "id": "s27-l773-r30-2153-vs-8370",
         "homeTeamId": "8370",
         "awayTeamId": "2153",
@@ -3461,19 +3474,6 @@
         "dateTime": "2026-05-25T15:30:00.000Z",
         "hasTime": true,
         "venue": "נהלל",
-        "round": 30
-      },
-      {
-        "id": "s27-l773-r30-2727-vs-2845",
-        "homeTeamId": "2845",
-        "awayTeamId": "2727",
-        "homeTeam": "הפ' ראשל\"צ",
-        "awayTeam": "הפ' רמה\"ש",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-05-26T16:30:00.000Z",
-        "hasTime": true,
-        "venue": "ראשון לציון סופרלנד מערבי סינטטי",
         "round": 30
       },
       {

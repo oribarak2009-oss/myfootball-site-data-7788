@@ -3171,6 +3171,32 @@
         "round": 29
       },
       {
+        "id": "s27-l154-r30-4185-vs-5093",
+        "homeTeamId": "4185",
+        "awayTeamId": "5093",
+        "homeTeam": "מ.כ. נהלל יזרעאל",
+        "awayTeam": "קדימה צורן",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-05-28T17:00:00.000Z",
+        "hasTime": true,
+        "venue": "נהלל",
+        "round": 30
+      },
+      {
+        "id": "s27-l154-r30-2498-vs-4022",
+        "homeTeamId": "2498",
+        "awayTeamId": "4022",
+        "homeTeam": "הפועל עכו",
+        "awayTeam": "מ.כ. נוה יוסף",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-05-29T12:45:00.000Z",
+        "hasTime": true,
+        "venue": "עכו אצטדיון טוטו",
+        "round": 30
+      },
+      {
         "id": "s27-l154-r30-2471-vs-6596",
         "homeTeamId": "2471",
         "awayTeamId": "6596",
@@ -3191,35 +3217,9 @@
         "awayTeam": "מ. חיפה גולד'",
         "homeScore": null,
         "awayScore": null,
-        "dateTime": "2026-05-30T09:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
-        "round": 30
-      },
-      {
-        "id": "s27-l154-r30-2498-vs-4022",
-        "homeTeamId": "2498",
-        "awayTeamId": "4022",
-        "homeTeam": "הפועל עכו",
-        "awayTeam": "מ.כ. נוה יוסף",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-05-30T09:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
-        "round": 30
-      },
-      {
-        "id": "s27-l154-r30-3042-vs-6676",
-        "homeTeamId": "6676",
-        "awayTeamId": "3042",
-        "homeTeam": "הפועל ת\"א צפון",
-        "awayTeam": "בית\"ר טוברוק",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-05-30T09:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
+        "dateTime": "2026-05-30T06:00:00.000Z",
+        "hasTime": true,
+        "venue": "חדרה מתחם אימונים סינטטי",
         "round": 30
       },
       {
@@ -3236,11 +3236,11 @@
         "round": 30
       },
       {
-        "id": "s27-l154-r30-4185-vs-5093",
-        "homeTeamId": "4185",
-        "awayTeamId": "5093",
-        "homeTeam": "מ.כ. נהלל יזרעאל",
-        "awayTeam": "קדימה צורן",
+        "id": "s27-l154-r30-3042-vs-6676",
+        "homeTeamId": "6676",
+        "awayTeamId": "3042",
+        "homeTeam": "הפועל ת\"א צפון",
+        "awayTeam": "בית\"ר טוברוק",
         "homeScore": null,
         "awayScore": null,
         "dateTime": "2026-05-30T09:00:00.000Z",

@@ -3496,19 +3496,6 @@
         "round": 28
       },
       {
-        "id": "s27-l165-r30-2930-vs-6059",
-        "homeTeamId": "6059",
-        "awayTeamId": "2930",
-        "homeTeam": "מ.ס ב\"ש",
-        "awayTeam": "הפ' ירושלים",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-05-27T16:20:00.000Z",
-        "hasTime": true,
-        "venue": "באר שבע רייסר 1 סינטטי",
-        "round": 30
-      },
-      {
         "id": "s27-l165-r30-1515-vs-2818",
         "homeTeamId": "2818",
         "awayTeamId": "1515",
@@ -3535,6 +3522,19 @@
         "round": 30
       },
       {
+        "id": "s27-l165-r30-2866-vs-4993",
+        "homeTeamId": "2866",
+        "awayTeamId": "4993",
+        "homeTeam": "הפועל רעננה",
+        "awayTeam": "רמת אליהו",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-05-30T06:00:00.000Z",
+        "hasTime": true,
+        "venue": "רעננה פארק צפוני סינטטי",
+        "round": 30
+      },
+      {
         "id": "s27-l165-r30-1243-vs-4666",
         "homeTeamId": "1243",
         "awayTeamId": "4666",
@@ -3548,24 +3548,24 @@
         "round": 30
       },
       {
+        "id": "s27-l165-r30-2134-vs-5233",
+        "homeTeamId": "5233",
+        "awayTeamId": "2134",
+        "homeTeam": "ס. נס ציונה",
+        "awayTeam": "הפועל ת\"א",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-05-30T07:00:00.000Z",
+        "hasTime": true,
+        "venue": "נס ציונה אימונים סינטטי חדש",
+        "round": 30
+      },
+      {
         "id": "s27-l165-r30-1049-vs-5541",
         "homeTeamId": "1049",
         "awayTeamId": "5541",
         "homeTeam": "מכבי פ\"ת",
         "awayTeam": "עמישב פ\"ת",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-05-30T09:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
-        "round": 30
-      },
-      {
-        "id": "s27-l165-r30-2866-vs-4993",
-        "homeTeamId": "2866",
-        "awayTeamId": "4993",
-        "homeTeam": "הפועל רעננה",
-        "awayTeam": "רמת אליהו",
         "homeScore": null,
         "awayScore": null,
         "dateTime": "2026-05-30T09:00:00.000Z",
@@ -3600,19 +3600,6 @@
         "round": 30
       },
       {
-        "id": "s27-l165-r30-2134-vs-5233",
-        "homeTeamId": "5233",
-        "awayTeamId": "2134",
-        "homeTeam": "ס. נס ציונה",
-        "awayTeam": "הפועל ת\"א",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-05-30T09:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
-        "round": 30
-      },
-      {
         "id": "s27-l165-r30-1650-vs-6248",
         "homeTeamId": "6248",
         "awayTeamId": "1650",
@@ -3623,6 +3610,19 @@
         "dateTime": "2026-05-30T09:00:00.000Z",
         "hasTime": false,
         "venue": null,
+        "round": 30
+      },
+      {
+        "id": "s27-l165-r30-2930-vs-6059",
+        "homeTeamId": "6059",
+        "awayTeamId": "2930",
+        "homeTeam": "מ.ס ב\"ש",
+        "awayTeam": "הפ' ירושלים",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-05-31T15:00:00.000Z",
+        "hasTime": true,
+        "venue": "באר שבע רייסר 1 סינטטי",
         "round": 30
       }
     ]

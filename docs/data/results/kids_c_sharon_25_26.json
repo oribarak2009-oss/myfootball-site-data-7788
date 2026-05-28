@@ -3890,6 +3890,20 @@
         "round": 30
       },
       {
+        "id": "s27-l661-r30-3019-vs-5167",
+        "homeTeamId": "3019",
+        "awayTeamId": "5167",
+        "excludeFromLeagueTable": false,
+        "homeTeam": "בית\"ר טוברוק",
+        "awayTeam": "הפועל ת\"א צפון",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-05-29T13:45:00.000Z",
+        "hasTime": true,
+        "venue": "נתניה טוברוק",
+        "round": 30
+      },
+      {
         "id": "s27-l661-r30-4213-vs-6174",
         "homeTeamId": "6174",
         "awayTeamId": "4213",
@@ -3915,20 +3929,6 @@
         "dateTime": "2026-05-30T08:00:00.000Z",
         "hasTime": true,
         "venue": "נהלל",
-        "round": 30
-      },
-      {
-        "id": "s27-l661-r30-3019-vs-5167",
-        "homeTeamId": "3019",
-        "awayTeamId": "5167",
-        "excludeFromLeagueTable": false,
-        "homeTeam": "בית\"ר טוברוק",
-        "awayTeam": "הפועל ת\"א צפון",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-05-30T09:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
         "round": 30
       },
       {

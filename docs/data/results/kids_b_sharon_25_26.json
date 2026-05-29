@@ -3694,6 +3694,20 @@
         "round": 28
       },
       {
+        "id": "s27-l163-r30-3007-vs-4912",
+        "homeTeamId": "4912",
+        "awayTeamId": "3007",
+        "excludeFromLeagueTable": false,
+        "homeTeam": "קדימה צורן",
+        "awayTeam": "בית\"ר טוברוק",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-05-29T13:45:00.000Z",
+        "hasTime": true,
+        "venue": "קדימה",
+        "round": 30
+      },
+      {
         "id": "s27-l163-r30-1307-vs-2161",
         "homeTeamId": "1307",
         "awayTeamId": "2161",
@@ -3761,20 +3775,6 @@
         "dateTime": "2026-05-30T09:30:00.000Z",
         "hasTime": true,
         "venue": "תל אביב אוניברסיטת ת\"א",
-        "round": 30
-      },
-      {
-        "id": "s27-l163-r30-3007-vs-4912",
-        "homeTeamId": "4912",
-        "awayTeamId": "3007",
-        "excludeFromLeagueTable": false,
-        "homeTeam": "קדימה צורן",
-        "awayTeam": "בית\"ר טוברוק",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-05-30T10:00:00.000Z",
-        "hasTime": true,
-        "venue": "קדימה",
         "round": 30
       },
       {

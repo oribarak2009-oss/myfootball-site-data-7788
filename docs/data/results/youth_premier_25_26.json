@@ -3646,7 +3646,7 @@
         "id": "s27-l101-r30-2500-vs-2843",
         "homeTeamId": "2843",
         "awayTeamId": "2500",
-        "excludeFromLeagueTable": false,
+        "excludeFromLeagueTable": true,
         "homeTeam": "הפ' רמה\"ש",
         "awayTeam": "הפועל ר\"ג",
         "homeScore": null,

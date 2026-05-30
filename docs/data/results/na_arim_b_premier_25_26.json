@@ -3772,7 +3772,7 @@
         "id": "s27-l773-r31-2765-vs-8370",
         "homeTeamId": "2765",
         "awayTeamId": "8370",
-        "excludeFromLeagueTable": false,
+        "excludeFromLeagueTable": true,
         "homeTeam": "הפועל חיפה",
         "awayTeam": "נהלל יזרעאל",
         "homeScore": null,

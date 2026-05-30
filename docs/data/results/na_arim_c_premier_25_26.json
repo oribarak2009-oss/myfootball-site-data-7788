@@ -3772,7 +3772,7 @@
         "id": "s27-l824-r31-2905-vs-6245",
         "homeTeamId": "6245",
         "awayTeamId": "2905",
-        "excludeFromLeagueTable": false,
+        "excludeFromLeagueTable": true,
         "homeTeam": "הוד השרון",
         "awayTeam": "הפועל חדרה",
         "homeScore": null,

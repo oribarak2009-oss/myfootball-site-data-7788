@@ -3778,20 +3778,6 @@
         "round": 30
       },
       {
-        "id": "s27-l163-r30-3684-vs-6932",
-        "homeTeamId": "6932",
-        "awayTeamId": "3684",
-        "excludeFromLeagueTable": false,
-        "homeTeam": "הפועל ר\"ג צפון",
-        "awayTeam": "מ.ס. עמק חפר",
-        "homeScore": 2,
-        "awayScore": 2,
-        "dateTime": "2026-05-31T15:50:00.000Z",
-        "hasTime": true,
-        "venue": "רמת גן ספארי",
-        "round": 30
-      },
-      {
         "id": "s27-l163-r30-2849-vs-3678",
         "homeTeamId": "2849",
         "awayTeamId": "3678",
@@ -3803,6 +3789,20 @@
         "dateTime": "2026-05-31T16:00:00.000Z",
         "hasTime": true,
         "venue": "כפר סבא אימונים תחתון (סינטטי)",
+        "round": 30
+      },
+      {
+        "id": "s27-l163-r30-3684-vs-6932",
+        "homeTeamId": "6932",
+        "awayTeamId": "3684",
+        "excludeFromLeagueTable": false,
+        "homeTeam": "הפועל ר\"ג צפון",
+        "awayTeam": "מ.ס. עמק חפר",
+        "homeScore": 2,
+        "awayScore": 2,
+        "dateTime": "2026-05-31T16:00:00.000Z",
+        "hasTime": true,
+        "venue": "רמת גן ספארי",
         "round": 30
       }
     ]

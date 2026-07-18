@@ -1,4 +1,15 @@
 {
-  "fetched_at_utc": "2026-07-18T22:08:38.404714+00:00",
-  "updated": []
+  "fetched_at_utc": "2026-07-18T23:12:14.025721+00:00",
+  "updated": [
+    {
+      "key": "kids_a_central_25_26",
+      "type": "error",
+      "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+    },
+    {
+      "key": "youth_premier_25_26",
+      "type": "error",
+      "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+    }
+  ]
 }

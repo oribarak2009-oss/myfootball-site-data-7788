@@ -40,20 +40,6 @@
         "round": 1
       },
       {
-        "id": "s28-l101-r1-2385-vs-2489",
-        "homeTeamId": "2489",
-        "awayTeamId": "2385",
-        "excludeFromLeagueTable": false,
-        "homeTeam": "הפועל פ\"ת",
-        "awayTeam": "הפועל ק\"ש",
-        "homeScore": 2,
-        "awayScore": 1,
-        "dateTime": "2026-08-15T15:00:00.000Z",
-        "hasTime": true,
-        "venue": "פתח תקוה אצטדיון שלמה ביטוח",
-        "round": 1
-      },
-      {
         "id": "s28-l101-r1-2441-vs-2843",
         "homeTeamId": "2441",
         "awayTeamId": "2843",
@@ -79,6 +65,20 @@
         "dateTime": "2026-08-15T15:00:00.000Z",
         "hasTime": true,
         "venue": "אשדוד אצטדיון הי\"א",
+        "round": 1
+      },
+      {
+        "id": "s28-l101-r1-2385-vs-2489",
+        "homeTeamId": "2489",
+        "awayTeamId": "2385",
+        "excludeFromLeagueTable": false,
+        "homeTeam": "הפועל פ\"ת",
+        "awayTeam": "הפועל ק\"ש",
+        "homeScore": 2,
+        "awayScore": 1,
+        "dateTime": "2026-08-15T15:00:00.000Z",
+        "hasTime": true,
+        "venue": "פתח תקוה אצטדיון שלמה ביטוח",
         "round": 1
       },
       {
@@ -264,20 +264,6 @@
         "round": 2
       },
       {
-        "id": "s28-l101-r3-1144-vs-2381",
-        "homeTeamId": "1144",
-        "awayTeamId": "2381",
-        "excludeFromLeagueTable": false,
-        "homeTeam": "מכבי הרצליה",
-        "awayTeam": "הפ' ראשל\"צ",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-08-25T14:00:00.000Z",
-        "hasTime": true,
-        "venue": "הרצליה אצטדיון טוטו",
-        "round": 3
-      },
-      {
         "id": "s28-l101-r3-2373-vs-6222",
         "homeTeamId": "2373",
         "awayTeamId": "6222",
@@ -289,6 +275,20 @@
         "dateTime": "2026-08-25T14:00:00.000Z",
         "hasTime": true,
         "venue": "באר שבע וסרמיל 4",
+        "round": 3
+      },
+      {
+        "id": "s28-l101-r3-1144-vs-2381",
+        "homeTeamId": "1144",
+        "awayTeamId": "2381",
+        "excludeFromLeagueTable": false,
+        "homeTeam": "מכבי הרצליה",
+        "awayTeam": "הפ' ראשל\"צ",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-08-25T14:00:00.000Z",
+        "hasTime": true,
+        "venue": "הרצליה אצטדיון טוטו",
         "round": 3
       },
       {

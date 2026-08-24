@@ -1,4 +1,13 @@
 {
-  "fetched_at_utc": "2026-08-24T10:55:18.645912+00:00",
-  "updated": []
+  "fetched_at_utc": "2026-08-24T11:45:11.583110+00:00",
+  "updated": [
+    {
+      "key": "na_arim_b_premier_25_26",
+      "type": "results"
+    },
+    {
+      "key": "na_arim_b_premier_25_26",
+      "type": "standings"
+    }
+  ]
 }

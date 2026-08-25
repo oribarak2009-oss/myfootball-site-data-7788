@@ -138,20 +138,6 @@
         "round": 1
       },
       {
-        "id": "s28-l773-r2-2227-vs-3602",
-        "homeTeamId": "3602",
-        "awayTeamId": "2227",
-        "excludeFromLeagueTable": false,
-        "homeTeam": "בית\"ר י-ם",
-        "awayTeam": "הפועל ת\"א",
-        "homeScore": 1,
-        "awayScore": 3,
-        "dateTime": "2026-08-25T14:00:00.000Z",
-        "hasTime": true,
-        "venue": "ירושלים בית וגן 1 תחתון",
-        "round": 2
-      },
-      {
         "id": "s28-l773-r2-2365-vs-2724",
         "homeTeamId": "2724",
         "awayTeamId": "2365",
@@ -163,6 +149,20 @@
         "dateTime": "2026-08-25T14:00:00.000Z",
         "hasTime": true,
         "venue": "חדרה מתחם אימונים סינטטי",
+        "round": 2
+      },
+      {
+        "id": "s28-l773-r2-2227-vs-3602",
+        "homeTeamId": "3602",
+        "awayTeamId": "2227",
+        "excludeFromLeagueTable": false,
+        "homeTeam": "בית\"ר י-ם",
+        "awayTeam": "הפועל ת\"א",
+        "homeScore": 1,
+        "awayScore": 3,
+        "dateTime": "2026-08-25T14:15:00.000Z",
+        "hasTime": true,
+        "venue": "ירושלים בית וגן 1 תחתון",
         "round": 2
       },
       {
@@ -272,9 +272,9 @@
         "awayTeam": "הפ' ירושלים",
         "homeScore": null,
         "awayScore": null,
-        "dateTime": "2026-08-29T09:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
+        "dateTime": "2026-08-29T14:00:00.000Z",
+        "hasTime": true,
+        "venue": "רעננה פארק צפוני סינטטי",
         "round": 3
       },
       {

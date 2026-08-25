@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2026-08-25T16:57:25.240449+00:00",
+  "fetched_at_utc": "2026-08-25T17:46:31.708222+00:00",
   "updated": [
     {
       "key": "na_arim_c_premier_25_26",
@@ -15,14 +15,6 @@
     },
     {
       "key": "na_arim_b_premier_25_26",
-      "type": "standings"
-    },
-    {
-      "key": "na_arim_a_premier_25_26",
-      "type": "results"
-    },
-    {
-      "key": "na_arim_a_premier_25_26",
       "type": "standings"
     },
     {

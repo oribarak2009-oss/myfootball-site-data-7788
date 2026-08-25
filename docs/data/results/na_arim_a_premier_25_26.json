@@ -334,20 +334,6 @@
         "round": 3
       },
       {
-        "id": "s28-l726-r3-2345-vs-6027",
-        "homeTeamId": "2345",
-        "awayTeamId": "6027",
-        "excludeFromLeagueTable": false,
-        "homeTeam": "הפועל ראשל\"צ",
-        "awayTeam": "הפועל י-ם",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-08-25T17:00:00.000Z",
-        "hasTime": true,
-        "venue": "ראשון לציון סופרלנד מערבי סינטטי",
-        "round": 3
-      },
-      {
         "id": "s28-l726-r3-2412-vs-3601",
         "homeTeamId": "2412",
         "awayTeamId": "3601",
@@ -359,6 +345,20 @@
         "dateTime": "2026-08-25T17:00:00.000Z",
         "hasTime": true,
         "venue": "כפר סבא אימונים תחתון (סינטטי)",
+        "round": 3
+      },
+      {
+        "id": "s28-l726-r3-2345-vs-6027",
+        "homeTeamId": "2345",
+        "awayTeamId": "6027",
+        "excludeFromLeagueTable": false,
+        "homeTeam": "הפועל ראשל\"צ",
+        "awayTeam": "הפועל י-ם",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-08-25T17:00:00.000Z",
+        "hasTime": true,
+        "venue": "ראשון לציון סופרלנד מערבי סינטטי",
         "round": 3
       },
       {
@@ -424,20 +424,6 @@
         "excludeFromLeagueTable": false,
         "homeTeam": "הפועל רעננה",
         "awayTeam": "בני יהודה",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-08-29T09:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
-        "round": 4
-      },
-      {
-        "id": "s28-l726-r4-4020-vs-6027",
-        "homeTeamId": "6027",
-        "awayTeamId": "4020",
-        "excludeFromLeagueTable": false,
-        "homeTeam": "הפועל י-ם",
-        "awayTeam": "בני סכנין",
         "homeScore": null,
         "awayScore": null,
         "dateTime": "2026-08-29T09:00:00.000Z",
@@ -513,6 +499,20 @@
         "dateTime": "2026-08-29T09:00:00.000Z",
         "hasTime": false,
         "venue": null,
+        "round": 4
+      },
+      {
+        "id": "s28-l726-r4-4020-vs-6027",
+        "homeTeamId": "6027",
+        "awayTeamId": "4020",
+        "excludeFromLeagueTable": false,
+        "homeTeam": "הפועל י-ם",
+        "awayTeam": "בני סכנין",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-08-30T13:45:00.000Z",
+        "hasTime": true,
+        "venue": "אבו גוש",
         "round": 4
       },
       {

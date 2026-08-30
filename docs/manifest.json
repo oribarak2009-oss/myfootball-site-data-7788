@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2026-08-30T17:32:11.348405+00:00",
+  "fetched_at_utc": "2026-08-30T21:10:05.521556+00:00",
   "updated": [
     {
       "key": "na_arim_c_premier_25_26",
@@ -7,22 +7,6 @@
     },
     {
       "key": "na_arim_c_premier_25_26",
-      "type": "standings"
-    },
-    {
-      "key": "na_arim_a_premier_25_26",
-      "type": "results"
-    },
-    {
-      "key": "na_arim_a_premier_25_26",
-      "type": "standings"
-    },
-    {
-      "key": "youth_premier_25_26",
-      "type": "results"
-    },
-    {
-      "key": "youth_premier_25_26",
       "type": "standings"
     }
   ]

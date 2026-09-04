@@ -642,34 +642,6 @@
         "round": 5
       },
       {
-        "id": "s28-l101-r6-1146-vs-2843",
-        "homeTeamId": "1146",
-        "awayTeamId": "2843",
-        "excludeFromLeagueTable": false,
-        "homeTeam": "מכבי פ\"ת",
-        "awayTeam": "הפ' רמה\"ש",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-09-08T09:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
-        "round": 6
-      },
-      {
-        "id": "s28-l101-r6-1144-vs-2479",
-        "homeTeamId": "1144",
-        "awayTeamId": "2479",
-        "excludeFromLeagueTable": false,
-        "homeTeam": "מכבי הרצליה",
-        "awayTeam": "הפ' כפ\"ס",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-09-08T09:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
-        "round": 6
-      },
-      {
         "id": "s28-l101-r6-2429-vs-2473",
         "homeTeamId": "2473",
         "awayTeamId": "2429",
@@ -684,6 +656,20 @@
         "round": 6
       },
       {
+        "id": "s28-l101-r6-1144-vs-2479",
+        "homeTeamId": "1144",
+        "awayTeamId": "2479",
+        "excludeFromLeagueTable": false,
+        "homeTeam": "מכבי הרצליה",
+        "awayTeam": "הפ' כפ\"ס",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-09-08T14:00:00.000Z",
+        "hasTime": true,
+        "venue": "הרצליה אצטדיון טוטו",
+        "round": 6
+      },
+      {
         "id": "s28-l101-r6-1199-vs-2367",
         "homeTeamId": "2367",
         "awayTeamId": "1199",
@@ -695,6 +681,20 @@
         "dateTime": "2026-09-08T14:10:00.000Z",
         "hasTime": true,
         "venue": "בת ים אצטדיון טוטו",
+        "round": 6
+      },
+      {
+        "id": "s28-l101-r6-1146-vs-2843",
+        "homeTeamId": "1146",
+        "awayTeamId": "2843",
+        "excludeFromLeagueTable": false,
+        "homeTeam": "מכבי פ\"ת",
+        "awayTeam": "הפ' רמה\"ש",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-09-08T14:15:00.000Z",
+        "hasTime": true,
+        "venue": "פתח תקוה אצטדיון שלמה ביטוח",
         "round": 6
       },
       {

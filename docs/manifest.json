@@ -1,4 +1,29 @@
 {
-  "fetched_at_utc": "2026-09-05T05:47:27.376551+00:00",
-  "updated": []
+  "fetched_at_utc": "2026-09-05T10:39:55.620987+00:00",
+  "updated": [
+    {
+      "key": "na_arim_c_premier_25_26",
+      "type": "results"
+    },
+    {
+      "key": "na_arim_c_premier_25_26",
+      "type": "standings"
+    },
+    {
+      "key": "na_arim_b_premier_25_26",
+      "type": "results"
+    },
+    {
+      "key": "na_arim_b_premier_25_26",
+      "type": "standings"
+    },
+    {
+      "key": "na_arim_a_premier_25_26",
+      "type": "results"
+    },
+    {
+      "key": "na_arim_a_premier_25_26",
+      "type": "standings"
+    }
+  ]
 }

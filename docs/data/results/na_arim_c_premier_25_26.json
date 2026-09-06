@@ -432,20 +432,6 @@
         "round": 4
       },
       {
-        "id": "s28-l824-r4-2165-vs-2231",
-        "homeTeamId": "2165",
-        "awayTeamId": "2231",
-        "excludeFromLeagueTable": false,
-        "homeTeam": "הפועל פ\"ת",
-        "awayTeam": "הפועל ק\"ש",
-        "homeScore": 3,
-        "awayScore": 1,
-        "dateTime": "2026-09-05T15:15:00.000Z",
-        "hasTime": true,
-        "venue": "פתח תקוה סירקין אימונים 2 (סינטטי)",
-        "round": 4
-      },
-      {
         "id": "s28-l824-r4-2181-vs-6449",
         "homeTeamId": "2181",
         "awayTeamId": "6449",
@@ -460,17 +446,17 @@
         "round": 4
       },
       {
-        "id": "s28-l824-r4-1201-vs-2307",
-        "homeTeamId": "2307",
-        "awayTeamId": "1201",
+        "id": "s28-l824-r4-2165-vs-2231",
+        "homeTeamId": "2165",
+        "awayTeamId": "2231",
         "excludeFromLeagueTable": false,
-        "homeTeam": "הפועל רעננה",
-        "awayTeam": "מ.ס אשדוד",
-        "homeScore": 2,
-        "awayScore": 5,
-        "dateTime": "2026-09-05T15:30:00.000Z",
+        "homeTeam": "הפועל פ\"ת",
+        "awayTeam": "הפועל ק\"ש",
+        "homeScore": 3,
+        "awayScore": 1,
+        "dateTime": "2026-09-05T15:16:00.000Z",
         "hasTime": true,
-        "venue": "רעננה פארק צפוני סינטטי",
+        "venue": "פתח תקוה סירקין אימונים 2 (סינטטי)",
         "round": 4
       },
       {
@@ -485,6 +471,20 @@
         "dateTime": "2026-09-05T15:30:00.000Z",
         "hasTime": true,
         "venue": "חיפה קצף סינטטי",
+        "round": 4
+      },
+      {
+        "id": "s28-l824-r4-1201-vs-2307",
+        "homeTeamId": "2307",
+        "awayTeamId": "1201",
+        "excludeFromLeagueTable": false,
+        "homeTeam": "הפועל רעננה",
+        "awayTeam": "מ.ס אשדוד",
+        "homeScore": 2,
+        "awayScore": 5,
+        "dateTime": "2026-09-05T15:39:00.000Z",
+        "hasTime": true,
+        "venue": "רעננה פארק צפוני סינטטי",
         "round": 4
       },
       {

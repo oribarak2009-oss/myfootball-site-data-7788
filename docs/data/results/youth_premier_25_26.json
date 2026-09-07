@@ -740,20 +740,6 @@
         "round": 6
       },
       {
-        "id": "s28-l101-r6-2489-vs-3612",
-        "homeTeamId": "3612",
-        "awayTeamId": "2489",
-        "excludeFromLeagueTable": false,
-        "homeTeam": "בית\"ר י-ם",
-        "awayTeam": "הפועל פ\"ת",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-09-09T09:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
-        "round": 6
-      },
-      {
         "id": "s28-l101-r6-1143-vs-2381",
         "homeTeamId": "2381",
         "awayTeamId": "1143",
@@ -762,9 +748,23 @@
         "awayTeam": "מכבי נתניה",
         "homeScore": null,
         "awayScore": null,
-        "dateTime": "2026-09-09T09:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
+        "dateTime": "2026-09-09T16:15:00.000Z",
+        "hasTime": true,
+        "venue": "ראשון לציון אצטדיון הברפלד",
+        "round": 6
+      },
+      {
+        "id": "s28-l101-r6-2489-vs-3612",
+        "homeTeamId": "3612",
+        "awayTeamId": "2489",
+        "excludeFromLeagueTable": false,
+        "homeTeam": "בית\"ר י-ם",
+        "awayTeam": "הפועל פ\"ת",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-09-10T13:00:00.000Z",
+        "hasTime": true,
+        "venue": "ירושלים בית וגן 3",
         "round": 6
       },
       {

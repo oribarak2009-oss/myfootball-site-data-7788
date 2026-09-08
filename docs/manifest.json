@@ -1,4 +1,37 @@
 {
-  "fetched_at_utc": "2026-09-08T14:35:29.534596+00:00",
-  "updated": []
+  "fetched_at_utc": "2026-09-08T18:43:22.023393+00:00",
+  "updated": [
+    {
+      "key": "na_arim_c_premier_25_26",
+      "type": "results"
+    },
+    {
+      "key": "na_arim_c_premier_25_26",
+      "type": "standings"
+    },
+    {
+      "key": "na_arim_b_premier_25_26",
+      "type": "results"
+    },
+    {
+      "key": "na_arim_b_premier_25_26",
+      "type": "standings"
+    },
+    {
+      "key": "na_arim_a_premier_25_26",
+      "type": "results"
+    },
+    {
+      "key": "na_arim_a_premier_25_26",
+      "type": "standings"
+    },
+    {
+      "key": "youth_premier_25_26",
+      "type": "results"
+    },
+    {
+      "key": "youth_premier_25_26",
+      "type": "standings"
+    }
+  ]
 }

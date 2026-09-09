@@ -664,7 +664,7 @@
         "awayTeam": "הפועל ב\"ש",
         "homeScore": 2,
         "awayScore": 1,
-        "dateTime": "2026-09-08T14:30:00.000Z",
+        "dateTime": "2026-09-08T15:10:00.000Z",
         "hasTime": true,
         "venue": "נתניה שפירא",
         "round": 6
@@ -768,20 +768,6 @@
         "round": 6
       },
       {
-        "id": "s28-l726-r7-1593-vs-4020",
-        "homeTeamId": "4020",
-        "awayTeamId": "1593",
-        "excludeFromLeagueTable": false,
-        "homeTeam": "בני סכנין",
-        "awayTeam": "מכבי ת\"א",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-09-15T09:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
-        "round": 7
-      },
-      {
         "id": "s28-l726-r7-2234-vs-3040",
         "homeTeamId": "3040",
         "awayTeamId": "2234",
@@ -802,20 +788,6 @@
         "excludeFromLeagueTable": false,
         "homeTeam": "הפועל י-ם",
         "awayTeam": "הפועל חדרה",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-09-15T09:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
-        "round": 7
-      },
-      {
-        "id": "s28-l726-r7-1598-vs-2303",
-        "homeTeamId": "2303",
-        "awayTeamId": "1598",
-        "excludeFromLeagueTable": false,
-        "homeTeam": "הפועל ת\"א",
-        "awayTeam": "מכבי פ\"ת",
         "homeScore": null,
         "awayScore": null,
         "dateTime": "2026-09-15T09:00:00.000Z",
@@ -891,6 +863,34 @@
         "dateTime": "2026-09-15T09:00:00.000Z",
         "hasTime": false,
         "venue": null,
+        "round": 7
+      },
+      {
+        "id": "s28-l726-r7-1598-vs-2303",
+        "homeTeamId": "2303",
+        "awayTeamId": "1598",
+        "excludeFromLeagueTable": false,
+        "homeTeam": "הפועל ת\"א",
+        "awayTeam": "מכבי פ\"ת",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-09-15T09:00:00.000Z",
+        "hasTime": false,
+        "venue": null,
+        "round": 7
+      },
+      {
+        "id": "s28-l726-r7-1593-vs-4020",
+        "homeTeamId": "4020",
+        "awayTeamId": "1593",
+        "excludeFromLeagueTable": false,
+        "homeTeam": "בני סכנין",
+        "awayTeam": "מכבי ת\"א",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-09-15T13:00:00.000Z",
+        "hasTime": true,
+        "venue": "סכנין אימונים",
         "round": 7
       },
       {

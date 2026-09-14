@@ -796,6 +796,20 @@
         "round": 7
       },
       {
+        "id": "s28-l726-r7-3601-vs-4698",
+        "homeTeamId": "4698",
+        "awayTeamId": "3601",
+        "excludeFromLeagueTable": false,
+        "homeTeam": "בני יהודה",
+        "awayTeam": "בית\"ר י-ם",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-09-15T14:00:00.000Z",
+        "hasTime": true,
+        "venue": "תל אביב שכונת התקוה סינטטי 2",
+        "round": 7
+      },
+      {
         "id": "s28-l726-r7-1200-vs-2068",
         "homeTeamId": "1200",
         "awayTeamId": "2068",
@@ -821,20 +835,6 @@
         "dateTime": "2026-09-15T15:00:00.000Z",
         "hasTime": true,
         "venue": "אבו גוש",
-        "round": 7
-      },
-      {
-        "id": "s28-l726-r7-3601-vs-4698",
-        "homeTeamId": "4698",
-        "awayTeamId": "3601",
-        "excludeFromLeagueTable": false,
-        "homeTeam": "בני יהודה",
-        "awayTeam": "בית\"ר י-ם",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-09-15T15:30:00.000Z",
-        "hasTime": true,
-        "venue": "תל אביב שכונת התקוה סינטטי 2",
         "round": 7
       },
       {

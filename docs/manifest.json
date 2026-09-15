@@ -1,21 +1,4 @@
 {
-  "fetched_at_utc": "2026-09-15T07:48:15.339427+00:00",
-  "updated": [
-    {
-      "key": "na_arim_c_premier_25_26",
-      "type": "results"
-    },
-    {
-      "key": "na_arim_b_premier_25_26",
-      "type": "results"
-    },
-    {
-      "key": "na_arim_a_premier_25_26",
-      "type": "results"
-    },
-    {
-      "key": "youth_premier_25_26",
-      "type": "results"
-    }
-  ]
+  "fetched_at_utc": "2026-09-15T13:36:37.228920+00:00",
+  "updated": []
 }

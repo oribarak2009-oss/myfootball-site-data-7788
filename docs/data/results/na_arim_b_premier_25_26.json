@@ -572,20 +572,6 @@
         "round": 5
       },
       {
-        "id": "s28-l773-r5-1202-vs-2494",
-        "homeTeamId": "1202",
-        "awayTeamId": "2494",
-        "excludeFromLeagueTable": false,
-        "homeTeam": "מ.ס אשדוד",
-        "awayTeam": "הפועל  כפ\"ס",
-        "homeScore": 0,
-        "awayScore": 0,
-        "dateTime": "2026-09-15T17:30:00.000Z",
-        "hasTime": true,
-        "venue": "אשדוד סינטטי",
-        "round": 5
-      },
-      {
         "id": "s28-l773-r5-1432-vs-8370",
         "homeTeamId": "8370",
         "awayTeamId": "1432",
@@ -597,6 +583,20 @@
         "dateTime": "2026-09-15T17:30:00.000Z",
         "hasTime": true,
         "venue": "נהלל",
+        "round": 5
+      },
+      {
+        "id": "s28-l773-r5-1202-vs-2494",
+        "homeTeamId": "1202",
+        "awayTeamId": "2494",
+        "excludeFromLeagueTable": false,
+        "homeTeam": "מ.ס אשדוד",
+        "awayTeam": "הפועל  כפ\"ס",
+        "homeScore": 0,
+        "awayScore": 0,
+        "dateTime": "2026-09-15T17:30:00.000Z",
+        "hasTime": true,
+        "venue": "אשדוד סינטטי",
         "round": 5
       },
       {

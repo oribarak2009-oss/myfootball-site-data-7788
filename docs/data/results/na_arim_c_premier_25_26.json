@@ -782,6 +782,20 @@
         "round": 7
       },
       {
+        "id": "s28-l824-r7-1231-vs-2305",
+        "homeTeamId": "2305",
+        "awayTeamId": "1231",
+        "excludeFromLeagueTable": false,
+        "homeTeam": "הפועל ראשל\"צ",
+        "awayTeam": "מכבי פ\"ת",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-09-29T06:00:00.000Z",
+        "hasTime": true,
+        "venue": "ראשון לציון סופרלנד מערבי סינטטי",
+        "round": 7
+      },
+      {
         "id": "s28-l824-r7-2181-vs-4006",
         "homeTeamId": "4006",
         "awayTeamId": "2181",
@@ -793,20 +807,6 @@
         "dateTime": "2026-09-29T08:00:00.000Z",
         "hasTime": true,
         "venue": "חיפה אגרטק (אתוס 1 לשעבר)",
-        "round": 7
-      },
-      {
-        "id": "s28-l824-r7-1231-vs-2305",
-        "homeTeamId": "2305",
-        "awayTeamId": "1231",
-        "excludeFromLeagueTable": false,
-        "homeTeam": "הפועל ראשל\"צ",
-        "awayTeam": "מכבי פ\"ת",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-09-29T09:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
         "round": 7
       },
       {

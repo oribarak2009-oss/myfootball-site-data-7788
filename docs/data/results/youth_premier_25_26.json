@@ -1042,9 +1042,9 @@
         "awayTeam": "הפ' כפ\"ס",
         "homeScore": null,
         "awayScore": null,
-        "dateTime": "2026-10-10T09:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
+        "dateTime": "2026-10-10T08:30:00.000Z",
+        "hasTime": true,
+        "venue": "נתניה בית מכבי נתניה",
         "round": 9
       },
       {

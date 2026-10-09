@@ -1,21 +1,4 @@
 {
-  "fetched_at_utc": "2026-10-09T02:13:15.140978+00:00",
-  "updated": [
-    {
-      "key": "kids_a_central_25_26",
-      "type": "results"
-    },
-    {
-      "key": "kids_a_sharon_25_26",
-      "type": "results"
-    },
-    {
-      "key": "na_arim_b_premier_25_26",
-      "type": "results"
-    },
-    {
-      "key": "youth_premier_25_26",
-      "type": "results"
-    }
-  ]
+  "fetched_at_utc": "2026-10-09T09:14:35.834975+00:00",
+  "updated": []
 }

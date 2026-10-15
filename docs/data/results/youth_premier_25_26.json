@@ -1412,20 +1412,6 @@
         "round": 12
       },
       {
-        "id": "s28-l101-r12-2843-vs-3612",
-        "homeTeamId": "3612",
-        "awayTeamId": "2843",
-        "excludeFromLeagueTable": false,
-        "homeTeam": "בית\"ר י-ם",
-        "awayTeam": "הפ' רמה\"ש",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-10-20T09:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
-        "round": 12
-      },
-      {
         "id": "s28-l101-r12-1073-vs-1143",
         "homeTeamId": "1143",
         "awayTeamId": "1073",
@@ -1451,6 +1437,20 @@
         "dateTime": "2026-10-20T09:00:00.000Z",
         "hasTime": false,
         "venue": null,
+        "round": 12
+      },
+      {
+        "id": "s28-l101-r12-2843-vs-3612",
+        "homeTeamId": "3612",
+        "awayTeamId": "2843",
+        "excludeFromLeagueTable": false,
+        "homeTeam": "בית\"ר י-ם",
+        "awayTeam": "הפ' רמה\"ש",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-10-20T11:00:00.000Z",
+        "hasTime": true,
+        "venue": "ירושלים בית וגן 3",
         "round": 12
       },
       {

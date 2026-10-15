@@ -146,9 +146,9 @@
         "awayTeam": "עמישב פ\"ת",
         "homeScore": null,
         "awayScore": null,
-        "dateTime": "2026-10-17T09:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
+        "dateTime": "2026-10-17T17:40:00.000Z",
+        "hasTime": true,
+        "venue": "קדימה",
         "round": 1
       },
       {

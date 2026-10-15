@@ -138,20 +138,6 @@
         "round": 1
       },
       {
-        "id": "s28-l173-r1-2310-vs-5650",
-        "homeTeamId": "5650",
-        "awayTeamId": "2310",
-        "excludeFromLeagueTable": false,
-        "homeTeam": "מ.ס ב\"ש",
-        "awayTeam": "הפ' רמה\"ש מרכז",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-10-17T09:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
-        "round": 1
-      },
-      {
         "id": "s28-l173-r1-2014-vs-4801",
         "homeTeamId": "4801",
         "awayTeamId": "2014",
@@ -191,6 +177,20 @@
         "dateTime": "2026-10-19T15:30:00.000Z",
         "hasTime": true,
         "venue": "אשדוד סינטטי מזרחי תשעיות",
+        "round": 1
+      },
+      {
+        "id": "s28-l173-r1-2310-vs-5650",
+        "homeTeamId": "5650",
+        "awayTeamId": "2310",
+        "excludeFromLeagueTable": false,
+        "homeTeam": "מ.ס ב\"ש",
+        "awayTeam": "הפ' רמה\"ש מרכז",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-10-21T16:30:00.000Z",
+        "hasTime": true,
+        "venue": "באר שבע רייסר 1 סינטטי",
         "round": 1
       },
       {

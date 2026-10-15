@@ -12,6 +12,34 @@
     },
     "matches": [
       {
+        "id": "s28-l661-r1-5745-vs-7101",
+        "homeTeamId": "5745",
+        "awayTeamId": "7101",
+        "excludeFromLeagueTable": false,
+        "homeTeam": "הפועל הרצליה",
+        "awayTeam": "טירת כרמל",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-10-16T11:30:00.000Z",
+        "hasTime": true,
+        "venue": "הרצליה משק ב' אימונים",
+        "round": 1
+      },
+      {
+        "id": "s28-l661-r1-2336-vs-6597",
+        "homeTeamId": "6597",
+        "awayTeamId": "2336",
+        "excludeFromLeagueTable": false,
+        "homeTeam": "מ.ס קרית ים",
+        "awayTeam": "הפועל חיפה",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-10-16T11:30:00.000Z",
+        "hasTime": true,
+        "venue": "קרית ים רודמן",
+        "round": 1
+      },
+      {
         "id": "s28-l661-r1-5665-vs-7035",
         "homeTeamId": "7035",
         "awayTeamId": "5665",
@@ -20,7 +48,7 @@
         "awayTeam": "הפועל חדרה",
         "homeScore": null,
         "awayScore": null,
-        "dateTime": "2026-10-16T12:00:00.000Z",
+        "dateTime": "2026-10-16T12:30:00.000Z",
         "hasTime": true,
         "venue": "כפר סבא אימונים תחתון (סינטטי)",
         "round": 1
@@ -51,34 +79,6 @@
         "dateTime": "2026-10-17T05:30:00.000Z",
         "hasTime": true,
         "venue": "תל אביב אוניברסיטת ת\"א",
-        "round": 1
-      },
-      {
-        "id": "s28-l661-r1-5745-vs-7101",
-        "homeTeamId": "5745",
-        "awayTeamId": "7101",
-        "excludeFromLeagueTable": false,
-        "homeTeam": "הפועל הרצליה",
-        "awayTeam": "טירת כרמל",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-10-17T09:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
-        "round": 1
-      },
-      {
-        "id": "s28-l661-r1-2336-vs-6597",
-        "homeTeamId": "6597",
-        "awayTeamId": "2336",
-        "excludeFromLeagueTable": false,
-        "homeTeam": "מ.ס קרית ים",
-        "awayTeam": "הפועל חיפה",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-10-17T09:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
         "round": 1
       },
       {

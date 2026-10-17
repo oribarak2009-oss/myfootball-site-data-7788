@@ -12,20 +12,6 @@
     },
     "matches": [
       {
-        "id": "s28-l173-r1-2219-vs-2902",
-        "homeTeamId": "2219",
-        "awayTeamId": "2902",
-        "excludeFromLeagueTable": false,
-        "homeTeam": "הפועל רעננה",
-        "awayTeam": "הפ' מרמורק",
-        "homeScore": 4,
-        "awayScore": 0,
-        "dateTime": "2026-10-16T10:30:00.000Z",
-        "hasTime": true,
-        "venue": "רעננה פארק דרומי",
-        "round": 1
-      },
-      {
         "id": "s28-l173-r1-6016-vs-6981",
         "homeTeamId": "6016",
         "awayTeamId": "6981",
@@ -37,6 +23,20 @@
         "dateTime": "2026-10-16T10:40:00.000Z",
         "hasTime": true,
         "venue": "פתח תקוה סירקין ספורטק אצטדיון",
+        "round": 1
+      },
+      {
+        "id": "s28-l173-r1-2219-vs-2902",
+        "homeTeamId": "2219",
+        "awayTeamId": "2902",
+        "excludeFromLeagueTable": false,
+        "homeTeam": "הפועל רעננה",
+        "awayTeam": "הפ' מרמורק",
+        "homeScore": 4,
+        "awayScore": 0,
+        "dateTime": "2026-10-16T11:30:00.000Z",
+        "hasTime": true,
+        "venue": "רעננה פארק דרומי",
         "round": 1
       },
       {

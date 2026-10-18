@@ -1,12 +1,12 @@
 {
-  "fetched_at_utc": "2026-10-18T18:09:11.675623+00:00",
+  "fetched_at_utc": "2026-10-18T20:48:55.339853+00:00",
   "updated": [
     {
-      "key": "kids_b_sharon_25_26",
+      "key": "kids_b_central_25_26",
       "type": "results"
     },
     {
-      "key": "kids_b_sharon_25_26",
+      "key": "kids_b_central_25_26",
       "type": "standings"
     },
     {
@@ -18,19 +18,11 @@
       "type": "standings"
     },
     {
-      "key": "kids_c_sharon_25_26",
+      "key": "kids_a_sharon_25_26",
       "type": "results"
     },
     {
-      "key": "kids_c_sharon_25_26",
-      "type": "standings"
-    },
-    {
-      "key": "youth_premier_25_26",
-      "type": "results"
-    },
-    {
-      "key": "youth_premier_25_26",
+      "key": "kids_a_sharon_25_26",
       "type": "standings"
     }
   ]

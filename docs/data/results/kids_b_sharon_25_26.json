@@ -180,6 +180,20 @@
         "round": 1
       },
       {
+        "id": "s28-l163-r2-2568-vs-3684",
+        "homeTeamId": "2568",
+        "awayTeamId": "3684",
+        "excludeFromLeagueTable": false,
+        "homeTeam": "הפועל עכו",
+        "awayTeam": "מ.ס עמק חפר",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-10-21T16:45:00.000Z",
+        "hasTime": true,
+        "venue": "עכו אצטדיון טוטו",
+        "round": 2
+      },
+      {
         "id": "s28-l163-r1-5485-vs-7100",
         "homeTeamId": "5485",
         "awayTeamId": "7100",
@@ -222,40 +236,12 @@
         "round": 2
       },
       {
-        "id": "s28-l163-r2-5664-vs-6366",
-        "homeTeamId": "6366",
-        "awayTeamId": "5664",
-        "excludeFromLeagueTable": false,
-        "homeTeam": "הפ' א.א פאחם",
-        "awayTeam": "הפועל חדרה",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-10-28T10:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
-        "round": 2
-      },
-      {
         "id": "s28-l163-r2-1307-vs-8611",
         "homeTeamId": "8611",
         "awayTeamId": "1307",
         "excludeFromLeagueTable": false,
         "homeTeam": "פרו סוקר",
         "awayTeam": "מכבי הרצליה",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-10-28T10:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
-        "round": 2
-      },
-      {
-        "id": "s28-l163-r2-2568-vs-3684",
-        "homeTeamId": "2568",
-        "awayTeamId": "3684",
-        "excludeFromLeagueTable": false,
-        "homeTeam": "הפועל עכו",
-        "awayTeam": "מ.ס עמק חפר",
         "homeScore": null,
         "awayScore": null,
         "dateTime": "2026-10-28T10:00:00.000Z",
@@ -373,6 +359,20 @@
         "dateTime": "2026-10-28T10:00:00.000Z",
         "hasTime": false,
         "venue": null,
+        "round": 2
+      },
+      {
+        "id": "s28-l163-r2-5664-vs-6366",
+        "homeTeamId": "6366",
+        "awayTeamId": "5664",
+        "excludeFromLeagueTable": false,
+        "homeTeam": "הפ' א.א פאחם",
+        "awayTeam": "הפועל חדרה",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-10-28T16:00:00.000Z",
+        "hasTime": true,
+        "venue": "אום אל פאחם סינטטי",
         "round": 2
       },
       {

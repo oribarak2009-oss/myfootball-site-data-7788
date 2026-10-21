@@ -1447,7 +1447,7 @@
         "homeTeam": "הפועל פ\"ת",
         "awayTeam": "מ.ס. אשדוד",
         "homeScore": 2,
-        "awayScore": 0,
+        "awayScore": 1,
         "dateTime": "2026-10-20T15:30:00.000Z",
         "hasTime": true,
         "venue": "פתח תקוה אצטדיון שלמה ביטוח",
@@ -1496,20 +1496,6 @@
         "round": 12
       },
       {
-        "id": "s28-l101-r13-2381-vs-2429",
-        "homeTeamId": "2429",
-        "awayTeamId": "2381",
-        "excludeFromLeagueTable": false,
-        "homeTeam": "הפועל חדרה",
-        "awayTeam": "הפ' ראשל\"צ",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-10-24T08:00:00.000Z",
-        "hasTime": true,
-        "venue": "חדרה מתחם אימונים",
-        "round": 13
-      },
-      {
         "id": "s28-l101-r13-1143-vs-1199",
         "homeTeamId": "1199",
         "awayTeamId": "1143",
@@ -1521,6 +1507,20 @@
         "dateTime": "2026-10-24T08:00:00.000Z",
         "hasTime": true,
         "venue": "אשדוד אצטדיון הי\"א",
+        "round": 13
+      },
+      {
+        "id": "s28-l101-r13-2381-vs-2429",
+        "homeTeamId": "2429",
+        "awayTeamId": "2381",
+        "excludeFromLeagueTable": false,
+        "homeTeam": "הפועל חדרה",
+        "awayTeam": "הפ' ראשל\"צ",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-10-24T08:00:00.000Z",
+        "hasTime": true,
+        "venue": "חדרה מתחם אימונים",
         "round": 13
       },
       {
@@ -1538,20 +1538,6 @@
         "round": 13
       },
       {
-        "id": "s28-l101-r13-2373-vs-2489",
-        "homeTeamId": "2373",
-        "awayTeamId": "2489",
-        "excludeFromLeagueTable": false,
-        "homeTeam": "הפועל ב\"ש",
-        "awayTeam": "הפועל פ\"ת",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-10-24T09:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
-        "round": 13
-      },
-      {
         "id": "s28-l101-r13-2441-vs-2479",
         "homeTeamId": "2441",
         "awayTeamId": "2479",
@@ -1560,9 +1546,23 @@
         "awayTeam": "הפ' כפ\"ס",
         "homeScore": null,
         "awayScore": null,
-        "dateTime": "2026-10-24T09:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
+        "dateTime": "2026-10-24T08:00:00.000Z",
+        "hasTime": true,
+        "venue": "רעננה",
+        "round": 13
+      },
+      {
+        "id": "s28-l101-r13-2373-vs-2489",
+        "homeTeamId": "2373",
+        "awayTeamId": "2489",
+        "excludeFromLeagueTable": false,
+        "homeTeam": "הפועל ב\"ש",
+        "awayTeam": "הפועל פ\"ת",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-10-24T08:00:00.000Z",
+        "hasTime": true,
+        "venue": "באר שבע וסרמיל 4",
         "round": 13
       },
       {
@@ -1630,23 +1630,9 @@
         "awayTeam": "הפועל חדרה",
         "homeScore": null,
         "awayScore": null,
-        "dateTime": "2026-10-31T10:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
-        "round": 14
-      },
-      {
-        "id": "s28-l101-r14-2473-vs-4692",
-        "homeTeamId": "2473",
-        "awayTeamId": "4692",
-        "excludeFromLeagueTable": false,
-        "homeTeam": "הפועל חיפה",
-        "awayTeam": "בני יהודה",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-10-31T10:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
+        "dateTime": "2026-10-31T09:00:00.000Z",
+        "hasTime": true,
+        "venue": "ירושלים בית וגן 3",
         "round": 14
       },
       {
@@ -1698,6 +1684,20 @@
         "excludeFromLeagueTable": false,
         "homeTeam": "הפועל פ\"ת",
         "awayTeam": "הפ' רעננה",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-10-31T10:00:00.000Z",
+        "hasTime": false,
+        "venue": null,
+        "round": 14
+      },
+      {
+        "id": "s28-l101-r14-2473-vs-4692",
+        "homeTeamId": "2473",
+        "awayTeamId": "4692",
+        "excludeFromLeagueTable": false,
+        "homeTeam": "הפועל חיפה",
+        "awayTeam": "בני יהודה",
         "homeScore": null,
         "awayScore": null,
         "dateTime": "2026-10-31T10:00:00.000Z",

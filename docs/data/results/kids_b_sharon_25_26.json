@@ -202,9 +202,9 @@
         "awayTeam": "טירת כרמל",
         "homeScore": null,
         "awayScore": null,
-        "dateTime": "2026-10-26T17:45:00.000Z",
+        "dateTime": "2026-10-26T18:00:00.000Z",
         "hasTime": true,
-        "venue": "פתח תקוה מושבה צפוני חדש",
+        "venue": "פתח תקוה מושבה דרומי",
         "round": 1
       },
       {
@@ -334,20 +334,6 @@
         "round": 2
       },
       {
-        "id": "s28-l163-r2-1117-vs-2161",
-        "homeTeamId": "1117",
-        "awayTeamId": "2161",
-        "excludeFromLeagueTable": false,
-        "homeTeam": "מ.חיפה אפרים",
-        "awayTeam": "רמה\"ש דרום",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-10-28T10:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
-        "round": 2
-      },
-      {
         "id": "s28-l163-r2-2058-vs-3547",
         "homeTeamId": "3547",
         "awayTeamId": "2058",
@@ -373,6 +359,20 @@
         "dateTime": "2026-10-28T16:00:00.000Z",
         "hasTime": true,
         "venue": "אום אל פאחם סינטטי",
+        "round": 2
+      },
+      {
+        "id": "s28-l163-r2-1117-vs-2161",
+        "homeTeamId": "1117",
+        "awayTeamId": "2161",
+        "excludeFromLeagueTable": false,
+        "homeTeam": "מ.חיפה אפרים",
+        "awayTeam": "רמה\"ש דרום",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-10-28T16:00:00.000Z",
+        "hasTime": true,
+        "venue": "חיפה קצף סינטטי",
         "round": 2
       },
       {

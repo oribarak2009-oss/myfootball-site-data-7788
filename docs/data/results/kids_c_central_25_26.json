@@ -174,7 +174,7 @@
         "awayTeam": "בית\"ר י-ם",
         "homeScore": 5,
         "awayScore": 1,
-        "dateTime": "2026-10-19T15:30:00.000Z",
+        "dateTime": "2026-10-19T15:45:00.000Z",
         "hasTime": true,
         "venue": "אשדוד סינטטי מזרחי תשעיות",
         "round": 1
@@ -192,6 +192,20 @@
         "hasTime": true,
         "venue": "באר שבע רייסר 1 סינטטי",
         "round": 1
+      },
+      {
+        "id": "s28-l173-r2-2931-vs-3210",
+        "homeTeamId": "3210",
+        "awayTeamId": "2931",
+        "excludeFromLeagueTable": false,
+        "homeTeam": "מכבי אשקלון",
+        "awayTeam": "הפועל י-ם מזרח",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-10-24T08:35:00.000Z",
+        "hasTime": true,
+        "venue": "אשקלון סינטטי ע\"ש איציק \"חיפה\" כהן",
+        "round": 2
       },
       {
         "id": "s28-l173-r2-2219-vs-2912",
@@ -312,20 +326,6 @@
         "excludeFromLeagueTable": false,
         "homeTeam": "ס. נס ציונה",
         "awayTeam": "מחנה יהודה דרום",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-10-28T10:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
-        "round": 2
-      },
-      {
-        "id": "s28-l173-r2-2931-vs-3210",
-        "homeTeamId": "3210",
-        "awayTeamId": "2931",
-        "excludeFromLeagueTable": false,
-        "homeTeam": "מכבי אשקלון",
-        "awayTeam": "הפועל י-ם מזרח",
         "homeScore": null,
         "awayScore": null,
         "dateTime": "2026-10-28T10:00:00.000Z",

@@ -180,34 +180,6 @@
         "round": 2
       },
       {
-        "id": "s28-l154-r2-1280-vs-2268",
-        "homeTeamId": "1280",
-        "awayTeamId": "2268",
-        "excludeFromLeagueTable": false,
-        "homeTeam": "מכבי ת\"א צפון",
-        "awayTeam": "חוף הכרמל",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-10-28T10:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
-        "round": 2
-      },
-      {
-        "id": "s28-l154-r2-1363-vs-4185",
-        "homeTeamId": "1363",
-        "awayTeamId": "4185",
-        "excludeFromLeagueTable": false,
-        "homeTeam": "מכבי הרצליה",
-        "awayTeam": "נהלל יזרעאל",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-10-28T10:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
-        "round": 2
-      },
-      {
         "id": "s28-l154-r2-2078-vs-2498",
         "homeTeamId": "2498",
         "awayTeamId": "2078",
@@ -278,6 +250,20 @@
         "round": 2
       },
       {
+        "id": "s28-l154-r2-1363-vs-4185",
+        "homeTeamId": "1363",
+        "awayTeamId": "4185",
+        "excludeFromLeagueTable": false,
+        "homeTeam": "מכבי הרצליה",
+        "awayTeam": "נהלל יזרעאל",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-10-28T15:00:00.000Z",
+        "hasTime": true,
+        "venue": "הרצליה רן 1",
+        "round": 2
+      },
+      {
         "id": "s28-l154-r2-1168-vs-4022",
         "homeTeamId": "1168",
         "awayTeamId": "4022",
@@ -290,20 +276,6 @@
         "hasTime": true,
         "venue": "חיפה קצף סינטטי",
         "round": 2
-      },
-      {
-        "id": "s28-l154-r3-1363-vs-2078",
-        "homeTeamId": "2078",
-        "awayTeamId": "1363",
-        "excludeFromLeagueTable": false,
-        "homeTeam": "הפועל חדרה",
-        "awayTeam": "מכבי הרצליה",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-10-31T10:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
-        "round": 3
       },
       {
         "id": "s28-l154-r3-2471-vs-5093",
@@ -362,6 +334,34 @@
         "round": 3
       },
       {
+        "id": "s28-l154-r3-1101-vs-2268",
+        "homeTeamId": "2268",
+        "awayTeamId": "1101",
+        "excludeFromLeagueTable": false,
+        "homeTeam": "חוף הכרמל",
+        "awayTeam": "מכבי עמק חפר",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-10-31T10:00:00.000Z",
+        "hasTime": false,
+        "venue": null,
+        "round": 3
+      },
+      {
+        "id": "s28-l154-r3-1280-vs-3231",
+        "homeTeamId": "3231",
+        "awayTeamId": "1280",
+        "excludeFromLeagueTable": false,
+        "homeTeam": "קרית חיים",
+        "awayTeam": "מכבי ת\"א צפון",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-10-31T10:00:00.000Z",
+        "hasTime": false,
+        "venue": null,
+        "round": 3
+      },
+      {
         "id": "s28-l154-r3-5101-vs-5462",
         "homeTeamId": "5462",
         "awayTeamId": "5101",
@@ -404,40 +404,26 @@
         "round": 3
       },
       {
+        "id": "s28-l154-r3-1363-vs-2078",
+        "homeTeamId": "2078",
+        "awayTeamId": "1363",
+        "excludeFromLeagueTable": false,
+        "homeTeam": "הפועל חדרה",
+        "awayTeam": "מכבי הרצליה",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-10-31T10:00:00.000Z",
+        "hasTime": false,
+        "venue": null,
+        "round": 3
+      },
+      {
         "id": "s28-l154-r3-2498-vs-3042",
         "homeTeamId": "3042",
         "awayTeamId": "2498",
         "excludeFromLeagueTable": false,
         "homeTeam": "בית\"ר טוברוק",
         "awayTeam": "הפועל עכו",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-10-31T10:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
-        "round": 3
-      },
-      {
-        "id": "s28-l154-r3-1101-vs-2268",
-        "homeTeamId": "2268",
-        "awayTeamId": "1101",
-        "excludeFromLeagueTable": false,
-        "homeTeam": "חוף הכרמל",
-        "awayTeam": "מכבי עמק חפר",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-10-31T10:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
-        "round": 3
-      },
-      {
-        "id": "s28-l154-r3-1280-vs-3231",
-        "homeTeamId": "3231",
-        "awayTeamId": "1280",
-        "excludeFromLeagueTable": false,
-        "homeTeam": "קרית חיים",
-        "awayTeam": "מכבי ת\"א צפון",
         "homeScore": null,
         "awayScore": null,
         "dateTime": "2026-10-31T10:00:00.000Z",
@@ -458,6 +444,20 @@
         "hasTime": true,
         "venue": "נהלל",
         "round": 3
+      },
+      {
+        "id": "s28-l154-r2-1280-vs-2268",
+        "homeTeamId": "1280",
+        "awayTeamId": "2268",
+        "excludeFromLeagueTable": false,
+        "homeTeam": "מכבי ת\"א צפון",
+        "awayTeam": "חוף הכרמל",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-11-06T11:45:00.000Z",
+        "hasTime": true,
+        "venue": "תל אביב אוניברסיטת ת\"א",
+        "round": 2
       },
       {
         "id": "s28-l154-r4-1363-vs-3042",
@@ -586,20 +586,6 @@
         "round": 4
       },
       {
-        "id": "s28-l154-r4-1101-vs-3231",
-        "homeTeamId": "1101",
-        "awayTeamId": "3231",
-        "excludeFromLeagueTable": false,
-        "homeTeam": "מכבי עמק חפר",
-        "awayTeam": "קרית חיים",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-11-14T10:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
-        "round": 4
-      },
-      {
         "id": "s28-l154-r4-1280-vs-3683",
         "homeTeamId": "3683",
         "awayTeamId": "1280",
@@ -620,6 +606,20 @@
         "excludeFromLeagueTable": false,
         "homeTeam": "הפועל עכו",
         "awayTeam": "חוף הכרמל",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-11-14T10:00:00.000Z",
+        "hasTime": false,
+        "venue": null,
+        "round": 4
+      },
+      {
+        "id": "s28-l154-r4-1101-vs-3231",
+        "homeTeamId": "1101",
+        "awayTeamId": "3231",
+        "excludeFromLeagueTable": false,
+        "homeTeam": "מכבי עמק חפר",
+        "awayTeam": "קרית חיים",
         "homeScore": null,
         "awayScore": null,
         "dateTime": "2026-11-14T10:00:00.000Z",

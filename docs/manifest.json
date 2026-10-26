@@ -1,4 +1,13 @@
 {
-  "fetched_at_utc": "2026-10-26T14:19:43.335381+00:00",
-  "updated": []
+  "fetched_at_utc": "2026-10-26T20:31:51.685009+00:00",
+  "updated": [
+    {
+      "key": "kids_c_central_25_26",
+      "type": "results"
+    },
+    {
+      "key": "kids_c_central_25_26",
+      "type": "standings"
+    }
+  ]
 }

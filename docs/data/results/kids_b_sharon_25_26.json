@@ -211,7 +211,7 @@
         "id": "s28-l163-r2-1117-vs-2161",
         "homeTeamId": "1117",
         "awayTeamId": "2161",
-        "excludeFromLeagueTable": false,
+        "excludeFromLeagueTable": true,
         "homeTeam": "מ.חיפה אפרים",
         "awayTeam": "רמה\"ש דרום",
         "homeScore": null,

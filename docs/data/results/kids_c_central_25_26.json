@@ -68,20 +68,6 @@
         "round": 1
       },
       {
-        "id": "s28-l173-r1-2912-vs-6510",
-        "homeTeamId": "6510",
-        "awayTeamId": "2912",
-        "excludeFromLeagueTable": false,
-        "homeTeam": "מכבי קרית גת",
-        "awayTeam": "הפועל ת\"א",
-        "homeScore": 2,
-        "awayScore": 6,
-        "dateTime": "2026-10-17T07:00:00.000Z",
-        "hasTime": true,
-        "venue": "קרית גת סינטטי אגוז",
-        "round": 1
-      },
-      {
         "id": "s28-l173-r1-2811-vs-5321",
         "homeTeamId": "2811",
         "awayTeamId": "5321",
@@ -93,6 +79,20 @@
         "dateTime": "2026-10-17T07:00:00.000Z",
         "hasTime": true,
         "venue": "רמת גן ספארי (תשיעיות)",
+        "round": 1
+      },
+      {
+        "id": "s28-l173-r1-2912-vs-6510",
+        "homeTeamId": "6510",
+        "awayTeamId": "2912",
+        "excludeFromLeagueTable": false,
+        "homeTeam": "מכבי קרית גת",
+        "awayTeam": "הפועל ת\"א",
+        "homeScore": 2,
+        "awayScore": 6,
+        "dateTime": "2026-10-17T07:00:00.000Z",
+        "hasTime": true,
+        "venue": "קרית גת סינטטי אגוז",
         "round": 1
       },
       {
@@ -272,7 +272,7 @@
         "awayTeam": "מכבי נתניה",
         "homeScore": 3,
         "awayScore": 3,
-        "dateTime": "2026-10-28T17:00:00.000Z",
+        "dateTime": "2026-10-28T17:03:00.000Z",
         "hasTime": true,
         "venue": "באר שבע וסרמיל 3",
         "round": 2
@@ -304,6 +304,20 @@
         "hasTime": true,
         "venue": "פתח תקוה מושבה דרומי",
         "round": 2
+      },
+      {
+        "id": "s28-l173-r3-1296-vs-5321",
+        "homeTeamId": "1296",
+        "awayTeamId": "5321",
+        "excludeFromLeagueTable": false,
+        "homeTeam": "מכבי נתניה",
+        "awayTeam": "מכבי פ\"ת",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-10-31T06:30:00.000Z",
+        "hasTime": true,
+        "venue": "נתניה שפירא",
+        "round": 3
       },
       {
         "id": "s28-l173-r3-1263-vs-2460",
@@ -348,20 +362,6 @@
         "round": 3
       },
       {
-        "id": "s28-l173-r3-5234-vs-5331",
-        "homeTeamId": "5331",
-        "awayTeamId": "5234",
-        "excludeFromLeagueTable": false,
-        "homeTeam": "קדימה צורן",
-        "awayTeam": "ס. נס ציונה",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-10-31T09:00:00.000Z",
-        "hasTime": true,
-        "venue": "קדימה",
-        "round": 3
-      },
-      {
         "id": "s28-l173-r3-1055-vs-1097",
         "homeTeamId": "1097",
         "awayTeamId": "1055",
@@ -376,45 +376,17 @@
         "round": 3
       },
       {
-        "id": "s28-l173-r3-2902-vs-2931",
-        "homeTeamId": "2931",
-        "awayTeamId": "2902",
+        "id": "s28-l173-r3-5234-vs-5331",
+        "homeTeamId": "5331",
+        "awayTeamId": "5234",
         "excludeFromLeagueTable": false,
-        "homeTeam": "הפועל י-ם מזרח",
-        "awayTeam": "הפ' מרמורק",
+        "homeTeam": "קדימה צורן",
+        "awayTeam": "ס. נס ציונה",
         "homeScore": null,
         "awayScore": null,
-        "dateTime": "2026-10-31T10:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
-        "round": 3
-      },
-      {
-        "id": "s28-l173-r3-2753-vs-3210",
-        "homeTeamId": "2753",
-        "awayTeamId": "3210",
-        "excludeFromLeagueTable": false,
-        "homeTeam": "מחנה יהודה דרום",
-        "awayTeam": "מכבי אשקלון",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-10-31T10:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
-        "round": 3
-      },
-      {
-        "id": "s28-l173-r3-1296-vs-5321",
-        "homeTeamId": "1296",
-        "awayTeamId": "5321",
-        "excludeFromLeagueTable": false,
-        "homeTeam": "מכבי נתניה",
-        "awayTeam": "מכבי פ\"ת",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-10-31T10:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
+        "dateTime": "2026-10-31T09:00:00.000Z",
+        "hasTime": true,
+        "venue": "קדימה",
         "round": 3
       },
       {
@@ -426,9 +398,9 @@
         "awayTeam": "הפועל ת\"א",
         "homeScore": null,
         "awayScore": null,
-        "dateTime": "2026-10-31T10:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
+        "dateTime": "2026-10-31T10:50:00.000Z",
+        "hasTime": true,
+        "venue": "ראשון לציון סופרלנד מערבי סינטטי",
         "round": 3
       },
       {
@@ -446,17 +418,31 @@
         "round": 3
       },
       {
-        "id": "s28-l173-r3-3055-vs-6510",
-        "homeTeamId": "6510",
-        "awayTeamId": "3055",
+        "id": "s28-l173-r3-2902-vs-2931",
+        "homeTeamId": "2931",
+        "awayTeamId": "2902",
         "excludeFromLeagueTable": false,
-        "homeTeam": "מכבי קרית גת",
-        "awayTeam": "בית\"ר י-ם",
+        "homeTeam": "הפועל י-ם מזרח",
+        "awayTeam": "הפ' מרמורק",
         "homeScore": null,
         "awayScore": null,
-        "dateTime": "2026-11-03T17:30:00.000Z",
+        "dateTime": "2026-11-03T15:00:00.000Z",
         "hasTime": true,
-        "venue": "קרית גת סינטטי אגוז",
+        "venue": "אבו גוש",
+        "round": 3
+      },
+      {
+        "id": "s28-l173-r3-2753-vs-3210",
+        "homeTeamId": "2753",
+        "awayTeamId": "3210",
+        "excludeFromLeagueTable": false,
+        "homeTeam": "מחנה יהודה דרום",
+        "awayTeam": "מכבי אשקלון",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-11-03T15:00:00.000Z",
+        "hasTime": true,
+        "venue": "פתח תקוה מחנה יהודה",
         "round": 3
       },
       {
@@ -471,6 +457,20 @@
         "dateTime": "2026-11-03T17:30:00.000Z",
         "hasTime": true,
         "venue": "באר שבע רייסר 1 סינטטי",
+        "round": 3
+      },
+      {
+        "id": "s28-l173-r3-3055-vs-6510",
+        "homeTeamId": "6510",
+        "awayTeamId": "3055",
+        "excludeFromLeagueTable": false,
+        "homeTeam": "מכבי קרית גת",
+        "awayTeam": "בית\"ר י-ם",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-11-03T17:30:00.000Z",
+        "hasTime": true,
+        "venue": "קרית גת סינטטי אגוז",
         "round": 3
       },
       {

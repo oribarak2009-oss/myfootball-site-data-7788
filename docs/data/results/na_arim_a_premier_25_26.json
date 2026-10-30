@@ -1202,20 +1202,6 @@
         "round": 10
       },
       {
-        "id": "s28-l726-r10-1023-vs-4020",
-        "homeTeamId": "1023",
-        "awayTeamId": "4020",
-        "excludeFromLeagueTable": false,
-        "homeTeam": "מכבי חיפה",
-        "awayTeam": "בני סכנין",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-10-31T13:15:00.000Z",
-        "hasTime": true,
-        "venue": "חיפה קצף סינטטי",
-        "round": 10
-      },
-      {
         "id": "s28-l726-r10-1598-vs-2412",
         "homeTeamId": "1598",
         "awayTeamId": "2412",
@@ -1269,6 +1255,20 @@
         "dateTime": "2026-11-03T16:00:00.000Z",
         "hasTime": true,
         "venue": "רעננה פארק צפוני סינטטי",
+        "round": 10
+      },
+      {
+        "id": "s28-l726-r10-1023-vs-4020",
+        "homeTeamId": "1023",
+        "awayTeamId": "4020",
+        "excludeFromLeagueTable": false,
+        "homeTeam": "מכבי חיפה",
+        "awayTeam": "בני סכנין",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-11-05T14:00:00.000Z",
+        "hasTime": true,
+        "venue": "חיפה קצף סינטטי",
         "round": 10
       },
       {

@@ -1188,6 +1188,20 @@
         "round": 10
       },
       {
+        "id": "s28-l824-r10-2169-vs-2905",
+        "homeTeamId": "2905",
+        "awayTeamId": "2169",
+        "excludeFromLeagueTable": false,
+        "homeTeam": "הפועל חדרה",
+        "awayTeam": "הפועל חיפה",
+        "homeScore": 2,
+        "awayScore": 3,
+        "dateTime": "2026-10-28T17:00:00.000Z",
+        "hasTime": true,
+        "venue": "חדרה מתחם אימונים סינטטי",
+        "round": 10
+      },
+      {
         "id": "s28-l824-r10-2231-vs-2307",
         "homeTeamId": "2307",
         "awayTeamId": "2231",
@@ -1213,20 +1227,6 @@
         "dateTime": "2026-10-28T17:30:00.000Z",
         "hasTime": true,
         "venue": "ירושלים בית וגן 1 תחתון",
-        "round": 10
-      },
-      {
-        "id": "s28-l824-r10-2169-vs-2905",
-        "homeTeamId": "2905",
-        "awayTeamId": "2169",
-        "excludeFromLeagueTable": false,
-        "homeTeam": "הפועל חדרה",
-        "awayTeam": "הפועל חיפה",
-        "homeScore": 2,
-        "awayScore": 3,
-        "dateTime": "2026-10-28T17:30:00.000Z",
-        "hasTime": true,
-        "venue": "חדרה מתחם אימונים סינטטי",
         "round": 10
       },
       {

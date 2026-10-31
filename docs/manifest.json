@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2026-10-31T13:40:19.615722+00:00",
+  "fetched_at_utc": "2026-10-31T18:35:25.991230+00:00",
   "updated": [
     {
       "key": "kids_b_sharon_25_26",
@@ -10,35 +10,11 @@
       "type": "standings"
     },
     {
-      "key": "kids_b_central_25_26",
-      "type": "results"
-    },
-    {
-      "key": "kids_b_central_25_26",
-      "type": "standings"
-    },
-    {
-      "key": "kids_a_central_25_26",
-      "type": "results"
-    },
-    {
-      "key": "kids_a_central_25_26",
-      "type": "standings"
-    },
-    {
       "key": "kids_a_sharon_25_26",
       "type": "results"
     },
     {
       "key": "kids_a_sharon_25_26",
-      "type": "standings"
-    },
-    {
-      "key": "kids_c_central_25_26",
-      "type": "results"
-    },
-    {
-      "key": "kids_c_central_25_26",
       "type": "standings"
     },
     {

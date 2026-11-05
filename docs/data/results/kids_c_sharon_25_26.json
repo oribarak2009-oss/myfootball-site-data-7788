@@ -414,7 +414,7 @@
         "awayScore": null,
         "dateTime": "2026-11-07T06:30:00.000Z",
         "hasTime": true,
-        "venue": "קרית ים סינטטי",
+        "venue": "קרית ים רודמן",
         "round": 2
       },
       {
@@ -430,6 +430,20 @@
         "hasTime": true,
         "venue": "תל אביב אוניברסיטת ת\"א",
         "round": 3
+      },
+      {
+        "id": "s28-l661-r4-2964-vs-5167",
+        "homeTeamId": "2964",
+        "awayTeamId": "5167",
+        "excludeFromLeagueTable": false,
+        "homeTeam": "הוד השרון",
+        "awayTeam": "הפועל ת\"א צפון",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-11-14T06:30:00.000Z",
+        "hasTime": true,
+        "venue": "הוד השרון גני צבי-תשיעיות",
+        "round": 4
       },
       {
         "id": "s28-l661-r2-1908-vs-5665",
@@ -452,20 +466,6 @@
         "excludeFromLeagueTable": false,
         "homeTeam": "מכבי עמק חפר",
         "awayTeam": "חוף הכרמל",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-11-14T10:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
-        "round": 4
-      },
-      {
-        "id": "s28-l661-r4-2964-vs-5167",
-        "homeTeamId": "2964",
-        "awayTeamId": "5167",
-        "excludeFromLeagueTable": false,
-        "homeTeam": "הוד השרון",
-        "awayTeam": "הפועל ת\"א צפון",
         "homeScore": null,
         "awayScore": null,
         "dateTime": "2026-11-14T10:00:00.000Z",

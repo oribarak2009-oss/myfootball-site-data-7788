@@ -488,20 +488,6 @@
         "round": 4
       },
       {
-        "id": "s28-l163-r4-1117-vs-3007",
-        "homeTeamId": "1117",
-        "awayTeamId": "3007",
-        "excludeFromLeagueTable": false,
-        "homeTeam": "מ.חיפה אפרים",
-        "awayTeam": "בית\"ר טוברוק",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-11-14T10:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
-        "round": 4
-      },
-      {
         "id": "s28-l163-r4-2058-vs-3417",
         "homeTeamId": "3417",
         "awayTeamId": "2058",
@@ -656,6 +642,20 @@
         "round": 2
       },
       {
+        "id": "s28-l163-r4-1117-vs-3007",
+        "homeTeamId": "1117",
+        "awayTeamId": "3007",
+        "excludeFromLeagueTable": false,
+        "homeTeam": "מ.חיפה אפרים",
+        "awayTeam": "בית\"ר טוברוק",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-11-21T07:00:00.000Z",
+        "hasTime": true,
+        "venue": "חיפה קצף סינטטי",
+        "round": 4
+      },
+      {
         "id": "s28-l163-r2-3417-vs-7460",
         "homeTeamId": "3417",
         "awayTeamId": "7460",
@@ -768,6 +768,20 @@
         "round": 5
       },
       {
+        "id": "s28-l163-r5-3684-vs-6103",
+        "homeTeamId": "3684",
+        "awayTeamId": "6103",
+        "excludeFromLeagueTable": false,
+        "homeTeam": "מ.ס עמק חפר",
+        "awayTeam": "נוה יוסף",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-11-28T10:00:00.000Z",
+        "hasTime": false,
+        "venue": null,
+        "round": 5
+      },
+      {
         "id": "s28-l163-r5-1117-vs-3547",
         "homeTeamId": "3547",
         "awayTeamId": "1117",
@@ -872,20 +886,6 @@
         "excludeFromLeagueTable": false,
         "homeTeam": "מכבי הרצליה",
         "awayTeam": "מ.ס. קרית ים",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-11-28T10:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
-        "round": 5
-      },
-      {
-        "id": "s28-l163-r5-3684-vs-6103",
-        "homeTeamId": "3684",
-        "awayTeamId": "6103",
-        "excludeFromLeagueTable": false,
-        "homeTeam": "מ.ס עמק חפר",
-        "awayTeam": "נוה יוסף",
         "homeScore": null,
         "awayScore": null,
         "dateTime": "2026-11-28T10:00:00.000Z",

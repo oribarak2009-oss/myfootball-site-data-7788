@@ -1524,34 +1524,6 @@
         "round": 13
       },
       {
-        "id": "s28-l773-r13-2227-vs-2845",
-        "homeTeamId": "2227",
-        "awayTeamId": "2845",
-        "excludeFromLeagueTable": false,
-        "homeTeam": "הפועל ת\"א",
-        "awayTeam": "הפ' ראשל\"צ",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-11-10T10:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
-        "round": 13
-      },
-      {
-        "id": "s28-l773-r13-1606-vs-2494",
-        "homeTeamId": "1606",
-        "awayTeamId": "2494",
-        "excludeFromLeagueTable": false,
-        "homeTeam": "מכבי נתניה",
-        "awayTeam": "הפועל  כפ\"ס",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-11-10T10:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
-        "round": 13
-      },
-      {
         "id": "s28-l773-r13-2365-vs-4425",
         "homeTeamId": "2365",
         "awayTeamId": "4425",
@@ -1566,6 +1538,34 @@
         "round": 13
       },
       {
+        "id": "s28-l773-r13-2227-vs-2845",
+        "homeTeamId": "2227",
+        "awayTeamId": "2845",
+        "excludeFromLeagueTable": false,
+        "homeTeam": "הפועל ת\"א",
+        "awayTeam": "הפ' ראשל\"צ",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-11-10T12:30:00.000Z",
+        "hasTime": true,
+        "venue": "תל אביב וולפסון 2",
+        "round": 13
+      },
+      {
+        "id": "s28-l773-r13-1606-vs-2494",
+        "homeTeamId": "1606",
+        "awayTeamId": "2494",
+        "excludeFromLeagueTable": false,
+        "homeTeam": "מכבי נתניה",
+        "awayTeam": "הפועל  כפ\"ס",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-11-10T14:00:00.000Z",
+        "hasTime": true,
+        "venue": "נתניה שפירא",
+        "round": 13
+      },
+      {
         "id": "s28-l773-r13-1432-vs-1607",
         "homeTeamId": "1432",
         "awayTeamId": "1607",
@@ -1576,7 +1576,7 @@
         "awayScore": null,
         "dateTime": "2026-11-10T14:30:00.000Z",
         "hasTime": true,
-        "venue": "חיפה קצף תחתון",
+        "venue": "חיפה קצף סינטטי",
         "round": 13
       },
       {

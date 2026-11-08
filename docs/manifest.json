@@ -1,4 +1,13 @@
 {
-  "fetched_at_utc": "2026-11-07T20:15:30.350753+00:00",
-  "updated": []
+  "fetched_at_utc": "2026-11-08T00:41:46.388974+00:00",
+  "updated": [
+    {
+      "key": "kids_a_sharon_25_26",
+      "type": "results"
+    },
+    {
+      "key": "kids_a_sharon_25_26",
+      "type": "standings"
+    }
+  ]
 }

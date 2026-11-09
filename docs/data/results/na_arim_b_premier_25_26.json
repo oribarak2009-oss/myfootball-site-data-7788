@@ -1510,34 +1510,6 @@
         "round": 12
       },
       {
-        "id": "s28-l773-r13-2085-vs-4010",
-        "homeTeamId": "2085",
-        "awayTeamId": "4010",
-        "excludeFromLeagueTable": false,
-        "homeTeam": "הפועל ב\"ש",
-        "awayTeam": "נוה יוסף",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-11-10T10:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
-        "round": 13
-      },
-      {
-        "id": "s28-l773-r13-2365-vs-4425",
-        "homeTeamId": "2365",
-        "awayTeamId": "4425",
-        "excludeFromLeagueTable": false,
-        "homeTeam": "הפועל פ\"ת",
-        "awayTeam": "בני יהודה",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-11-10T10:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
-        "round": 13
-      },
-      {
         "id": "s28-l773-r13-2227-vs-2845",
         "homeTeamId": "2227",
         "awayTeamId": "2845",
@@ -1616,9 +1588,37 @@
         "awayTeam": "הפ' ירושלים",
         "homeScore": null,
         "awayScore": null,
-        "dateTime": "2026-11-10T17:30:00.000Z",
+        "dateTime": "2026-11-10T16:30:00.000Z",
         "hasTime": true,
         "venue": "חדרה מתחם אימונים סינטטי",
+        "round": 13
+      },
+      {
+        "id": "s28-l773-r13-2365-vs-4425",
+        "homeTeamId": "2365",
+        "awayTeamId": "4425",
+        "excludeFromLeagueTable": false,
+        "homeTeam": "הפועל פ\"ת",
+        "awayTeam": "בני יהודה",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-11-12T17:15:00.000Z",
+        "hasTime": true,
+        "venue": "פתח תקוה סירקין אימונים 2 (סינטטי)",
+        "round": 13
+      },
+      {
+        "id": "s28-l773-r13-2085-vs-4010",
+        "homeTeamId": "2085",
+        "awayTeamId": "4010",
+        "excludeFromLeagueTable": false,
+        "homeTeam": "הפועל ב\"ש",
+        "awayTeam": "נוה יוסף",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-11-14T10:15:00.000Z",
+        "hasTime": true,
+        "venue": "באר שבע רייסר 4 סינטטי",
         "round": 13
       },
       {

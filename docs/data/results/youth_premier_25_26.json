@@ -40,6 +40,20 @@
         "round": 1
       },
       {
+        "id": "s28-l101-r1-2385-vs-2489",
+        "homeTeamId": "2489",
+        "awayTeamId": "2385",
+        "excludeFromLeagueTable": false,
+        "homeTeam": "הפועל פ\"ת",
+        "awayTeam": "הפועל ק\"ש",
+        "homeScore": 2,
+        "awayScore": 1,
+        "dateTime": "2026-08-15T15:00:00.000Z",
+        "hasTime": true,
+        "venue": "פתח תקוה אצטדיון שלמה ביטוח",
+        "round": 1
+      },
+      {
         "id": "s28-l101-r1-1199-vs-2429",
         "homeTeamId": "1199",
         "awayTeamId": "2429",
@@ -65,20 +79,6 @@
         "dateTime": "2026-08-15T15:00:00.000Z",
         "hasTime": true,
         "venue": "בת ים אצטדיון טוטו",
-        "round": 1
-      },
-      {
-        "id": "s28-l101-r1-2385-vs-2489",
-        "homeTeamId": "2489",
-        "awayTeamId": "2385",
-        "excludeFromLeagueTable": false,
-        "homeTeam": "הפועל פ\"ת",
-        "awayTeam": "הפועל ק\"ש",
-        "homeScore": 2,
-        "awayScore": 1,
-        "dateTime": "2026-08-15T15:00:00.000Z",
-        "hasTime": true,
-        "venue": "פתח תקוה אצטדיון שלמה ביטוח",
         "round": 1
       },
       {
@@ -166,20 +166,6 @@
         "round": 2
       },
       {
-        "id": "s28-l101-r2-2473-vs-2843",
-        "homeTeamId": "2473",
-        "awayTeamId": "2843",
-        "excludeFromLeagueTable": false,
-        "homeTeam": "הפועל חיפה",
-        "awayTeam": "הפ' רמה\"ש",
-        "homeScore": 3,
-        "awayScore": 2,
-        "dateTime": "2026-08-22T14:00:00.000Z",
-        "hasTime": true,
-        "venue": "קרית חיים בית נגלר מזרחי (אתוס לשעבר)",
-        "round": 2
-      },
-      {
         "id": "s28-l101-r2-2489-vs-4692",
         "homeTeamId": "4692",
         "awayTeamId": "2489",
@@ -191,6 +177,20 @@
         "dateTime": "2026-08-22T14:00:00.000Z",
         "hasTime": true,
         "venue": "תל אביב ספורטק דרום 1",
+        "round": 2
+      },
+      {
+        "id": "s28-l101-r2-2473-vs-2843",
+        "homeTeamId": "2473",
+        "awayTeamId": "2843",
+        "excludeFromLeagueTable": false,
+        "homeTeam": "הפועל חיפה",
+        "awayTeam": "הפ' רמה\"ש",
+        "homeScore": 3,
+        "awayScore": 2,
+        "dateTime": "2026-08-22T14:00:00.000Z",
+        "hasTime": true,
+        "venue": "קרית חיים בית נגלר מזרחי (אתוס לשעבר)",
         "round": 2
       },
       {
@@ -334,6 +334,20 @@
         "round": 3
       },
       {
+        "id": "s28-l101-r3-2429-vs-2441",
+        "homeTeamId": "2441",
+        "awayTeamId": "2429",
+        "excludeFromLeagueTable": false,
+        "homeTeam": "הפ' רעננה",
+        "awayTeam": "הפועל חדרה",
+        "homeScore": 4,
+        "awayScore": 1,
+        "dateTime": "2026-08-25T15:00:00.000Z",
+        "hasTime": true,
+        "venue": "בת ים אצטדיון טוטו",
+        "round": 3
+      },
+      {
         "id": "s28-l101-r3-2367-vs-2489",
         "homeTeamId": "2489",
         "awayTeamId": "2367",
@@ -359,20 +373,6 @@
         "dateTime": "2026-08-25T15:00:00.000Z",
         "hasTime": true,
         "venue": "אשדוד אצטדיון הי\"א",
-        "round": 3
-      },
-      {
-        "id": "s28-l101-r3-2429-vs-2441",
-        "homeTeamId": "2441",
-        "awayTeamId": "2429",
-        "excludeFromLeagueTable": false,
-        "homeTeam": "הפ' רעננה",
-        "awayTeam": "הפועל חדרה",
-        "homeScore": 4,
-        "awayScore": 1,
-        "dateTime": "2026-08-25T15:00:00.000Z",
-        "hasTime": true,
-        "venue": "בת ים אצטדיון טוטו",
         "round": 3
       },
       {
@@ -586,6 +586,20 @@
         "round": 5
       },
       {
+        "id": "s28-l101-r5-1131-vs-2429",
+        "homeTeamId": "1131",
+        "awayTeamId": "2429",
+        "excludeFromLeagueTable": false,
+        "homeTeam": "מכבי חיפה",
+        "awayTeam": "הפועל חדרה",
+        "homeScore": 3,
+        "awayScore": 1,
+        "dateTime": "2026-09-05T17:20:00.000Z",
+        "hasTime": true,
+        "venue": "חיפה קצף תחתון",
+        "round": 5
+      },
+      {
         "id": "s28-l101-r5-1073-vs-2367",
         "homeTeamId": "1073",
         "awayTeamId": "2367",
@@ -611,20 +625,6 @@
         "dateTime": "2026-09-05T17:20:00.000Z",
         "hasTime": true,
         "venue": "הרצליה אצטדיון טוטו",
-        "round": 5
-      },
-      {
-        "id": "s28-l101-r5-1131-vs-2429",
-        "homeTeamId": "1131",
-        "awayTeamId": "2429",
-        "excludeFromLeagueTable": false,
-        "homeTeam": "מכבי חיפה",
-        "awayTeam": "הפועל חדרה",
-        "homeScore": 3,
-        "awayScore": 1,
-        "dateTime": "2026-09-05T17:20:00.000Z",
-        "hasTime": true,
-        "venue": "חיפה קצף תחתון",
         "round": 5
       },
       {

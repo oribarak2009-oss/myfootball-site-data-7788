@@ -1412,20 +1412,6 @@
         "round": 12
       },
       {
-        "id": "s28-l726-r12-1200-vs-4865",
-        "homeTeamId": "1200",
-        "awayTeamId": "4865",
-        "excludeFromLeagueTable": false,
-        "homeTeam": "מ.ס אשדוד",
-        "awayTeam": "נוף הגליל",
-        "homeScore": 0,
-        "awayScore": 0,
-        "dateTime": "2026-11-14T09:00:00.000Z",
-        "hasTime": true,
-        "venue": "אשדוד סינטטי",
-        "round": 12
-      },
-      {
         "id": "s28-l726-r12-2303-vs-2412",
         "homeTeamId": "2303",
         "awayTeamId": "2412",
@@ -1437,6 +1423,20 @@
         "dateTime": "2026-11-14T09:00:00.000Z",
         "hasTime": true,
         "venue": "תל אביב וולפסון 2",
+        "round": 12
+      },
+      {
+        "id": "s28-l726-r12-1200-vs-4865",
+        "homeTeamId": "1200",
+        "awayTeamId": "4865",
+        "excludeFromLeagueTable": false,
+        "homeTeam": "מ.ס אשדוד",
+        "awayTeam": "נוף הגליל",
+        "homeScore": 0,
+        "awayScore": 0,
+        "dateTime": "2026-11-14T09:00:00.000Z",
+        "hasTime": true,
+        "venue": "אשדוד סינטטי",
         "round": 12
       },
       {
@@ -1552,20 +1552,6 @@
         "round": 13
       },
       {
-        "id": "s28-l726-r13-1200-vs-2412",
-        "homeTeamId": "2412",
-        "awayTeamId": "1200",
-        "excludeFromLeagueTable": false,
-        "homeTeam": "הפועל כפ\"ס",
-        "awayTeam": "מ.ס אשדוד",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-11-21T10:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
-        "round": 13
-      },
-      {
         "id": "s28-l726-r13-2294-vs-2303",
         "homeTeamId": "2294",
         "awayTeamId": "2303",
@@ -1633,6 +1619,20 @@
         "dateTime": "2026-11-21T12:30:00.000Z",
         "hasTime": true,
         "venue": "חדרה מתחם אימונים סינטטי",
+        "round": 13
+      },
+      {
+        "id": "s28-l726-r13-1200-vs-2412",
+        "homeTeamId": "2412",
+        "awayTeamId": "1200",
+        "excludeFromLeagueTable": false,
+        "homeTeam": "הפועל כפ\"ס",
+        "awayTeam": "מ.ס אשדוד",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-11-21T13:30:00.000Z",
+        "hasTime": true,
+        "venue": "כפר סבא אימונים תחתון (סינטטי)",
         "round": 13
       },
       {

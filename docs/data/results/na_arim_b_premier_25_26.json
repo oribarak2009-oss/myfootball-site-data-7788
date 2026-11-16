@@ -1644,9 +1644,9 @@
         "awayTeam": "קרית שמונה",
         "homeScore": null,
         "awayScore": null,
-        "dateTime": "2026-11-20T10:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
+        "dateTime": "2026-11-20T09:30:00.000Z",
+        "hasTime": true,
+        "venue": "תל אביב וולפסון 2",
         "round": 11
       },
       {

@@ -1756,9 +1756,9 @@
         "awayTeam": "בית\"ר י-ם",
         "homeScore": null,
         "awayScore": null,
-        "dateTime": "2026-11-23T10:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
+        "dateTime": "2026-11-23T12:15:00.000Z",
+        "hasTime": true,
+        "venue": "נתניה שפירא",
         "round": 7
       },
       {

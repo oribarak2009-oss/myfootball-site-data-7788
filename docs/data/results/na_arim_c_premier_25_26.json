@@ -1580,20 +1580,6 @@
         "round": 13
       },
       {
-        "id": "s28-l824-r13-1338-vs-2231",
-        "homeTeamId": "2231",
-        "awayTeamId": "1338",
-        "excludeFromLeagueTable": false,
-        "homeTeam": "הפועל ק\"ש",
-        "awayTeam": "מכבי ת\"א",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-11-28T10:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
-        "round": 13
-      },
-      {
         "id": "s28-l824-r13-1076-vs-1231",
         "homeTeamId": "1076",
         "awayTeamId": "1231",
@@ -1647,6 +1633,20 @@
         "dateTime": "2026-11-28T10:00:00.000Z",
         "hasTime": false,
         "venue": null,
+        "round": 13
+      },
+      {
+        "id": "s28-l824-r13-1338-vs-2231",
+        "homeTeamId": "2231",
+        "awayTeamId": "1338",
+        "excludeFromLeagueTable": false,
+        "homeTeam": "הפועל ק\"ש",
+        "awayTeam": "מכבי ת\"א",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-11-28T12:30:00.000Z",
+        "hasTime": true,
+        "venue": "קרית שמונה סינטטי חדש",
         "round": 13
       },
       {

@@ -1552,20 +1552,6 @@
         "round": 13
       },
       {
-        "id": "s28-l824-r13-1076-vs-1231",
-        "homeTeamId": "1076",
-        "awayTeamId": "1231",
-        "excludeFromLeagueTable": false,
-        "homeTeam": "מכבי הרצליה",
-        "awayTeam": "מכבי פ\"ת",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-11-28T10:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
-        "round": 13
-      },
-      {
         "id": "s28-l824-r13-2204-vs-4006",
         "homeTeamId": "4006",
         "awayTeamId": "2204",
@@ -1633,6 +1619,20 @@
         "dateTime": "2026-11-28T14:30:00.000Z",
         "hasTime": true,
         "venue": "כפר סבא אימונים תחתון (סינטטי)",
+        "round": 13
+      },
+      {
+        "id": "s28-l824-r13-1076-vs-1231",
+        "homeTeamId": "1076",
+        "awayTeamId": "1231",
+        "excludeFromLeagueTable": false,
+        "homeTeam": "מכבי הרצליה",
+        "awayTeam": "מכבי פ\"ת",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-11-28T18:00:00.000Z",
+        "hasTime": true,
+        "venue": "הרצליה רן 1",
         "round": 13
       },
       {

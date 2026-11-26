@@ -670,20 +670,6 @@
         "round": 5
       },
       {
-        "id": "s28-l163-r5-5485-vs-6366",
-        "homeTeamId": "5485",
-        "awayTeamId": "6366",
-        "excludeFromLeagueTable": false,
-        "homeTeam": "מכבי פ\"ת צפון",
-        "awayTeam": "הפ' א.א פאחם",
-        "homeScore": null,
-        "awayScore": null,
-        "dateTime": "2026-11-28T08:30:00.000Z",
-        "hasTime": true,
-        "venue": "פתח תקוה מושבה צפוני חדש",
-        "round": 5
-      },
-      {
         "id": "s28-l163-r5-2096-vs-8611",
         "homeTeamId": "2096",
         "awayTeamId": "8611",
@@ -698,17 +684,17 @@
         "round": 5
       },
       {
-        "id": "s28-l163-r5-3684-vs-6103",
-        "homeTeamId": "3684",
-        "awayTeamId": "6103",
+        "id": "s28-l163-r5-5485-vs-6366",
+        "homeTeamId": "5485",
+        "awayTeamId": "6366",
         "excludeFromLeagueTable": false,
-        "homeTeam": "מ.ס עמק חפר",
-        "awayTeam": "נוה יוסף",
+        "homeTeam": "מכבי פ\"ת צפון",
+        "awayTeam": "הפ' א.א פאחם",
         "homeScore": null,
         "awayScore": null,
-        "dateTime": "2026-11-28T10:00:00.000Z",
-        "hasTime": false,
-        "venue": null,
+        "dateTime": "2026-11-28T08:30:00.000Z",
+        "hasTime": true,
+        "venue": "פתח תקוה מושבה צפוני חדש",
         "round": 5
       },
       {
@@ -737,6 +723,20 @@
         "dateTime": "2026-11-28T10:45:00.000Z",
         "hasTime": true,
         "venue": "כפר סבא קפלן",
+        "round": 5
+      },
+      {
+        "id": "s28-l163-r5-3684-vs-6103",
+        "homeTeamId": "3684",
+        "awayTeamId": "6103",
+        "excludeFromLeagueTable": false,
+        "homeTeam": "מ.ס עמק חפר",
+        "awayTeam": "נוה יוסף",
+        "homeScore": null,
+        "awayScore": null,
+        "dateTime": "2026-11-28T11:30:00.000Z",
+        "hasTime": true,
+        "venue": "כפר ג'ת המשולש",
         "round": 5
       },
       {
@@ -818,7 +818,7 @@
         "awayTeam": "מכבי עמק חפר",
         "homeScore": null,
         "awayScore": null,
-        "dateTime": "2026-11-30T18:00:00.000Z",
+        "dateTime": "2026-12-01T14:30:00.000Z",
         "hasTime": true,
         "venue": "חדרה רמדה",
         "round": 5
